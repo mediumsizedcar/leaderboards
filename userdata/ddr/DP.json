@@ -1,1 +1,24 @@
-{"lastUpdate": 1773802047779.819, "profiles": [{"id": 1085, "name": "Litter", "ratings": {"flareSkill": 0}, "classes": {"flare": "NONE"}, "mostRecentScoreTimeAchieved": 1726030380000, "totalScores": 2, "rankingData": {"flareSkill": {"ranking": 42, "outOf": 43}}, "playtime": 180000}]}
+{
+	"lastUpdate": 1773806926533.483,
+	"profiles": [
+		{
+			"id": 1085,
+			"name": "Litter",
+			"ratings": {
+				"flareSkill": 0
+			},
+			"classes": {
+				"flare": "NONE"
+			},
+			"mostRecentScoreTimeAchieved": 1726030380000,
+			"totalScores": 2,
+			"rankingData": {
+				"flareSkill": {
+					"ranking": 42,
+					"outOf": 43
+				}
+			},
+			"playtime": 180000
+		}
+	]
+}

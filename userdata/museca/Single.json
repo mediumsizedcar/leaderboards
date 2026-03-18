@@ -1,1 +1,39 @@
-{"lastUpdate": 1773802047779.819, "profiles": [{"id": 1750, "name": "ryona", "ratings": {"curatorSkill": 5328}, "classes": {}, "mostRecentScoreTimeAchieved": 1754273640000, "totalScores": 9, "rankingData": {"curatorSkill": {"ranking": 50, "outOf": 69}}, "playtime": 2100000}, {"id": 1703, "name": "Rythmik", "ratings": {"curatorSkill": 3050}, "classes": {}, "mostRecentScoreTimeAchieved": 1724609220000, "totalScores": 4, "rankingData": {"curatorSkill": {"ranking": 57, "outOf": 69}}, "playtime": 360000}]}
+{
+	"lastUpdate": 1773806926533.483,
+	"profiles": [
+		{
+			"id": 1750,
+			"name": "ryona",
+			"ratings": {
+				"curatorSkill": 5328
+			},
+			"classes": {},
+			"mostRecentScoreTimeAchieved": 1754273640000,
+			"totalScores": 9,
+			"rankingData": {
+				"curatorSkill": {
+					"ranking": 50,
+					"outOf": 69
+				}
+			},
+			"playtime": 2100000
+		},
+		{
+			"id": 1703,
+			"name": "Rythmik",
+			"ratings": {
+				"curatorSkill": 3050
+			},
+			"classes": {},
+			"mostRecentScoreTimeAchieved": 1724609220000,
+			"totalScores": 4,
+			"rankingData": {
+				"curatorSkill": {
+					"ranking": 57,
+					"outOf": 69
+				}
+			},
+			"playtime": 360000
+		}
+	]
+}

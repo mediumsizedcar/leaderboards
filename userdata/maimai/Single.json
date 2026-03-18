@@ -1,1 +1,43 @@
-{"lastUpdate": 1773802047779.819, "profiles": [{"id": 2024, "name": "ItzFishy", "ratings": {"naiveRate": 15.150999999999998}, "classes": {"colour": "RAINBOW"}, "mostRecentScoreTimeAchieved": 1759622722000, "totalScores": 1722, "rankingData": {"naiveRate": {"ranking": 32, "outOf": 305}}, "playtime": 579699000}, {"id": 1703, "name": "Rythmik", "ratings": {"naiveRate": 12.521000000000003}, "classes": {"colour": "PURPLE"}, "mostRecentScoreTimeAchieved": 1742692726000, "totalScores": 342, "rankingData": {"naiveRate": {"ranking": 116, "outOf": 305}}, "playtime": 134763000}]}
+{
+	"lastUpdate": 1773806926533.483,
+	"profiles": [
+		{
+			"id": 2024,
+			"name": "ItzFishy",
+			"ratings": {
+				"naiveRate": 15.150999999999998
+			},
+			"classes": {
+				"colour": "RAINBOW"
+			},
+			"mostRecentScoreTimeAchieved": 1759622722000,
+			"totalScores": 1722,
+			"rankingData": {
+				"naiveRate": {
+					"ranking": 32,
+					"outOf": 305
+				}
+			},
+			"playtime": 579699000
+		},
+		{
+			"id": 1703,
+			"name": "Rythmik",
+			"ratings": {
+				"naiveRate": 12.521000000000003
+			},
+			"classes": {
+				"colour": "PURPLE"
+			},
+			"mostRecentScoreTimeAchieved": 1742692726000,
+			"totalScores": 342,
+			"rankingData": {
+				"naiveRate": {
+					"ranking": 116,
+					"outOf": 305
+				}
+			},
+			"playtime": 134763000
+		}
+	]
+}

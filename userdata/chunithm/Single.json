@@ -1,1 +1,143 @@
-{"lastUpdate": 1773802047779.819, "profiles": [{"id": 1751, "name": "Andripula", "ratings": {"naiveRating": 15.07}, "classes": {"colour": "GOLD"}, "mostRecentScoreTimeAchieved": 1743275752000, "totalScores": 330, "rankingData": {"naiveRating": {"ranking": 796, "outOf": 1535}}, "playtime": 179971000}, {"id": 1552, "name": "eclair", "ratings": {"naiveRating": 16.15}, "classes": {"colour": "RAINBOW", "dan": "DAN_IV"}, "mostRecentScoreTimeAchieved": 1760217885000, "totalScores": 3425, "rankingData": {"naiveRating": {"ranking": 396, "outOf": 1535}}, "playtime": 1256993000}, {"id": 2024, "name": "ItzFishy", "ratings": {"naiveRating": 17.19}, "classes": {"colour": "RAINBOW_EX_I", "dan": "DAN_V", "emblem": "DAN_IV"}, "mostRecentScoreTimeAchieved": 1773706631000, "totalScores": 4660, "rankingData": {"naiveRating": {"ranking": 75, "outOf": 1535}}, "playtime": 1271813000}, {"id": 1085, "name": "Litter", "ratings": {"naiveRating": 11.17}, "classes": {"colour": "PURPLE"}, "mostRecentScoreTimeAchieved": 1773284333000, "totalScores": 58, "rankingData": {"naiveRating": {"ranking": 1303, "outOf": 1535}}, "playtime": 15768000}, {"id": 1750, "name": "ryona", "ratings": {"naiveRating": 16.12}, "classes": {"colour": "RAINBOW", "dan": "DAN_IV"}, "mostRecentScoreTimeAchieved": 1773622781000, "totalScores": 1346, "rankingData": {"naiveRating": {"ranking": 407, "outOf": 1535}}, "playtime": 394353000}, {"id": 1703, "name": "Rythmik", "ratings": {"naiveRating": 17.45}, "classes": {"dan": "DAN_INFINITE", "colour": "RAINBOW_EX_II"}, "mostRecentScoreTimeAchieved": 1773799251000, "totalScores": 11121, "rankingData": {"naiveRating": {"ranking": 24, "outOf": 1535}}, "playtime": 356152000}, {"id": 397, "name": "The_Manwich", "ratings": {"naiveRating": 16.23}, "classes": {"colour": "RAINBOW"}, "mostRecentScoreTimeAchieved": 1754795406000, "totalScores": 1027, "rankingData": {"naiveRating": {"ranking": 358, "outOf": 1535}}, "playtime": 481754381}]}
+{
+	"lastUpdate": 1773806926533.483,
+	"profiles": [
+		{
+			"id": 1751,
+			"name": "Andripula",
+			"ratings": {
+				"naiveRating": 15.07
+			},
+			"classes": {
+				"colour": "GOLD"
+			},
+			"mostRecentScoreTimeAchieved": 1743275752000,
+			"totalScores": 330,
+			"rankingData": {
+				"naiveRating": {
+					"ranking": 796,
+					"outOf": 1535
+				}
+			},
+			"playtime": 179971000
+		},
+		{
+			"id": 1552,
+			"name": "eclair",
+			"ratings": {
+				"naiveRating": 16.15
+			},
+			"classes": {
+				"colour": "RAINBOW",
+				"dan": "DAN_IV"
+			},
+			"mostRecentScoreTimeAchieved": 1760217885000,
+			"totalScores": 3425,
+			"rankingData": {
+				"naiveRating": {
+					"ranking": 396,
+					"outOf": 1535
+				}
+			},
+			"playtime": 1256993000
+		},
+		{
+			"id": 2024,
+			"name": "ItzFishy",
+			"ratings": {
+				"naiveRating": 17.19
+			},
+			"classes": {
+				"colour": "RAINBOW_EX_I",
+				"dan": "DAN_V",
+				"emblem": "DAN_IV"
+			},
+			"mostRecentScoreTimeAchieved": 1773706631000,
+			"totalScores": 4660,
+			"rankingData": {
+				"naiveRating": {
+					"ranking": 75,
+					"outOf": 1535
+				}
+			},
+			"playtime": 1271813000
+		},
+		{
+			"id": 1085,
+			"name": "Litter",
+			"ratings": {
+				"naiveRating": 11.17
+			},
+			"classes": {
+				"colour": "PURPLE"
+			},
+			"mostRecentScoreTimeAchieved": 1773284333000,
+			"totalScores": 58,
+			"rankingData": {
+				"naiveRating": {
+					"ranking": 1303,
+					"outOf": 1535
+				}
+			},
+			"playtime": 15768000
+		},
+		{
+			"id": 1750,
+			"name": "ryona",
+			"ratings": {
+				"naiveRating": 16.12
+			},
+			"classes": {
+				"colour": "RAINBOW",
+				"dan": "DAN_IV"
+			},
+			"mostRecentScoreTimeAchieved": 1773622781000,
+			"totalScores": 1346,
+			"rankingData": {
+				"naiveRating": {
+					"ranking": 407,
+					"outOf": 1535
+				}
+			},
+			"playtime": 394353000
+		},
+		{
+			"id": 1703,
+			"name": "Rythmik",
+			"ratings": {
+				"naiveRating": 17.45
+			},
+			"classes": {
+				"dan": "DAN_INFINITE",
+				"colour": "RAINBOW_EX_II"
+			},
+			"mostRecentScoreTimeAchieved": 1773799251000,
+			"totalScores": 11121,
+			"rankingData": {
+				"naiveRating": {
+					"ranking": 24,
+					"outOf": 1535
+				}
+			},
+			"playtime": 356152000
+		},
+		{
+			"id": 397,
+			"name": "The_Manwich",
+			"ratings": {
+				"naiveRating": 16.23
+			},
+			"classes": {
+				"colour": "RAINBOW"
+			},
+			"mostRecentScoreTimeAchieved": 1754795406000,
+			"totalScores": 1027,
+			"rankingData": {
+				"naiveRating": {
+					"ranking": 358,
+					"outOf": 1535
+				}
+			},
+			"playtime": 481754381
+		}
+	]
+}
