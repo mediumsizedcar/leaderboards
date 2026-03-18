@@ -64,18 +64,21 @@ function draw(sort) {
 
 	for (let i = 0; i < profiles.length; i++) {
 		const profile = profiles[i];
+		const colour = profile.ratings.naiveRate >= 16000 ? "rainbow_ex" : profile.classes.colour.toLowerCase();
 		const tr = document.createElement("tr");
-		tr.classList.add(profile.ratings.naiveRate >= 16000 ? "rainbow_ex" : profile.classes.colour.toLowerCase());
 
 		tr.appendChild(document.createElement("td"));
 		tr.lastChild.classList.add("num");
+		tr.lastChild.classList.add(colour);
 		tr.lastChild.appendChild(document.createTextNode(i + 1));
 
 		tr.appendChild(document.createElement("td"));
 		tr.lastChild.classList.add("num");
+		tr.lastChild.classList.add(colour);
 		tr.lastChild.appendChild(document.createTextNode(profile.rankingData.naiveRate.ranking));
 
 		tr.appendChild(document.createElement("td"));
+		tr.lastChild.classList.add(colour);
 		let a = document.createElement("a")
 		a.href = "https://kamai.tachi.ac/u/" + profile.id + "/games/maimaidx/Single"
 		tr.lastChild.appendChild(a);
@@ -83,24 +86,30 @@ function draw(sort) {
 
 		tr.appendChild(document.createElement("td"));
 		tr.lastChild.classList.add("num");
+		tr.lastChild.classList.add(colour);
 		tr.lastChild.appendChild(document.createTextNode(profile.ratings.naiveRate));
 
 		tr.appendChild(document.createElement("td"));
+		tr.lastChild.classList.add(colour);
 		tr.lastChild.appendChild(document.createTextNode(profile.classes.dan));
 
 		tr.appendChild(document.createElement("td"));
+		tr.lastChild.classList.add(colour);
 		tr.lastChild.appendChild(document.createTextNode(profile.classes.matchingClass));
 
 		tr.appendChild(document.createElement("td"));
 		tr.lastChild.classList.add("num");
+		tr.lastChild.classList.add(colour);
 		tr.lastChild.appendChild(document.createTextNode(profile.totalScores));
 
 		tr.appendChild(document.createElement("td"));
 		tr.lastChild.classList.add("num");
+		tr.lastChild.classList.add(colour);
 		tr.lastChild.appendChild(document.createTextNode(getTimedeltaString(new Date() - profile.mostRecentScoreTimeAchieved, true)));
 
 		tr.appendChild(document.createElement("td"));
 		tr.lastChild.classList.add("num");
+		tr.lastChild.classList.add(colour);
 		tr.lastChild.appendChild(document.createTextNode(getTimedeltaString(profile.playtime, false)));
 
 		tbody.appendChild(tr);

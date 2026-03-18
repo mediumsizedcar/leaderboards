@@ -64,18 +64,21 @@ function draw(sort) {
 
 	for (let i = 0; i < profiles.length; i++) {
 		const profile = profiles[i];
+		const colour = profile.classes.colour.toLowerCase();
 		const tr = document.createElement("tr");
-		tr.classList.add(profile.classes.colour.toLowerCase());
 
 		tr.appendChild(document.createElement("td"));
 		tr.lastChild.classList.add("num");
+		tr.lastChild.classList.add(colour);
 		tr.lastChild.appendChild(document.createTextNode(i + 1));
 
 		tr.appendChild(document.createElement("td"));
 		tr.lastChild.classList.add("num");
+		tr.lastChild.classList.add(colour);
 		tr.lastChild.appendChild(document.createTextNode(profile.rankingData.naiveRatingRefresh.ranking));
 
 		tr.appendChild(document.createElement("td"));
+		tr.lastChild.classList.add(colour);
 		let a = document.createElement("a")
 		a.href = "https://kamai.tachi.ac/u/" + profile.id + "/games/ongeki/Single"
 		tr.lastChild.appendChild(a);
@@ -83,6 +86,7 @@ function draw(sort) {
 
 		tr.appendChild(document.createElement("td"));
 		tr.lastChild.classList.add("num");
+		tr.lastChild.classList.add(colour);
 		a = document.createElement("a")
 		a.href = "https://kamai.tachi.ac/u/" + profile.id + "/games/ongeki/Single/utils/refresh-rating"
 		tr.lastChild.appendChild(a);
@@ -90,14 +94,17 @@ function draw(sort) {
 
 		tr.appendChild(document.createElement("td"));
 		tr.lastChild.classList.add("num");
+		tr.lastChild.classList.add(colour);
 		tr.lastChild.appendChild(document.createTextNode(profile.totalScores));
 
 		tr.appendChild(document.createElement("td"));
 		tr.lastChild.classList.add("num");
+		tr.lastChild.classList.add(colour);
 		tr.lastChild.appendChild(document.createTextNode(getTimedeltaString(new Date() - profile.mostRecentScoreTimeAchieved, true)));
 
 		tr.appendChild(document.createElement("td"));
 		tr.lastChild.classList.add("num");
+		tr.lastChild.classList.add(colour);
 		tr.lastChild.appendChild(document.createTextNode(getTimedeltaString(profile.playtime, false)));
 
 		tbody.appendChild(tr);

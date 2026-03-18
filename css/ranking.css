@@ -58,9 +58,9 @@ a {
 	text-decoration: none !important;
 }
 
-a:visited {
-	color: inherit;
-}
+	a:visited {
+		color: inherit;
+	}
 
 tr:nth-child(2n) {
 	background-color: #111;
