@@ -11,6 +11,7 @@ API_ROUTE = "/api/v1"
 
 NOW = datetime.datetime.now(datetime.UTC)
 TIMESTAMP = NOW.timestamp() * 1000
+CWD = Path(__file__).parent
 
 def dump(users: list[dict[str, str]], game: str, playtype: str) -> None:
 	userdata = {"lastUpdate": TIMESTAMP, "profiles": []}
@@ -33,7 +34,7 @@ def dump(users: list[dict[str, str]], game: str, playtype: str) -> None:
 		userdata["profiles"].append(profile)
 
 	if userdata:
-		userdata_dir = Path("../userdata") / game
+		userdata_dir = CWD.parent / "userdata" / game
 		userdata_dir.mkdir(parents=True, exist_ok=True)
 		with open(userdata_dir / f"{playtype}.json", mode="w", encoding="utf-8") as userdata_file:
 			json.dump(userdata, userdata_file, indent="\t")
@@ -56,7 +57,7 @@ def main() -> None:
 	else:
 		(game, playtype) = gpts[i]
 
-	with open("users.json", mode="r", encoding="utf-8") as users_file:
+	with open(CWD / "users.json", mode="r", encoding="utf-8") as users_file:
 		users = json.load(users_file)
 	
 	if dump_all:
