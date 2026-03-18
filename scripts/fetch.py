@@ -34,10 +34,12 @@ def dump(users: list[dict[str, str]], game: str, playtype: str) -> None:
 		userdata["profiles"].append(profile)
 
 	if userdata:
-		userdata_dir = CWD.parent / "userdata" / game
-		userdata_dir.mkdir(parents=True, exist_ok=True)
-		with open(userdata_dir / f"{playtype}.json", mode="w", encoding="utf-8") as userdata_file:
+		userdata_dir_path = CWD.parent / "userdata" / game
+		userdata_dir_path.mkdir(parents=True, exist_ok=True)
+		userdata_file_path = userdata_dir_path / f"{playtype}.json"
+		with open(userdata_file_path, mode="w", encoding="utf-8") as userdata_file:
 			json.dump(userdata, userdata_file, indent="\t")
+		print(f"\t{userdata_file_path}")
 
 def main() -> None:
 	r = requests.get(BASE_URL + API_ROUTE + "/games").json()
