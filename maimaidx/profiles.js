@@ -65,7 +65,7 @@ function draw(sort) {
 	for (let i = 0; i < profiles.length; i++) {
 		const profile = profiles[i];
 		const tr = document.createElement("tr");
-		tr.classList.add(profile.classes.colour.toLowerCase());
+		tr.classList.add(profile.ratings.naiveRate >= 16000 ? "rainbow_ex" : profile.classes.colour.toLowerCase());
 
 		tr.appendChild(document.createElement("td"));
 		tr.lastChild.classList.add("num");
