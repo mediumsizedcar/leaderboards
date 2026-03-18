@@ -63,6 +63,8 @@ function draw(sort) {
 		tr.appendChild(document.createElement("td"));
 		tr.lastChild.classList.add("num");
 		tr.lastChild.appendChild(document.createTextNode(getTimedeltaString(profile.playtime, false)));
+
+		document.querySelector("tbody").appendChild(tr);
 	}
 }
 
