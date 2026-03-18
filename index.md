@@ -1,1 +1,3 @@
 - [O.N.G.E.K.I.](./ongeki)
+- [CHUNITHM](./chunithm)
+- [maimai DX](./maimaidx)
