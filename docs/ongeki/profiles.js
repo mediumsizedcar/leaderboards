@@ -29,6 +29,39 @@ const main = async () => {
 };
 
 function draw(sort) {
+	const tbody = document.querySelector("tbody");
+
+	switch (sort) {
+		case 1:
+			tbody.innerHTML = "";
+			profiles.sort((a, b) => {
+				if (a.name < b.name) {
+					return -1;
+				}
+				if (a.name > b.name) {
+					return 1;
+				}
+				return 0;
+			});
+			break;
+		case 2:
+			tbody.innerHTML = "";
+			profiles.sort((a, b) => { return b.totalScores - a.totalScores });
+			break;
+		case 3:
+			tbody.innerHTML = "";
+			profiles.sort((a, b) => { return b.mostRecentScoreTimeAchieved - a.mostRecentScoreTimeAchieved });
+			break;
+		case 4:
+			tbody.innerHTML = "";
+			profiles.sort((a, b) => { return b.playtime - a.playtime });
+			break;
+		default:
+			tbody.innerHTML = "";
+			profiles.sort((a, b) => { return b.rating_refresh - a.rating_refresh });
+			break;
+	}
+
 	for (let i = 0; i < profiles.length; i++) {
 		const profile = profiles[i];
 		const tr = document.createElement("tr");
@@ -40,17 +73,20 @@ function draw(sort) {
 
 		tr.appendChild(document.createElement("td"));
 		tr.lastChild.classList.add("num");
+		tr.lastChild.appendChild(document.createTextNode(profile.rankingData.naiveRatingRefresh.ranking));
+
+		tr.appendChild(document.createElement("td"));
 		let a = document.createElement("a")
 		a.href = "https://kamai.tachi.ac/u/" + profile.id + "/games/ongeki/Single"
 		tr.lastChild.appendChild(a);
-		a.appendChild(document.createTextNode(profile.rankingData.naiveRatingRefresh.ranking));
-
-		tr.appendChild(document.createElement("td"));
-		tr.lastChild.appendChild(document.createTextNode(profile.name));
+		a.appendChild(document.createTextNode(profile.name));
 
 		tr.appendChild(document.createElement("td"));
 		tr.lastChild.classList.add("num");
-		tr.lastChild.appendChild(document.createTextNode(profile.ratings.naiveRatingRefresh.toFixed(3)));
+		let a = document.createElement("a")
+		a.href = "https://kamai.tachi.ac/u/" + profile.id + "/games/ongeki/Single/utils/refresh-rating"
+		tr.lastChild.appendChild(a);
+		a.appendChild(document.createTextNode(profile.ratings.naiveRatingRefresh.toFixed(3)));
 
 		tr.appendChild(document.createElement("td"));
 		tr.lastChild.classList.add("num");
@@ -64,7 +100,7 @@ function draw(sort) {
 		tr.lastChild.classList.add("num");
 		tr.lastChild.appendChild(document.createTextNode(getTimedeltaString(profile.playtime, false)));
 
-		document.querySelector("tbody").appendChild(tr);
+		tbody.appendChild(tr);
 	}
 }
 
