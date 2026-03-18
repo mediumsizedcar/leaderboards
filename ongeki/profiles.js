@@ -58,7 +58,7 @@ function draw(sort) {
 			break;
 		default:
 			tbody.innerHTML = "";
-			profiles.sort((a, b) => { return b.rating_refresh - a.rating_refresh });
+			profiles.sort((a, b) => { return b.ratings.naiveRatingRefresh - a.ratings.naiveRatingRefresh });
 			break;
 	}
 
