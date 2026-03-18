@@ -33,7 +33,7 @@ def dump(users: list[dict[str, str]], game: str, playtype: str) -> None:
 		userdata["profiles"].append(profile)
 
 	if userdata:
-		userdata_dir = Path("../site/userdata") / game
+		userdata_dir = Path("../userdata") / game
 		userdata_dir.mkdir(parents=True, exist_ok=True)
 		with open(userdata_dir / f"{playtype}.json", mode="w", encoding="utf-8") as userdata_file:
 			json.dump(userdata, userdata_file, indent="\t")

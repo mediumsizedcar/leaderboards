@@ -83,7 +83,7 @@ function draw(sort) {
 
 		tr.appendChild(document.createElement("td"));
 		tr.lastChild.classList.add("num");
-		let a = document.createElement("a")
+		a = document.createElement("a")
 		a.href = "https://kamai.tachi.ac/u/" + profile.id + "/games/ongeki/Single/utils/refresh-rating"
 		tr.lastChild.appendChild(a);
 		a.appendChild(document.createTextNode(profile.ratings.naiveRatingRefresh.toFixed(3)));
