@@ -1,0 +1,222 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	color: white;
+	background-color: black;
+}
+
+div {
+	width: 100%;
+	display: flex;
+}
+
+button, input {
+	flex: 1;
+	height: 5vh;
+	font-size: 1.8vh;
+	color: white;
+	background: none;
+	border: 1px white solid;
+}
+
+@keyframes rate {
+	0% {
+		background-position: 0 0;
+	}
+
+	100% {
+		background-position: 200% 0;
+	}
+}
+
+@keyframes rate2 {
+	0% {
+		background-position: 0 0;
+	}
+
+	100% {
+		background-position: 150% 0;
+	}
+}
+
+th, tr {
+	text-align: center;
+	height: 3vh;
+	font-size: 1.8vh;
+	padding-top: 0.1vh;
+	padding-bottom: 0.1vh;
+}
+
+table {
+	width: 100%;
+}
+
+a {
+	text-decoration: none !important;
+}
+
+a:visited {
+	color: inherit;
+}
+
+tr:nth-child(2n) {
+	background-color: #111;
+}
+
+.pink {
+	color: #ff69ff;
+}
+
+.orange {
+	color: #ffa500;
+}
+
+.red {
+	color: #ff3939;
+}
+
+.scarlet {
+	color: #f85586;
+}
+
+.blue {
+	color: #6565f5;
+}
+
+.light_blue {
+	color: #87ceeb;
+}
+
+.purple {
+	color: #a829f1;
+}
+
+.green {
+	color: #3afd3a;
+}
+
+.yellow_green {
+	color: #9acd32;
+}
+
+.violet {
+	color: #ee82ee;
+}
+
+.black {
+	color: #fff;
+}
+
+.gold {
+	color: #ffd700;
+}
+
+.sienna {
+	color: #b4291f;
+}
+
+.rainbow,
+.rainbow_ii,
+.rainbow_iii,
+.rainbow_iv {
+	background: linear-gradient(-45deg, #f0788a, #f48fb1, #9174c2, #79bcf2, #70a173, #f7ff99, #faca7d, #ff9d80, #f0788a);
+	animation: rate 4s linear infinite;
+	background-size: 200% 100%;
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.rainbow_ex,
+.rainbow_ex_i,
+.rainbow_ex_ii,
+.rainbow_ex_iii {
+	background: linear-gradient(-45deg, rgb(15, 160, 145), rgb(15, 152, 213), rgb(103, 8, 127), rgb(217, 0, 126), rgb(245, 110, 6), rgb(217, 0, 126), rgb(103, 8, 127), rgb(15, 152, 213), rgb(15, 160, 145));
+	animation: rate 8s linear infinite;
+	background-size: 200% 100%;
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.rainbow_shiny {
+	background: linear-gradient(-45deg, #f0788a, #f48fb1, #9174c2, #79bcf2, #70a173, #f7ff99, #faca7d, #ff9d80, #f0788a);
+	animation: rate 4s linear infinite;
+	background-size: 200% 100%;
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+	text-shadow: #fff8 0 0 10px;
+}
+
+.platinum {
+	background: linear-gradient(-5deg, #c0c0c0, #ffffff, #bfbebe, #ffffff);
+	background-clip: text;
+	color: #fff;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.kiwami {
+	background: linear-gradient(-45deg, #6C4791, #6C4791, #3AFCD5, #3AFCD5, #FFFFFF, #2E2A58, #2E2A58, #2E2A58, #2E2A58, #6C4791, #6C4791, #3AFCD5, #3AFCD5, #FFFFFF, #2E2A58, #2E2A58, #2E2A58, #2E2A58, #6C4791, #6C4791);
+	animation: rate2 5s linear infinite;
+	background-size: 150% 100%;
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.old {
+	background: linear-gradient(-45deg, #935e75, #935e75, #777, #777, #935e75, #A55e75, #777, #777, #935e75);
+	animation: rate 10s linear infinite;
+	background-size: 200% 100%;
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.copper {
+	background: #A0522D;
+	background-clip: text;
+	color: #fff;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.yellow {
+	background: #FFA500;
+	background-clip: text;
+	color: #fff;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.navy {
+	background: #101179;
+	background-clip: text;
+	color: #fff;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.ash {
+	background: #757575;
+	background-clip: text;
+	color: #fff;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.gold {
+	background: linear-gradient(-45deg, #ffd700, #fff5a3, #ffd700, #ffd700, #fff5a3);
+	background-clip: text;
+	color: #fff;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.silver {
+	background: linear-gradient(-5deg, #818181, #c4c4c4, #8a8a8a, #c4c4c4);
+	background-clip: text;
+	color: #fff;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
