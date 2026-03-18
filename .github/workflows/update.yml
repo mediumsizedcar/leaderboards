@@ -36,4 +36,6 @@ jobs:
             git add site/userdata/*.json
             git commit -m "Update leaderboard" || exit 0
             git push
+          else
+            echo "No changes"
           fi
