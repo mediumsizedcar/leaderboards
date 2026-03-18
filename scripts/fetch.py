@@ -47,7 +47,7 @@ def main() -> None:
 		 for playtype in r["body"]["configs"][game]["playtypes"]]
 
 	i = (NOW.hour % 2 * 60 + NOW.minute) // 5
-	dump_all = len(sys.argv) >= 1 and sys.argv[1].lower() == "all"
+	dump_all = len(sys.argv) > 1 and sys.argv[1].lower() == "all"
 
 	if dump_all:
 		pass
