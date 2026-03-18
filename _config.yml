@@ -1,0 +1,16 @@
+title: Minnesota Rhythm Game Leaderboards
+plugins:
+  - jekyll-relative-links
+  - jekyll-remote-theme
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - COPYING.md
+  - ISSUE_TEMPLATE.md
+  - LICENSE.md
+  - PULL_REQUEST_TEMPLATE.md
+  - README.md
+remote_theme: pages-themes/midnight@v0.2.0
