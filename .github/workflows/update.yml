@@ -33,7 +33,7 @@ jobs:
           git config user.name "bot"
           git config user.email "bot@users.noreply.github.com"
           if [[ -n "$(git status --porcelain)" ]]; then
-            git add site/userdata/*.json
+            git add userdata/*.json
             git commit -m "Update leaderboard" || exit 0
             git push
           else
