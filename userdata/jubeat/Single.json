@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1773938325353.245,
+	"lastUpdate": 1774074939702.7979,
 	"profiles": [
 		{
 			"id": 1750,
@@ -15,12 +15,12 @@
 			"totalScores": 3,
 			"rankingData": {
 				"jubility": {
-					"ranking": 171,
-					"outOf": 176
+					"ranking": 172,
+					"outOf": 177
 				},
 				"naiveJubility": {
-					"ranking": 171,
-					"outOf": 176
+					"ranking": 172,
+					"outOf": 177
 				}
 			},
 			"playtime": 540000
@@ -39,12 +39,12 @@
 			"totalScores": 56,
 			"rankingData": {
 				"jubility": {
-					"ranking": 113,
-					"outOf": 176
+					"ranking": 114,
+					"outOf": 177
 				},
 				"naiveJubility": {
-					"ranking": 131,
-					"outOf": 176
+					"ranking": 132,
+					"outOf": 177
 				}
 			},
 			"playtime": 28238000
