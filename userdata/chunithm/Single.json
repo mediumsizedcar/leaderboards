@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1774196063054.7422,
+	"lastUpdate": 1774419287489.804,
 	"profiles": [
 		{
 			"id": 1751,
@@ -14,8 +14,8 @@
 			"totalScores": 330,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 801,
-					"outOf": 1545
+					"ranking": 803,
+					"outOf": 1547
 				}
 			},
 			"playtime": 179971000
@@ -34,8 +34,8 @@
 			"totalScores": 3425,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 396,
-					"outOf": 1545
+					"ranking": 398,
+					"outOf": 1547
 				}
 			},
 			"playtime": 1256993000
@@ -44,22 +44,22 @@
 			"id": 2024,
 			"name": "ItzFishy",
 			"ratings": {
-				"naiveRating": 17.21
+				"naiveRating": 17.22
 			},
 			"classes": {
 				"colour": "RAINBOW_EX_I",
 				"dan": "DAN_V",
 				"emblem": "DAN_IV"
 			},
-			"mostRecentScoreTimeAchieved": 1774145266000,
-			"totalScores": 4723,
+			"mostRecentScoreTimeAchieved": 1774222566000,
+			"totalScores": 4778,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 74,
-					"outOf": 1545
+					"ranking": 73,
+					"outOf": 1547
 				}
 			},
-			"playtime": 1308408000
+			"playtime": 1325628000
 		},
 		{
 			"id": 1085,
@@ -74,8 +74,8 @@
 			"totalScores": 58,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1311,
-					"outOf": 1545
+					"ranking": 1315,
+					"outOf": 1547
 				}
 			},
 			"playtime": 15768000
@@ -84,21 +84,21 @@
 			"id": 1750,
 			"name": "ryona",
 			"ratings": {
-				"naiveRating": 16.13
+				"naiveRating": 16.2
 			},
 			"classes": {
 				"colour": "RAINBOW",
 				"dan": "DAN_IV"
 			},
-			"mostRecentScoreTimeAchieved": 1774141329000,
-			"totalScores": 1376,
+			"mostRecentScoreTimeAchieved": 1774403505000,
+			"totalScores": 1478,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 405,
-					"outOf": 1545
+					"ranking": 370,
+					"outOf": 1547
 				}
 			},
-			"playtime": 400668000
+			"playtime": 431982000
 		},
 		{
 			"id": 1703,
@@ -110,15 +110,15 @@
 				"dan": "DAN_INFINITE",
 				"colour": "RAINBOW_EX_II"
 			},
-			"mostRecentScoreTimeAchieved": 1774143180000,
-			"totalScores": 11379,
+			"mostRecentScoreTimeAchieved": 1774216573000,
+			"totalScores": 11389,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 24,
-					"outOf": 1545
+					"outOf": 1547
 				}
 			},
-			"playtime": 425210000
+			"playtime": 426756000
 		},
 		{
 			"id": 397,
@@ -134,7 +134,7 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 359,
-					"outOf": 1545
+					"outOf": 1547
 				}
 			},
 			"playtime": 481754381
