@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1774112461024.411,
+	"lastUpdate": 1774429443672.61,
 	"profiles": [
 		{
 			"id": 1751,
@@ -15,12 +15,12 @@
 			"totalScores": 115,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 362,
-					"outOf": 667
+					"ranking": 364,
+					"outOf": 668
 				},
 				"naiveRatingRefresh": {
-					"ranking": 357,
-					"outOf": 667
+					"ranking": 358,
+					"outOf": 668
 				}
 			},
 			"playtime": 37785900
@@ -29,49 +29,49 @@
 			"id": 1552,
 			"name": "eclair",
 			"ratings": {
-				"naiveRating": 16.02,
-				"naiveRatingRefresh": 19.656
+				"naiveRatingRefresh": 19.708,
+				"naiveRating": 16.06
 			},
 			"classes": {
 				"colour": "RAINBOW"
 			},
-			"mostRecentScoreTimeAchieved": 1773636251000,
-			"totalScores": 2211,
+			"mostRecentScoreTimeAchieved": 1774319987000,
+			"totalScores": 2263,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 88,
-					"outOf": 667
+					"ranking": 83,
+					"outOf": 668
 				},
 				"naiveRatingRefresh": {
-					"ranking": 59,
-					"outOf": 667
+					"ranking": 58,
+					"outOf": 668
 				}
 			},
-			"playtime": 761215900
+			"playtime": 773547900
 		},
 		{
 			"id": 2024,
 			"name": "ItzFishy",
 			"ratings": {
-				"naiveRating": 16.08,
-				"naiveRatingRefresh": 19.23
+				"naiveRating": 16.11,
+				"naiveRatingRefresh": 19.259
 			},
 			"classes": {
 				"colour": "RAINBOW"
 			},
-			"mostRecentScoreTimeAchieved": 1773963241000,
-			"totalScores": 366,
+			"mostRecentScoreTimeAchieved": 1774307211000,
+			"totalScores": 376,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 79,
-					"outOf": 667
+					"ranking": 77,
+					"outOf": 668
 				},
 				"naiveRatingRefresh": {
-					"ranking": 87,
-					"outOf": 667
+					"ranking": 84,
+					"outOf": 668
 				}
 			},
-			"playtime": 165971000
+			"playtime": 169837000
 		},
 		{
 			"id": 1085,
@@ -87,12 +87,12 @@
 			"totalScores": 3133,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 40,
-					"outOf": 667
+					"ranking": 41,
+					"outOf": 668
 				},
 				"naiveRatingRefresh": {
 					"ranking": 14,
-					"outOf": 667
+					"outOf": 668
 				}
 			},
 			"playtime": 928815400
@@ -102,24 +102,24 @@
 			"name": "ryona",
 			"ratings": {
 				"naiveRating": 16.71,
-				"naiveRatingRefresh": 21.175
+				"naiveRatingRefresh": 21.178
 			},
 			"classes": {
 				"colour": "RAINBOW_EX"
 			},
-			"mostRecentScoreTimeAchieved": 1773523581000,
-			"totalScores": 6169,
+			"mostRecentScoreTimeAchieved": 1774129555000,
+			"totalScores": 6199,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 20,
-					"outOf": 667
+					"outOf": 668
 				},
 				"naiveRatingRefresh": {
 					"ranking": 6,
-					"outOf": 667
+					"outOf": 668
 				}
 			},
-			"playtime": 1901827300
+			"playtime": 1909733300
 		},
 		{
 			"id": 1703,
@@ -136,11 +136,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 163,
-					"outOf": 667
+					"outOf": 668
 				},
 				"naiveRatingRefresh": {
-					"ranking": 180,
-					"outOf": 667
+					"ranking": 181,
+					"outOf": 668
 				}
 			},
 			"playtime": 119861300
@@ -160,11 +160,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 71,
-					"outOf": 667
+					"outOf": 668
 				},
 				"naiveRatingRefresh": {
 					"ranking": 76,
-					"outOf": 667
+					"outOf": 668
 				}
 			},
 			"playtime": 165351000
