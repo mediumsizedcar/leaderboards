@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1774436487019.956,
+	"lastUpdate": 1774566210478.62,
 	"profiles": [
 		{
 			"id": 1751,
@@ -16,11 +16,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 364,
-					"outOf": 668
+					"outOf": 671
 				},
 				"naiveRatingRefresh": {
-					"ranking": 358,
-					"outOf": 668
+					"ranking": 359,
+					"outOf": 671
 				}
 			},
 			"playtime": 37785900
@@ -40,11 +40,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 83,
-					"outOf": 668
+					"outOf": 671
 				},
 				"naiveRatingRefresh": {
 					"ranking": 58,
-					"outOf": 668
+					"outOf": 671
 				}
 			},
 			"playtime": 773547900
@@ -59,19 +59,19 @@
 			"classes": {
 				"colour": "RAINBOW"
 			},
-			"mostRecentScoreTimeAchieved": 1774307211000,
-			"totalScores": 376,
+			"mostRecentScoreTimeAchieved": 1774488153000,
+			"totalScores": 381,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 77,
-					"outOf": 668
+					"outOf": 671
 				},
 				"naiveRatingRefresh": {
-					"ranking": 84,
-					"outOf": 668
+					"ranking": 85,
+					"outOf": 671
 				}
 			},
-			"playtime": 169837000
+			"playtime": 170851000
 		},
 		{
 			"id": 1085,
@@ -88,11 +88,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 41,
-					"outOf": 668
+					"outOf": 671
 				},
 				"naiveRatingRefresh": {
 					"ranking": 14,
-					"outOf": 668
+					"outOf": 671
 				}
 			},
 			"playtime": 928815400
@@ -112,11 +112,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 20,
-					"outOf": 668
+					"outOf": 671
 				},
 				"naiveRatingRefresh": {
 					"ranking": 6,
-					"outOf": 668
+					"outOf": 671
 				}
 			},
 			"playtime": 1909733300
@@ -136,11 +136,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 163,
-					"outOf": 668
+					"outOf": 671
 				},
 				"naiveRatingRefresh": {
 					"ranking": 181,
-					"outOf": 668
+					"outOf": 671
 				}
 			},
 			"playtime": 119861300
@@ -159,12 +159,12 @@
 			"totalScores": 578,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 71,
-					"outOf": 668
+					"ranking": 72,
+					"outOf": 671
 				},
 				"naiveRatingRefresh": {
 					"ranking": 76,
-					"outOf": 668
+					"outOf": 671
 				}
 			},
 			"playtime": 165351000
