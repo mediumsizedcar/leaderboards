@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1774678280056.456,
+	"lastUpdate": 1774851106190.816,
 	"profiles": [
 		{
 			"id": 1751,
@@ -14,8 +14,8 @@
 			"totalScores": 330,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 810,
-					"outOf": 1556
+					"ranking": 813,
+					"outOf": 1561
 				}
 			},
 			"playtime": 179971000
@@ -35,7 +35,7 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 400,
-					"outOf": 1556
+					"outOf": 1561
 				}
 			},
 			"playtime": 1256993000
@@ -44,22 +44,22 @@
 			"id": 2024,
 			"name": "ItzFishy",
 			"ratings": {
-				"naiveRating": 17.22
+				"naiveRating": 17.24
 			},
 			"classes": {
 				"colour": "RAINBOW_EX_I",
 				"dan": "DAN_INFINITE",
 				"emblem": "DAN_IV"
 			},
-			"mostRecentScoreTimeAchieved": 1774586472000,
-			"totalScores": 4821,
+			"mostRecentScoreTimeAchieved": 1774827832000,
+			"totalScores": 4915,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 73,
-					"outOf": 1556
+					"ranking": 69,
+					"outOf": 1561
 				}
 			},
-			"playtime": 1346492000
+			"playtime": 1391915000
 		},
 		{
 			"id": 1085,
@@ -74,8 +74,8 @@
 			"totalScores": 58,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1327,
-					"outOf": 1556
+					"ranking": 1329,
+					"outOf": 1561
 				}
 			},
 			"playtime": 15768000
@@ -94,8 +94,8 @@
 			"totalScores": 1478,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 373,
-					"outOf": 1556
+					"ranking": 375,
+					"outOf": 1561
 				}
 			},
 			"playtime": 431982000
@@ -110,15 +110,15 @@
 				"dan": "DAN_INFINITE",
 				"colour": "RAINBOW_EX_II"
 			},
-			"mostRecentScoreTimeAchieved": 1774500384000,
-			"totalScores": 11515,
+			"mostRecentScoreTimeAchieved": 1774830547000,
+			"totalScores": 11535,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 21,
-					"outOf": 1556
+					"outOf": 1561
 				}
 			},
-			"playtime": 447340000
+			"playtime": 451702000
 		},
 		{
 			"id": 397,
@@ -133,8 +133,8 @@
 			"totalScores": 1027,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 361,
-					"outOf": 1556
+					"ranking": 363,
+					"outOf": 1561
 				}
 			},
 			"playtime": 481754381
