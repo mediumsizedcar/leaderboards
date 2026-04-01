@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1774879851511.122,
+	"lastUpdate": 1775023873615.717,
 	"profiles": [
 		{
 			"id": 1751,
@@ -14,8 +14,8 @@
 			"totalScores": 330,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 813,
-					"outOf": 1561
+					"ranking": 816,
+					"outOf": 1566
 				}
 			},
 			"playtime": 179971000
@@ -35,7 +35,7 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 401,
-					"outOf": 1561
+					"outOf": 1566
 				}
 			},
 			"playtime": 1256993000
@@ -44,22 +44,22 @@
 			"id": 2024,
 			"name": "ItzFishy",
 			"ratings": {
-				"naiveRating": 17.24
+				"naiveRating": 17.27
 			},
 			"classes": {
-				"colour": "RAINBOW_EX_I",
+				"colour": "RAINBOW_EX_II",
 				"dan": "DAN_INFINITE",
 				"emblem": "DAN_IV"
 			},
-			"mostRecentScoreTimeAchieved": 1774827832000,
-			"totalScores": 4915,
+			"mostRecentScoreTimeAchieved": 1775008008000,
+			"totalScores": 5001,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 69,
-					"outOf": 1561
+					"ranking": 58,
+					"outOf": 1566
 				}
 			},
-			"playtime": 1391915000
+			"playtime": 1411116000
 		},
 		{
 			"id": 1085,
@@ -74,8 +74,8 @@
 			"totalScores": 58,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1330,
-					"outOf": 1561
+					"ranking": 1334,
+					"outOf": 1566
 				}
 			},
 			"playtime": 15768000
@@ -90,15 +90,15 @@
 				"colour": "RAINBOW",
 				"dan": "DAN_IV"
 			},
-			"mostRecentScoreTimeAchieved": 1774403505000,
-			"totalScores": 1478,
+			"mostRecentScoreTimeAchieved": 1775009045000,
+			"totalScores": 1505,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 375,
-					"outOf": 1561
+					"outOf": 1566
 				}
 			},
-			"playtime": 431982000
+			"playtime": 437597000
 		},
 		{
 			"id": 1703,
@@ -110,15 +110,15 @@
 				"dan": "DAN_INFINITE",
 				"colour": "RAINBOW_EX_II"
 			},
-			"mostRecentScoreTimeAchieved": 1774830547000,
-			"totalScores": 11535,
+			"mostRecentScoreTimeAchieved": 1775006503000,
+			"totalScores": 11585,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 21,
-					"outOf": 1561
+					"outOf": 1566
 				}
 			},
-			"playtime": 451702000
+			"playtime": 462092000
 		},
 		{
 			"id": 397,
@@ -133,8 +133,8 @@
 			"totalScores": 1027,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 363,
-					"outOf": 1561
+					"ranking": 364,
+					"outOf": 1566
 				}
 			},
 			"playtime": 481754381
