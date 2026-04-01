@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1775023873615.717,
+	"lastUpdate": 1775059898690.448,
 	"profiles": [
 		{
 			"id": 1751,
@@ -14,7 +14,7 @@
 			"totalScores": 330,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 816,
+					"ranking": 818,
 					"outOf": 1566
 				}
 			},
@@ -91,14 +91,14 @@
 				"dan": "DAN_IV"
 			},
 			"mostRecentScoreTimeAchieved": 1775009045000,
-			"totalScores": 1505,
+			"totalScores": 1514,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 375,
 					"outOf": 1566
 				}
 			},
-			"playtime": 437597000
+			"playtime": 438912000
 		},
 		{
 			"id": 1703,
