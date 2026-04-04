@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1775235816323.812,
+	"lastUpdate": 1775315051762.5,
 	"profiles": [
 		{
 			"id": 1751,
@@ -15,11 +15,11 @@
 			"totalScores": 115,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 370,
+					"ranking": 371,
 					"outOf": 684
 				},
 				"naiveRatingRefresh": {
-					"ranking": 363,
+					"ranking": 364,
 					"outOf": 684
 				}
 			},
