@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1775059898690.448,
+	"lastUpdate": 1775283173730.7998,
 	"profiles": [
 		{
 			"id": 1751,
@@ -14,8 +14,8 @@
 			"totalScores": 330,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 818,
-					"outOf": 1566
+					"ranking": 822,
+					"outOf": 1576
 				}
 			},
 			"playtime": 179971000
@@ -34,8 +34,8 @@
 			"totalScores": 3425,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 401,
-					"outOf": 1566
+					"ranking": 404,
+					"outOf": 1576
 				}
 			},
 			"playtime": 1256993000
@@ -51,15 +51,15 @@
 				"dan": "DAN_INFINITE",
 				"emblem": "DAN_IV"
 			},
-			"mostRecentScoreTimeAchieved": 1775008008000,
-			"totalScores": 5001,
+			"mostRecentScoreTimeAchieved": 1775265022000,
+			"totalScores": 5047,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 58,
-					"outOf": 1566
+					"outOf": 1576
 				}
 			},
-			"playtime": 1411116000
+			"playtime": 1420110000
 		},
 		{
 			"id": 1085,
@@ -74,8 +74,8 @@
 			"totalScores": 58,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1334,
-					"outOf": 1566
+					"ranking": 1340,
+					"outOf": 1576
 				}
 			},
 			"playtime": 15768000
@@ -94,8 +94,8 @@
 			"totalScores": 1514,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 375,
-					"outOf": 1566
+					"ranking": 377,
+					"outOf": 1576
 				}
 			},
 			"playtime": 438912000
@@ -110,15 +110,15 @@
 				"dan": "DAN_INFINITE",
 				"colour": "RAINBOW_EX_II"
 			},
-			"mostRecentScoreTimeAchieved": 1775006503000,
-			"totalScores": 11585,
+			"mostRecentScoreTimeAchieved": 1775268891000,
+			"totalScores": 11710,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 21,
-					"outOf": 1566
+					"outOf": 1576
 				}
 			},
-			"playtime": 462092000
+			"playtime": 504014000
 		},
 		{
 			"id": 397,
@@ -133,8 +133,8 @@
 			"totalScores": 1027,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 364,
-					"outOf": 1566
+					"ranking": 367,
+					"outOf": 1576
 				}
 			},
 			"playtime": 481754381
