@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1775401432835.1519,
+	"lastUpdate": 1775458866156.043,
 	"profiles": [
 		{
 			"id": 1751,
@@ -29,25 +29,25 @@
 			"id": 1552,
 			"name": "eclair",
 			"ratings": {
-				"naiveRatingRefresh": 19.708,
-				"naiveRating": 16.06
+				"naiveRating": 16.06,
+				"naiveRatingRefresh": 19.729
 			},
 			"classes": {
 				"colour": "RAINBOW"
 			},
-			"mostRecentScoreTimeAchieved": 1774319987000,
-			"totalScores": 2263,
+			"mostRecentScoreTimeAchieved": 1775430301000,
+			"totalScores": 2281,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 84,
 					"outOf": 685
 				},
 				"naiveRatingRefresh": {
-					"ranking": 59,
+					"ranking": 58,
 					"outOf": 685
 				}
 			},
-			"playtime": 773547900
+			"playtime": 778549900
 		},
 		{
 			"id": 2024,
@@ -139,7 +139,7 @@
 					"outOf": 685
 				},
 				"naiveRatingRefresh": {
-					"ranking": 184,
+					"ranking": 185,
 					"outOf": 685
 				}
 			},
