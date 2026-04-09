@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1775643143860.354,
+	"lastUpdate": 1775722409359.416,
 	"profiles": [
 		{
 			"id": 1751,
@@ -14,8 +14,8 @@
 			"totalScores": 330,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 829,
-					"outOf": 1583
+					"ranking": 830,
+					"outOf": 1585
 				}
 			},
 			"playtime": 179971000
@@ -34,8 +34,8 @@
 			"totalScores": 3425,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 411,
-					"outOf": 1583
+					"ranking": 412,
+					"outOf": 1585
 				}
 			},
 			"playtime": 1256993000
@@ -56,7 +56,7 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 59,
-					"outOf": 1583
+					"outOf": 1585
 				}
 			},
 			"playtime": 1433129000
@@ -74,8 +74,8 @@
 			"totalScores": 58,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1350,
-					"outOf": 1583
+					"ranking": 1353,
+					"outOf": 1585
 				}
 			},
 			"playtime": 15768000
@@ -94,8 +94,8 @@
 			"totalScores": 1628,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 370,
-					"outOf": 1583
+					"ranking": 371,
+					"outOf": 1585
 				}
 			},
 			"playtime": 463980000
@@ -104,21 +104,21 @@
 			"id": 1703,
 			"name": "Rythmik",
 			"ratings": {
-				"naiveRating": 17.46
+				"naiveRating": 17.47
 			},
 			"classes": {
 				"dan": "DAN_INFINITE",
 				"colour": "RAINBOW_EX_II"
 			},
-			"mostRecentScoreTimeAchieved": 1775268891000,
-			"totalScores": 11710,
+			"mostRecentScoreTimeAchieved": 1775700084000,
+			"totalScores": 11823,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 21,
-					"outOf": 1583
+					"outOf": 1585
 				}
 			},
-			"playtime": 504014000
+			"playtime": 542704000
 		},
 		{
 			"id": 397,
@@ -133,8 +133,8 @@
 			"totalScores": 1027,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 370,
-					"outOf": 1583
+					"ranking": 371,
+					"outOf": 1585
 				}
 			},
 			"playtime": 481754381
