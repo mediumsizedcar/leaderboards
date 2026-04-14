@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1776013214613.384,
+	"lastUpdate": 1776200522641.661,
 	"profiles": [
 		{
 			"id": 1751,
@@ -16,11 +16,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 374,
-					"outOf": 692
+					"outOf": 697
 				},
 				"naiveRatingRefresh": {
-					"ranking": 367,
-					"outOf": 692
+					"ranking": 368,
+					"outOf": 697
 				}
 			},
 			"playtime": 37785900
@@ -39,12 +39,12 @@
 			"totalScores": 2281,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 85,
-					"outOf": 692
+					"ranking": 86,
+					"outOf": 697
 				},
 				"naiveRatingRefresh": {
 					"ranking": 58,
-					"outOf": 692
+					"outOf": 697
 				}
 			},
 			"playtime": 778549900
@@ -64,11 +64,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 78,
-					"outOf": 692
+					"outOf": 697
 				},
 				"naiveRatingRefresh": {
 					"ranking": 85,
-					"outOf": 692
+					"outOf": 697
 				}
 			},
 			"playtime": 170851000
@@ -77,25 +77,25 @@
 			"id": 1085,
 			"name": "Litter",
 			"ratings": {
-				"naiveRating": 16.5,
-				"naiveRatingRefresh": 20.752
+				"naiveRatingRefresh": 20.769,
+				"naiveRating": 16.5
 			},
 			"classes": {
 				"colour": "RAINBOW_SHINY"
 			},
-			"mostRecentScoreTimeAchieved": 1775096978000,
-			"totalScores": 3187,
+			"mostRecentScoreTimeAchieved": 1776047620000,
+			"totalScores": 3213,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 41,
-					"outOf": 692
+					"outOf": 697
 				},
 				"naiveRatingRefresh": {
 					"ranking": 14,
-					"outOf": 692
+					"outOf": 697
 				}
 			},
-			"playtime": 945046400
+			"playtime": 955988400
 		},
 		{
 			"id": 1750,
@@ -112,11 +112,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 21,
-					"outOf": 692
+					"outOf": 697
 				},
 				"naiveRatingRefresh": {
 					"ranking": 7,
-					"outOf": 692
+					"outOf": 697
 				}
 			},
 			"playtime": 1909733300
@@ -135,12 +135,12 @@
 			"totalScores": 355,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 167,
-					"outOf": 692
+					"ranking": 168,
+					"outOf": 697
 				},
 				"naiveRatingRefresh": {
 					"ranking": 186,
-					"outOf": 692
+					"outOf": 697
 				}
 			},
 			"playtime": 119861300
@@ -160,11 +160,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 73,
-					"outOf": 692
+					"outOf": 697
 				},
 				"naiveRatingRefresh": {
 					"ranking": 76,
-					"outOf": 692
+					"outOf": 697
 				}
 			},
 			"playtime": 165351000
