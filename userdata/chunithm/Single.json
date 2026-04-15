@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1776175914847.073,
+	"lastUpdate": 1776233526416.929,
 	"profiles": [
 		{
 			"id": 1751,
@@ -15,7 +15,7 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 834,
-					"outOf": 1597
+					"outOf": 1599
 				}
 			},
 			"playtime": 179971000
@@ -35,7 +35,7 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 418,
-					"outOf": 1597
+					"outOf": 1599
 				}
 			},
 			"playtime": 1256993000
@@ -56,7 +56,7 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 61,
-					"outOf": 1597
+					"outOf": 1599
 				}
 			},
 			"playtime": 1433129000
@@ -74,8 +74,8 @@
 			"totalScores": 58,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1362,
-					"outOf": 1597
+					"ranking": 1363,
+					"outOf": 1599
 				}
 			},
 			"playtime": 15768000
@@ -84,21 +84,21 @@
 			"id": 1750,
 			"name": "ryona",
 			"ratings": {
-				"naiveRating": 16.25
+				"naiveRating": 16.26
 			},
 			"classes": {
 				"colour": "RAINBOW_II",
 				"dan": "DAN_IV"
 			},
-			"mostRecentScoreTimeAchieved": 1775955478000,
-			"totalScores": 1658,
+			"mostRecentScoreTimeAchieved": 1776217682000,
+			"totalScores": 1682,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 371,
-					"outOf": 1597
+					"ranking": 365,
+					"outOf": 1599
 				}
 			},
-			"playtime": 470635000
+			"playtime": 475363000
 		},
 		{
 			"id": 1703,
@@ -110,15 +110,15 @@
 				"dan": "DAN_INFINITE",
 				"colour": "RAINBOW_EX_II"
 			},
-			"mostRecentScoreTimeAchieved": 1775778972000,
-			"totalScores": 11853,
+			"mostRecentScoreTimeAchieved": 1776220508000,
+			"totalScores": 11876,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 21,
-					"outOf": 1597
+					"outOf": 1599
 				}
 			},
-			"playtime": 547915000
+			"playtime": 551057000
 		},
 		{
 			"id": 397,
@@ -134,7 +134,7 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 380,
-					"outOf": 1597
+					"outOf": 1599
 				}
 			},
 			"playtime": 481754381
