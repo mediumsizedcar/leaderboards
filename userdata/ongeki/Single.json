@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1776618177817.444,
+	"lastUpdate": 1776639755871.624,
 	"profiles": [
 		{
 			"id": 1751,
@@ -16,11 +16,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 376,
-					"outOf": 701
+					"outOf": 702
 				},
 				"naiveRatingRefresh": {
 					"ranking": 369,
-					"outOf": 701
+					"outOf": 702
 				}
 			},
 			"playtime": 37785900
@@ -40,11 +40,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 86,
-					"outOf": 701
+					"outOf": 702
 				},
 				"naiveRatingRefresh": {
 					"ranking": 58,
-					"outOf": 701
+					"outOf": 702
 				}
 			},
 			"playtime": 778549900
@@ -64,11 +64,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 71,
-					"outOf": 701
+					"outOf": 702
 				},
 				"naiveRatingRefresh": {
 					"ranking": 79,
-					"outOf": 701
+					"outOf": 702
 				}
 			},
 			"playtime": 182030000
@@ -83,16 +83,16 @@
 			"classes": {
 				"colour": "RAINBOW_SHINY"
 			},
-			"mostRecentScoreTimeAchieved": 1776572192000,
-			"totalScores": 3276,
+			"mostRecentScoreTimeAchieved": 1776639539000,
+			"totalScores": 3277,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 38,
-					"outOf": 701
+					"outOf": 702
 				},
 				"naiveRatingRefresh": {
 					"ranking": 13,
-					"outOf": 701
+					"outOf": 702
 				}
 			},
 			"playtime": 971741400
@@ -112,11 +112,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 21,
-					"outOf": 701
+					"outOf": 702
 				},
 				"naiveRatingRefresh": {
 					"ranking": 7,
-					"outOf": 701
+					"outOf": 702
 				}
 			},
 			"playtime": 1909733300
@@ -136,11 +136,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 168,
-					"outOf": 701
+					"outOf": 702
 				},
 				"naiveRatingRefresh": {
 					"ranking": 187,
-					"outOf": 701
+					"outOf": 702
 				}
 			},
 			"playtime": 119861300
@@ -160,11 +160,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 75,
-					"outOf": 701
+					"outOf": 702
 				},
 				"naiveRatingRefresh": {
 					"ranking": 77,
-					"outOf": 701
+					"outOf": 702
 				}
 			},
 			"playtime": 165351000
