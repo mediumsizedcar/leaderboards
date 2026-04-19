@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1776200522641.661,
+	"lastUpdate": 1776589386806.695,
 	"profiles": [
 		{
 			"id": 1751,
@@ -15,12 +15,12 @@
 			"totalScores": 115,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 374,
-					"outOf": 697
+					"ranking": 376,
+					"outOf": 701
 				},
 				"naiveRatingRefresh": {
-					"ranking": 368,
-					"outOf": 697
+					"ranking": 369,
+					"outOf": 701
 				}
 			},
 			"playtime": 37785900
@@ -40,11 +40,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 86,
-					"outOf": 697
+					"outOf": 701
 				},
 				"naiveRatingRefresh": {
 					"ranking": 58,
-					"outOf": 697
+					"outOf": 701
 				}
 			},
 			"playtime": 778549900
@@ -53,49 +53,49 @@
 			"id": 2024,
 			"name": "ItzFishy",
 			"ratings": {
-				"naiveRating": 16.11,
-				"naiveRatingRefresh": 19.259
+				"naiveRating": 16.15,
+				"naiveRatingRefresh": 19.342
 			},
 			"classes": {
 				"colour": "RAINBOW"
 			},
-			"mostRecentScoreTimeAchieved": 1774488153000,
-			"totalScores": 381,
+			"mostRecentScoreTimeAchieved": 1776380720000,
+			"totalScores": 412,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 78,
-					"outOf": 697
+					"ranking": 71,
+					"outOf": 701
 				},
 				"naiveRatingRefresh": {
-					"ranking": 85,
-					"outOf": 697
+					"ranking": 79,
+					"outOf": 701
 				}
 			},
-			"playtime": 170851000
+			"playtime": 182030000
 		},
 		{
 			"id": 1085,
 			"name": "Litter",
 			"ratings": {
-				"naiveRatingRefresh": 20.769,
-				"naiveRating": 16.5
+				"naiveRating": 16.53,
+				"naiveRatingRefresh": 20.817
 			},
 			"classes": {
 				"colour": "RAINBOW_SHINY"
 			},
-			"mostRecentScoreTimeAchieved": 1776047620000,
-			"totalScores": 3213,
+			"mostRecentScoreTimeAchieved": 1776572192000,
+			"totalScores": 3276,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 41,
-					"outOf": 697
+					"ranking": 38,
+					"outOf": 701
 				},
 				"naiveRatingRefresh": {
-					"ranking": 14,
-					"outOf": 697
+					"ranking": 13,
+					"outOf": 701
 				}
 			},
-			"playtime": 955988400
+			"playtime": 971741400
 		},
 		{
 			"id": 1750,
@@ -112,11 +112,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 21,
-					"outOf": 697
+					"outOf": 701
 				},
 				"naiveRatingRefresh": {
 					"ranking": 7,
-					"outOf": 697
+					"outOf": 701
 				}
 			},
 			"playtime": 1909733300
@@ -136,11 +136,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 168,
-					"outOf": 697
+					"outOf": 701
 				},
 				"naiveRatingRefresh": {
-					"ranking": 186,
-					"outOf": 697
+					"ranking": 187,
+					"outOf": 701
 				}
 			},
 			"playtime": 119861300
@@ -159,12 +159,12 @@
 			"totalScores": 578,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 73,
-					"outOf": 697
+					"ranking": 75,
+					"outOf": 701
 				},
 				"naiveRatingRefresh": {
-					"ranking": 76,
-					"outOf": 697
+					"ranking": 77,
+					"outOf": 701
 				}
 			},
 			"playtime": 165351000
