@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1776639755871.624,
+	"lastUpdate": 1776956452379.325,
 	"profiles": [
 		{
 			"id": 1751,
@@ -15,12 +15,12 @@
 			"totalScores": 115,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 376,
-					"outOf": 702
+					"ranking": 377,
+					"outOf": 703
 				},
 				"naiveRatingRefresh": {
-					"ranking": 369,
-					"outOf": 702
+					"ranking": 371,
+					"outOf": 703
 				}
 			},
 			"playtime": 37785900
@@ -29,25 +29,25 @@
 			"id": 1552,
 			"name": "eclair",
 			"ratings": {
-				"naiveRating": 16.06,
-				"naiveRatingRefresh": 19.729
+				"naiveRatingRefresh": 19.764,
+				"naiveRating": 16.08
 			},
 			"classes": {
 				"colour": "RAINBOW"
 			},
-			"mostRecentScoreTimeAchieved": 1775430301000,
-			"totalScores": 2281,
+			"mostRecentScoreTimeAchieved": 1776683050000,
+			"totalScores": 2327,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 86,
-					"outOf": 702
+					"ranking": 84,
+					"outOf": 703
 				},
 				"naiveRatingRefresh": {
-					"ranking": 58,
-					"outOf": 702
+					"ranking": 56,
+					"outOf": 703
 				}
 			},
-			"playtime": 778549900
+			"playtime": 791470900
 		},
 		{
 			"id": 2024,
@@ -63,12 +63,12 @@
 			"totalScores": 412,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 71,
-					"outOf": 702
+					"ranking": 72,
+					"outOf": 703
 				},
 				"naiveRatingRefresh": {
-					"ranking": 79,
-					"outOf": 702
+					"ranking": 80,
+					"outOf": 703
 				}
 			},
 			"playtime": 182030000
@@ -83,16 +83,16 @@
 			"classes": {
 				"colour": "RAINBOW_SHINY"
 			},
-			"mostRecentScoreTimeAchieved": 1776639539000,
-			"totalScores": 3277,
+			"mostRecentScoreTimeAchieved": 1776572192000,
+			"totalScores": 3276,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 38,
-					"outOf": 702
+					"ranking": 39,
+					"outOf": 703
 				},
 				"naiveRatingRefresh": {
 					"ranking": 13,
-					"outOf": 702
+					"outOf": 703
 				}
 			},
 			"playtime": 971741400
@@ -111,12 +111,12 @@
 			"totalScores": 6199,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 21,
-					"outOf": 702
+					"ranking": 22,
+					"outOf": 703
 				},
 				"naiveRatingRefresh": {
 					"ranking": 7,
-					"outOf": 702
+					"outOf": 703
 				}
 			},
 			"playtime": 1909733300
@@ -136,11 +136,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 168,
-					"outOf": 702
+					"outOf": 703
 				},
 				"naiveRatingRefresh": {
 					"ranking": 187,
-					"outOf": 702
+					"outOf": 703
 				}
 			},
 			"playtime": 119861300
@@ -159,12 +159,12 @@
 			"totalScores": 578,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 75,
-					"outOf": 702
+					"ranking": 76,
+					"outOf": 703
 				},
 				"naiveRatingRefresh": {
-					"ranking": 77,
-					"outOf": 702
+					"ranking": 78,
+					"outOf": 703
 				}
 			},
 			"playtime": 165351000
