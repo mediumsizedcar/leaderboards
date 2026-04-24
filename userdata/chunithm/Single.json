@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1776420809450.144,
+	"lastUpdate": 1777032637928.8398,
 	"profiles": [
 		{
 			"id": 1751,
@@ -14,8 +14,8 @@
 			"totalScores": 330,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 836,
-					"outOf": 1599
+					"ranking": 849,
+					"outOf": 1616
 				}
 			},
 			"playtime": 179971000
@@ -34,8 +34,8 @@
 			"totalScores": 3425,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 419,
-					"outOf": 1599
+					"ranking": 429,
+					"outOf": 1616
 				}
 			},
 			"playtime": 1256993000
@@ -55,8 +55,8 @@
 			"totalScores": 5117,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 61,
-					"outOf": 1599
+					"ranking": 63,
+					"outOf": 1616
 				}
 			},
 			"playtime": 1433129000
@@ -74,8 +74,8 @@
 			"totalScores": 58,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1363,
-					"outOf": 1599
+					"ranking": 1376,
+					"outOf": 1616
 				}
 			},
 			"playtime": 15768000
@@ -84,41 +84,41 @@
 			"id": 1750,
 			"name": "ryona",
 			"ratings": {
-				"naiveRating": 16.26
+				"naiveRating": 16.31
 			},
 			"classes": {
 				"colour": "RAINBOW_II",
 				"dan": "DAN_IV"
 			},
-			"mostRecentScoreTimeAchieved": 1776217682000,
-			"totalScores": 1682,
+			"mostRecentScoreTimeAchieved": 1776822290000,
+			"totalScores": 1823,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 366,
-					"outOf": 1599
+					"ranking": 355,
+					"outOf": 1616
 				}
 			},
-			"playtime": 475363000
+			"playtime": 507470000
 		},
 		{
 			"id": 1703,
 			"name": "Rythmik",
 			"ratings": {
-				"naiveRating": 17.47
+				"naiveRating": 17.48
 			},
 			"classes": {
 				"dan": "DAN_INFINITE",
 				"colour": "RAINBOW_EX_II"
 			},
-			"mostRecentScoreTimeAchieved": 1776220508000,
-			"totalScores": 11876,
+			"mostRecentScoreTimeAchieved": 1776980143000,
+			"totalScores": 12165,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 21,
-					"outOf": 1599
+					"ranking": 18,
+					"outOf": 1616
 				}
 			},
-			"playtime": 551057000
+			"playtime": 651139000
 		},
 		{
 			"id": 397,
@@ -133,8 +133,8 @@
 			"totalScores": 1027,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 381,
-					"outOf": 1599
+					"ranking": 388,
+					"outOf": 1616
 				}
 			},
 			"playtime": 481754381
