@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1776867687145.025,
+	"lastUpdate": 1777148610128.531,
 	"profiles": [
 		{
 			"id": 1751,
@@ -16,7 +16,7 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 29,
-					"outOf": 1425
+					"outOf": 1428
 				}
 			},
 			"playtime": 5826604232
@@ -25,21 +25,21 @@
 			"id": 1552,
 			"name": "eclair",
 			"ratings": {
-				"VF6": 19.68099999999999
+				"VF6": 19.681999999999995
 			},
 			"classes": {
 				"vfClass": "CRIMSON_III",
 				"dan": "INF"
 			},
-			"mostRecentScoreTimeAchieved": 1769737276000,
-			"totalScores": 22437,
+			"mostRecentScoreTimeAchieved": 1777144994000,
+			"totalScores": 22593,
 			"rankingData": {
 				"VF6": {
 					"ranking": 171,
-					"outOf": 1425
+					"outOf": 1428
 				}
 			},
-			"playtime": 4611532029
+			"playtime": 4655313029
 		},
 		{
 			"id": 2024,
@@ -56,7 +56,7 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 180,
-					"outOf": 1425
+					"outOf": 1428
 				}
 			},
 			"playtime": 809805393
@@ -76,7 +76,7 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 322,
-					"outOf": 1425
+					"outOf": 1428
 				}
 			},
 			"playtime": 1060251097
@@ -94,8 +94,8 @@
 			"totalScores": 83,
 			"rankingData": {
 				"VF6": {
-					"ranking": 1195,
-					"outOf": 1425
+					"ranking": 1198,
+					"outOf": 1428
 				}
 			},
 			"playtime": 26296000
@@ -115,7 +115,7 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 49,
-					"outOf": 1425
+					"outOf": 1428
 				}
 			},
 			"playtime": 2800258143
@@ -134,8 +134,8 @@
 			"totalScores": 5771,
 			"rankingData": {
 				"VF6": {
-					"ranking": 51,
-					"outOf": 1425
+					"ranking": 52,
+					"outOf": 1428
 				}
 			},
 			"playtime": 1771471000
