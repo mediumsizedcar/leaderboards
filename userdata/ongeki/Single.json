@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1777143837006.553,
+	"lastUpdate": 1777150889876.002,
 	"profiles": [
 		{
 			"id": 1751,
@@ -16,11 +16,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 378,
-					"outOf": 704
+					"outOf": 705
 				},
 				"naiveRatingRefresh": {
 					"ranking": 372,
-					"outOf": 704
+					"outOf": 705
 				}
 			},
 			"playtime": 37785900
@@ -40,11 +40,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 84,
-					"outOf": 704
+					"outOf": 705
 				},
 				"naiveRatingRefresh": {
 					"ranking": 56,
-					"outOf": 704
+					"outOf": 705
 				}
 			},
 			"playtime": 791470900
@@ -64,11 +64,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 72,
-					"outOf": 704
+					"outOf": 705
 				},
 				"naiveRatingRefresh": {
 					"ranking": 80,
-					"outOf": 704
+					"outOf": 705
 				}
 			},
 			"playtime": 182030000
@@ -88,11 +88,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 39,
-					"outOf": 704
+					"outOf": 705
 				},
 				"naiveRatingRefresh": {
 					"ranking": 13,
-					"outOf": 704
+					"outOf": 705
 				}
 			},
 			"playtime": 971741400
@@ -112,11 +112,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 22,
-					"outOf": 704
+					"outOf": 705
 				},
 				"naiveRatingRefresh": {
 					"ranking": 7,
-					"outOf": 704
+					"outOf": 705
 				}
 			},
 			"playtime": 1909733300
@@ -136,11 +136,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 168,
-					"outOf": 704
+					"outOf": 705
 				},
 				"naiveRatingRefresh": {
 					"ranking": 187,
-					"outOf": 704
+					"outOf": 705
 				}
 			},
 			"playtime": 119861300
@@ -160,11 +160,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 76,
-					"outOf": 704
+					"outOf": 705
 				},
 				"naiveRatingRefresh": {
 					"ranking": 78,
-					"outOf": 704
+					"outOf": 705
 				}
 			},
 			"playtime": 165351000
