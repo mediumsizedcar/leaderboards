@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1777158002003.4858,
+	"lastUpdate": 1777280696579.0652,
 	"profiles": [
 		{
 			"id": 1751,
@@ -15,12 +15,12 @@
 			"totalScores": 115,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 378,
-					"outOf": 705
+					"ranking": 379,
+					"outOf": 707
 				},
 				"naiveRatingRefresh": {
-					"ranking": 372,
-					"outOf": 705
+					"ranking": 373,
+					"outOf": 707
 				}
 			},
 			"playtime": 37785900
@@ -29,73 +29,73 @@
 			"id": 1552,
 			"name": "eclair",
 			"ratings": {
-				"naiveRatingRefresh": 19.764,
-				"naiveRating": 16.08
+				"naiveRatingRefresh": 19.797,
+				"naiveRating": 16.09
 			},
 			"classes": {
 				"colour": "RAINBOW"
 			},
-			"mostRecentScoreTimeAchieved": 1776683050000,
-			"totalScores": 2327,
+			"mostRecentScoreTimeAchieved": 1777251522000,
+			"totalScores": 2377,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 84,
-					"outOf": 705
+					"ranking": 83,
+					"outOf": 707
 				},
 				"naiveRatingRefresh": {
-					"ranking": 56,
-					"outOf": 705
+					"ranking": 54,
+					"outOf": 707
 				}
 			},
-			"playtime": 791470900
+			"playtime": 804739900
 		},
 		{
 			"id": 2024,
 			"name": "ItzFishy",
 			"ratings": {
-				"naiveRating": 16.15,
-				"naiveRatingRefresh": 19.342
+				"naiveRating": 16.17,
+				"naiveRatingRefresh": 19.433
 			},
 			"classes": {
 				"colour": "RAINBOW"
 			},
-			"mostRecentScoreTimeAchieved": 1776380720000,
-			"totalScores": 412,
+			"mostRecentScoreTimeAchieved": 1777244799000,
+			"totalScores": 437,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 72,
-					"outOf": 705
+					"ranking": 71,
+					"outOf": 707
 				},
 				"naiveRatingRefresh": {
-					"ranking": 80,
-					"outOf": 705
+					"ranking": 77,
+					"outOf": 707
 				}
 			},
-			"playtime": 182030000
+			"playtime": 197026000
 		},
 		{
 			"id": 1085,
 			"name": "Litter",
 			"ratings": {
-				"naiveRating": 16.53,
-				"naiveRatingRefresh": 20.817
+				"naiveRating": 16.54,
+				"naiveRatingRefresh": 20.827
 			},
 			"classes": {
 				"colour": "RAINBOW_SHINY"
 			},
-			"mostRecentScoreTimeAchieved": 1776572192000,
-			"totalScores": 3276,
+			"mostRecentScoreTimeAchieved": 1777255164000,
+			"totalScores": 3321,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 39,
-					"outOf": 705
+					"ranking": 38,
+					"outOf": 707
 				},
 				"naiveRatingRefresh": {
 					"ranking": 13,
-					"outOf": 705
+					"outOf": 707
 				}
 			},
-			"playtime": 971741400
+			"playtime": 984560400
 		},
 		{
 			"id": 1750,
@@ -112,11 +112,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 22,
-					"outOf": 705
+					"outOf": 707
 				},
 				"naiveRatingRefresh": {
 					"ranking": 7,
-					"outOf": 705
+					"outOf": 707
 				}
 			},
 			"playtime": 1909733300
@@ -136,11 +136,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 168,
-					"outOf": 705
+					"outOf": 707
 				},
 				"naiveRatingRefresh": {
 					"ranking": 187,
-					"outOf": 705
+					"outOf": 707
 				}
 			},
 			"playtime": 119861300
@@ -160,11 +160,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 76,
-					"outOf": 705
+					"outOf": 707
 				},
 				"naiveRatingRefresh": {
-					"ranking": 78,
-					"outOf": 705
+					"ranking": 79,
+					"outOf": 707
 				}
 			},
 			"playtime": 165351000
