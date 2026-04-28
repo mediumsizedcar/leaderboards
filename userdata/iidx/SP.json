@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1777233790504.937,
+	"lastUpdate": 1777348914330.455,
 	"profiles": [
 		{
 			"id": 1750,
@@ -13,12 +13,12 @@
 			"totalScores": 1,
 			"rankingData": {
 				"ktLampRating": {
-					"ranking": 1004,
-					"outOf": 1045
+					"ranking": 1006,
+					"outOf": 1047
 				},
 				"BPI": {
-					"ranking": 593,
-					"outOf": 1045
+					"ranking": 594,
+					"outOf": 1047
 				}
 			},
 			"playtime": 0
@@ -35,12 +35,12 @@
 			"totalScores": 9,
 			"rankingData": {
 				"ktLampRating": {
-					"ranking": 972,
-					"outOf": 1045
+					"ranking": 974,
+					"outOf": 1047
 				},
 				"BPI": {
-					"ranking": 593,
-					"outOf": 1045
+					"ranking": 594,
+					"outOf": 1047
 				}
 			},
 			"playtime": 2040000
@@ -60,11 +60,11 @@
 			"rankingData": {
 				"ktLampRating": {
 					"ranking": 315,
-					"outOf": 1045
+					"outOf": 1047
 				},
 				"BPI": {
 					"ranking": 321,
-					"outOf": 1045
+					"outOf": 1047
 				}
 			},
 			"playtime": 965048813
