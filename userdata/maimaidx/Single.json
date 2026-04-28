@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1777294394879.253,
+	"lastUpdate": 1777402319246.9448,
 	"profiles": [
 		{
 			"id": 2024,
@@ -17,7 +17,7 @@
 			"rankingData": {
 				"naiveRate": {
 					"ranking": 135,
-					"outOf": 1331
+					"outOf": 1335
 				}
 			},
 			"playtime": 1757813000
@@ -35,8 +35,8 @@
 			"totalScores": 28,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 1247,
-					"outOf": 1331
+					"ranking": 1249,
+					"outOf": 1335
 				}
 			},
 			"playtime": 15066000
@@ -45,22 +45,22 @@
 			"id": 1750,
 			"name": "ryona",
 			"ratings": {
-				"naiveRate": 15409
+				"naiveRate": 15416
 			},
 			"classes": {
 				"colour": "RAINBOW",
 				"dan": "DAN_10",
 				"matchingClass": "SS4"
 			},
-			"mostRecentScoreTimeAchieved": 1775942485000,
-			"totalScores": 3622,
+			"mostRecentScoreTimeAchieved": 1777159462000,
+			"totalScores": 3634,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 317,
-					"outOf": 1331
+					"ranking": 313,
+					"outOf": 1335
 				}
 			},
-			"playtime": 963164000
+			"playtime": 964895000
 		},
 		{
 			"id": 1703,
@@ -78,7 +78,7 @@
 			"rankingData": {
 				"naiveRate": {
 					"ranking": 512,
-					"outOf": 1331
+					"outOf": 1335
 				}
 			},
 			"playtime": 275008000
@@ -99,7 +99,7 @@
 			"rankingData": {
 				"naiveRate": {
 					"ranking": 708,
-					"outOf": 1331
+					"outOf": 1335
 				}
 			},
 			"playtime": 132480000
