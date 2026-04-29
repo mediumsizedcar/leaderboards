@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1777280696579.0652,
+	"lastUpdate": 1777489299275.719,
 	"profiles": [
 		{
 			"id": 1751,
@@ -15,12 +15,12 @@
 			"totalScores": 115,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 379,
-					"outOf": 707
+					"ranking": 380,
+					"outOf": 710
 				},
 				"naiveRatingRefresh": {
-					"ranking": 373,
-					"outOf": 707
+					"ranking": 374,
+					"outOf": 710
 				}
 			},
 			"playtime": 37785900
@@ -29,49 +29,49 @@
 			"id": 1552,
 			"name": "eclair",
 			"ratings": {
-				"naiveRatingRefresh": 19.797,
-				"naiveRating": 16.09
+				"naiveRatingRefresh": 19.805,
+				"naiveRating": 16.1
 			},
 			"classes": {
 				"colour": "RAINBOW"
 			},
 			"mostRecentScoreTimeAchieved": 1777251522000,
-			"totalScores": 2377,
+			"totalScores": 2415,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 83,
-					"outOf": 707
+					"outOf": 710
 				},
 				"naiveRatingRefresh": {
 					"ranking": 54,
-					"outOf": 707
+					"outOf": 710
 				}
 			},
-			"playtime": 804739900
+			"playtime": 847131400
 		},
 		{
 			"id": 2024,
 			"name": "ItzFishy",
 			"ratings": {
-				"naiveRating": 16.17,
-				"naiveRatingRefresh": 19.433
+				"naiveRating": 16.19,
+				"naiveRatingRefresh": 19.619
 			},
 			"classes": {
 				"colour": "RAINBOW"
 			},
-			"mostRecentScoreTimeAchieved": 1777244799000,
-			"totalScores": 437,
+			"mostRecentScoreTimeAchieved": 1777325900000,
+			"totalScores": 469,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 71,
-					"outOf": 707
+					"ranking": 70,
+					"outOf": 710
 				},
 				"naiveRatingRefresh": {
-					"ranking": 77,
-					"outOf": 707
+					"ranking": 64,
+					"outOf": 710
 				}
 			},
-			"playtime": 197026000
+			"playtime": 212689000
 		},
 		{
 			"id": 1085,
@@ -88,11 +88,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 38,
-					"outOf": 707
+					"outOf": 710
 				},
 				"naiveRatingRefresh": {
 					"ranking": 13,
-					"outOf": 707
+					"outOf": 710
 				}
 			},
 			"playtime": 984560400
@@ -112,11 +112,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 22,
-					"outOf": 707
+					"outOf": 710
 				},
 				"naiveRatingRefresh": {
 					"ranking": 7,
-					"outOf": 707
+					"outOf": 710
 				}
 			},
 			"playtime": 1909733300
@@ -136,11 +136,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 168,
-					"outOf": 707
+					"outOf": 710
 				},
 				"naiveRatingRefresh": {
 					"ranking": 187,
-					"outOf": 707
+					"outOf": 710
 				}
 			},
 			"playtime": 119861300
@@ -160,11 +160,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 76,
-					"outOf": 707
+					"outOf": 710
 				},
 				"naiveRatingRefresh": {
 					"ranking": 79,
-					"outOf": 707
+					"outOf": 710
 				}
 			},
 			"playtime": 165351000
