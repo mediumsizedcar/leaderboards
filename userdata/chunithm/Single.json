@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1777479189489.5361,
+	"lastUpdate": 1777659034031.544,
 	"profiles": [
 		{
 			"id": 1751,
@@ -15,7 +15,7 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 855,
-					"outOf": 1635
+					"outOf": 1638
 				}
 			},
 			"playtime": 179971000
@@ -34,8 +34,8 @@
 			"totalScores": 3425,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 435,
-					"outOf": 1635
+					"ranking": 438,
+					"outOf": 1638
 				}
 			},
 			"playtime": 1256993000
@@ -56,7 +56,7 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 63,
-					"outOf": 1635
+					"outOf": 1638
 				}
 			},
 			"playtime": 1433129000
@@ -74,8 +74,8 @@
 			"totalScores": 58,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1388,
-					"outOf": 1635
+					"ranking": 1391,
+					"outOf": 1638
 				}
 			},
 			"playtime": 15768000
@@ -90,54 +90,54 @@
 				"colour": "RAINBOW_II",
 				"dan": "DAN_IV"
 			},
-			"mostRecentScoreTimeAchieved": 1776822290000,
-			"totalScores": 1823,
+			"mostRecentScoreTimeAchieved": 1777144887000,
+			"totalScores": 1849,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 363,
-					"outOf": 1635
+					"outOf": 1638
 				}
 			},
-			"playtime": 507470000
+			"playtime": 519756000
 		},
 		{
 			"id": 1703,
 			"name": "Rythmik",
 			"ratings": {
-				"naiveRating": 17.48
+				"naiveRating": 17.49
 			},
 			"classes": {
 				"dan": "DAN_INFINITE",
 				"colour": "RAINBOW_EX_II"
 			},
-			"mostRecentScoreTimeAchieved": 1777428261000,
-			"totalScores": 12280,
+			"mostRecentScoreTimeAchieved": 1777615964000,
+			"totalScores": 12357,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 18,
-					"outOf": 1635
+					"ranking": 17,
+					"outOf": 1638
 				}
 			},
-			"playtime": 688273000
+			"playtime": 701820000
 		},
 		{
 			"id": 397,
 			"name": "The_Manwich",
 			"ratings": {
-				"naiveRating": 16.23
+				"naiveRating": 16.24
 			},
 			"classes": {
 				"colour": "RAINBOW"
 			},
-			"mostRecentScoreTimeAchieved": 1754795406000,
-			"totalScores": 1027,
+			"mostRecentScoreTimeAchieved": 1777223382000,
+			"totalScores": 1054,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 393,
-					"outOf": 1635
+					"ranking": 389,
+					"outOf": 1638
 				}
 			},
-			"playtime": 481754381
+			"playtime": 488836381
 		}
 	]
 }
