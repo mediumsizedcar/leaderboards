@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1777673559011.2468,
+	"lastUpdate": 1777738234753.9011,
 	"profiles": [
 		{
 			"id": 1751,
@@ -94,7 +94,7 @@
 			"totalScores": 1849,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 363,
+					"ranking": 364,
 					"outOf": 1640
 				}
 			},
@@ -110,15 +110,15 @@
 				"dan": "DAN_INFINITE",
 				"colour": "RAINBOW_EX_II"
 			},
-			"mostRecentScoreTimeAchieved": 1777615964000,
-			"totalScores": 12357,
+			"mostRecentScoreTimeAchieved": 1777685495000,
+			"totalScores": 12476,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 17,
 					"outOf": 1640
 				}
 			},
-			"playtime": 701820000
+			"playtime": 741525000
 		},
 		{
 			"id": 397,
