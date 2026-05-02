@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1777680168836.628,
+	"lastUpdate": 1777759463869.041,
 	"profiles": [
 		{
 			"id": 1750,
@@ -17,7 +17,7 @@
 					"outOf": 1049
 				},
 				"BPI": {
-					"ranking": 594,
+					"ranking": 596,
 					"outOf": 1049
 				}
 			},
@@ -39,7 +39,7 @@
 					"outOf": 1049
 				},
 				"BPI": {
-					"ranking": 594,
+					"ranking": 596,
 					"outOf": 1049
 				}
 			},
@@ -59,7 +59,7 @@
 			"totalScores": 3375,
 			"rankingData": {
 				"ktLampRating": {
-					"ranking": 315,
+					"ranking": 316,
 					"outOf": 1049
 				},
 				"BPI": {
