@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1777489299275.719,
+	"lastUpdate": 1777806253178.8672,
 	"profiles": [
 		{
 			"id": 1751,
@@ -15,12 +15,12 @@
 			"totalScores": 115,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 380,
-					"outOf": 710
+					"ranking": 384,
+					"outOf": 713
 				},
 				"naiveRatingRefresh": {
-					"ranking": 374,
-					"outOf": 710
+					"ranking": 378,
+					"outOf": 713
 				}
 			},
 			"playtime": 37785900
@@ -39,12 +39,12 @@
 			"totalScores": 2415,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 83,
-					"outOf": 710
+					"ranking": 84,
+					"outOf": 713
 				},
 				"naiveRatingRefresh": {
-					"ranking": 54,
-					"outOf": 710
+					"ranking": 55,
+					"outOf": 713
 				}
 			},
 			"playtime": 847131400
@@ -53,25 +53,25 @@
 			"id": 2024,
 			"name": "ItzFishy",
 			"ratings": {
-				"naiveRating": 16.19,
-				"naiveRatingRefresh": 19.619
+				"naiveRating": 16.32,
+				"naiveRatingRefresh": 20.012
 			},
 			"classes": {
-				"colour": "RAINBOW"
+				"colour": "RAINBOW_SHINY"
 			},
-			"mostRecentScoreTimeAchieved": 1777325900000,
-			"totalScores": 469,
+			"mostRecentScoreTimeAchieved": 1777678306000,
+			"totalScores": 549,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 70,
-					"outOf": 710
+					"ranking": 56,
+					"outOf": 713
 				},
 				"naiveRatingRefresh": {
-					"ranking": 64,
-					"outOf": 710
+					"ranking": 47,
+					"outOf": 713
 				}
 			},
-			"playtime": 212689000
+			"playtime": 244890000
 		},
 		{
 			"id": 1085,
@@ -88,11 +88,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 38,
-					"outOf": 710
+					"outOf": 713
 				},
 				"naiveRatingRefresh": {
-					"ranking": 13,
-					"outOf": 710
+					"ranking": 14,
+					"outOf": 713
 				}
 			},
 			"playtime": 984560400
@@ -112,11 +112,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 22,
-					"outOf": 710
+					"outOf": 713
 				},
 				"naiveRatingRefresh": {
 					"ranking": 7,
-					"outOf": 710
+					"outOf": 713
 				}
 			},
 			"playtime": 1909733300
@@ -135,12 +135,12 @@
 			"totalScores": 355,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 168,
-					"outOf": 710
+					"ranking": 169,
+					"outOf": 713
 				},
 				"naiveRatingRefresh": {
-					"ranking": 187,
-					"outOf": 710
+					"ranking": 189,
+					"outOf": 713
 				}
 			},
 			"playtime": 119861300
@@ -159,12 +159,12 @@
 			"totalScores": 578,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 76,
-					"outOf": 710
+					"ranking": 77,
+					"outOf": 713
 				},
 				"naiveRatingRefresh": {
 					"ranking": 79,
-					"outOf": 710
+					"outOf": 713
 				}
 			},
 			"playtime": 165351000
