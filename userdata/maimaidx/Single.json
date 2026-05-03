@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1777402319246.9448,
+	"lastUpdate": 1777783943549.5032,
 	"profiles": [
 		{
 			"id": 2024,
@@ -16,8 +16,8 @@
 			"totalScores": 5413,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 135,
-					"outOf": 1335
+					"ranking": 137,
+					"outOf": 1340
 				}
 			},
 			"playtime": 1757813000
@@ -35,8 +35,8 @@
 			"totalScores": 28,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 1249,
-					"outOf": 1335
+					"ranking": 1254,
+					"outOf": 1340
 				}
 			},
 			"playtime": 15066000
@@ -57,7 +57,7 @@
 			"rankingData": {
 				"naiveRate": {
 					"ranking": 313,
-					"outOf": 1335
+					"outOf": 1340
 				}
 			},
 			"playtime": 964895000
@@ -66,19 +66,19 @@
 			"id": 1703,
 			"name": "Rythmik",
 			"ratings": {
-				"naiveRate": 14800
+				"naiveRate": 15093
 			},
 			"classes": {
-				"colour": "PLATINUM",
+				"colour": "RAINBOW",
 				"matchingClass": "S4",
-				"dan": "SHINDAN_2"
+				"dan": "SHINDAN_3"
 			},
 			"mostRecentScoreTimeAchieved": 1769833080000,
-			"totalScores": 714,
+			"totalScores": 816,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 512,
-					"outOf": 1335
+					"ranking": 431,
+					"outOf": 1340
 				}
 			},
 			"playtime": 275008000
@@ -98,8 +98,8 @@
 			"totalScores": 543,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 708,
-					"outOf": 1335
+					"ranking": 709,
+					"outOf": 1340
 				}
 			},
 			"playtime": 132480000
