@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1777472823200.747,
+	"lastUpdate": 1778106451105.13,
 	"profiles": [
 		{
 			"id": 1552,
@@ -14,8 +14,8 @@
 			"totalScores": 92,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 394,
-					"outOf": 720
+					"ranking": 397,
+					"outOf": 722
 				}
 			},
 			"playtime": 52492025
@@ -24,20 +24,20 @@
 			"id": 2024,
 			"name": "ItzFishy",
 			"ratings": {
-				"naiveRate": 1076.4499999999998
+				"naiveRate": 2367.9750000000004
 			},
 			"classes": {
-				"colour": "RED"
+				"colour": "GOLD"
 			},
-			"mostRecentScoreTimeAchieved": 1774144168812,
-			"totalScores": 30,
+			"mostRecentScoreTimeAchieved": 1777774205362,
+			"totalScores": 99,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 517,
-					"outOf": 720
+					"ranking": 209,
+					"outOf": 722
 				}
 			},
-			"playtime": 17999214
+			"playtime": 35125201
 		},
 		{
 			"id": 1085,
@@ -52,8 +52,8 @@
 			"totalScores": 33,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 556,
-					"outOf": 720
+					"ranking": 558,
+					"outOf": 722
 				}
 			},
 			"playtime": 11975700
@@ -72,8 +72,8 @@
 			"totalScores": 253,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 232,
-					"outOf": 720
+					"ranking": 237,
+					"outOf": 722
 				}
 			},
 			"playtime": 109114662
@@ -92,8 +92,8 @@
 			"totalScores": 306,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 129,
-					"outOf": 720
+					"ranking": 130,
+					"outOf": 722
 				}
 			},
 			"playtime": 117776076
