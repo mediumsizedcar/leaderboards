@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1777853457052.783,
+	"lastUpdate": 1778112701358.356,
 	"profiles": [
 		{
 			"id": 1751,
@@ -14,8 +14,8 @@
 			"totalScores": 330,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 857,
-					"outOf": 1643
+					"ranking": 860,
+					"outOf": 1651
 				}
 			},
 			"playtime": 179971000
@@ -34,8 +34,8 @@
 			"totalScores": 3425,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 440,
-					"outOf": 1643
+					"ranking": 443,
+					"outOf": 1651
 				}
 			},
 			"playtime": 1256993000
@@ -55,8 +55,8 @@
 			"totalScores": 5117,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 63,
-					"outOf": 1643
+					"ranking": 64,
+					"outOf": 1651
 				}
 			},
 			"playtime": 1433129000
@@ -74,8 +74,8 @@
 			"totalScores": 58,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1396,
-					"outOf": 1643
+					"ranking": 1400,
+					"outOf": 1651
 				}
 			},
 			"playtime": 15768000
@@ -90,15 +90,15 @@
 				"colour": "RAINBOW_II",
 				"dan": "DAN_IV"
 			},
-			"mostRecentScoreTimeAchieved": 1777852847000,
-			"totalScores": 1912,
+			"mostRecentScoreTimeAchieved": 1777856808000,
+			"totalScores": 1930,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 359,
-					"outOf": 1643
+					"ranking": 361,
+					"outOf": 1651
 				}
 			},
-			"playtime": 533261000
+			"playtime": 537222000
 		},
 		{
 			"id": 1703,
@@ -110,15 +110,15 @@
 				"dan": "DAN_INFINITE",
 				"colour": "RAINBOW_EX_II"
 			},
-			"mostRecentScoreTimeAchieved": 1777775859000,
-			"totalScores": 12522,
+			"mostRecentScoreTimeAchieved": 1777970222000,
+			"totalScores": 12580,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 17,
-					"outOf": 1643
+					"outOf": 1651
 				}
 			},
-			"playtime": 748732000
+			"playtime": 760951000
 		},
 		{
 			"id": 397,
@@ -133,8 +133,8 @@
 			"totalScores": 1054,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 391,
-					"outOf": 1643
+					"ranking": 394,
+					"outOf": 1651
 				}
 			},
 			"playtime": 488836381
