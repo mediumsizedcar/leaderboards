@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1777961161139.92,
+	"lastUpdate": 1778126700196.01,
 	"profiles": [
 		{
 			"id": 1750,
@@ -13,12 +13,12 @@
 			"totalScores": 1,
 			"rankingData": {
 				"ktLampRating": {
-					"ranking": 386,
-					"outOf": 534
+					"ranking": 387,
+					"outOf": 535
 				},
 				"BPI": {
 					"ranking": 58,
-					"outOf": 534
+					"outOf": 535
 				}
 			},
 			"playtime": 0
@@ -35,12 +35,12 @@
 			"totalScores": 3,
 			"rankingData": {
 				"ktLampRating": {
-					"ranking": 386,
-					"outOf": 534
+					"ranking": 387,
+					"outOf": 535
 				},
 				"BPI": {
 					"ranking": 58,
-					"outOf": 534
+					"outOf": 535
 				}
 			},
 			"playtime": 191043
