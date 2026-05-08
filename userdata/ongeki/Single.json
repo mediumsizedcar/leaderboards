@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1777914052464.494,
+	"lastUpdate": 1778259712921.494,
 	"profiles": [
 		{
 			"id": 1751,
@@ -15,12 +15,12 @@
 			"totalScores": 115,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 384,
-					"outOf": 713
+					"ranking": 387,
+					"outOf": 717
 				},
 				"naiveRatingRefresh": {
-					"ranking": 378,
-					"outOf": 713
+					"ranking": 381,
+					"outOf": 717
 				}
 			},
 			"playtime": 37785900
@@ -39,12 +39,12 @@
 			"totalScores": 2415,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 84,
-					"outOf": 713
+					"ranking": 85,
+					"outOf": 717
 				},
 				"naiveRatingRefresh": {
-					"ranking": 55,
-					"outOf": 713
+					"ranking": 56,
+					"outOf": 717
 				}
 			},
 			"playtime": 847131400
@@ -63,12 +63,12 @@
 			"totalScores": 549,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 56,
-					"outOf": 713
+					"ranking": 57,
+					"outOf": 717
 				},
 				"naiveRatingRefresh": {
-					"ranking": 47,
-					"outOf": 713
+					"ranking": 48,
+					"outOf": 717
 				}
 			},
 			"playtime": 244890000
@@ -87,12 +87,12 @@
 			"totalScores": 3321,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 38,
-					"outOf": 713
+					"ranking": 39,
+					"outOf": 717
 				},
 				"naiveRatingRefresh": {
 					"ranking": 14,
-					"outOf": 713
+					"outOf": 717
 				}
 			},
 			"playtime": 984560400
@@ -111,12 +111,12 @@
 			"totalScores": 6199,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 22,
-					"outOf": 713
+					"ranking": 23,
+					"outOf": 717
 				},
 				"naiveRatingRefresh": {
 					"ranking": 7,
-					"outOf": 713
+					"outOf": 717
 				}
 			},
 			"playtime": 1909733300
@@ -135,12 +135,12 @@
 			"totalScores": 355,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 170,
-					"outOf": 713
+					"ranking": 171,
+					"outOf": 717
 				},
 				"naiveRatingRefresh": {
-					"ranking": 189,
-					"outOf": 713
+					"ranking": 190,
+					"outOf": 717
 				}
 			},
 			"playtime": 119861300
@@ -159,12 +159,12 @@
 			"totalScores": 578,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 77,
-					"outOf": 713
+					"ranking": 78,
+					"outOf": 717
 				},
 				"naiveRatingRefresh": {
-					"ranking": 79,
-					"outOf": 713
+					"ranking": 80,
+					"outOf": 717
 				}
 			},
 			"playtime": 165351000
