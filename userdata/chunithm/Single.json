@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1778112701358.356,
+	"lastUpdate": 1778242223553.158,
 	"profiles": [
 		{
 			"id": 1751,
@@ -55,7 +55,7 @@
 			"totalScores": 5117,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 64,
+					"ranking": 65,
 					"outOf": 1651
 				}
 			},
@@ -90,15 +90,15 @@
 				"colour": "RAINBOW_II",
 				"dan": "DAN_IV"
 			},
-			"mostRecentScoreTimeAchieved": 1777856808000,
-			"totalScores": 1930,
+			"mostRecentScoreTimeAchieved": 1778205356000,
+			"totalScores": 1954,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 361,
 					"outOf": 1651
 				}
 			},
-			"playtime": 537222000
+			"playtime": 542120000
 		},
 		{
 			"id": 1703,
@@ -133,7 +133,7 @@
 			"totalScores": 1054,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 394,
+					"ranking": 396,
 					"outOf": 1651
 				}
 			},
