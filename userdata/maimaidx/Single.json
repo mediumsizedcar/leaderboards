@@ -1,26 +1,26 @@
 {
-	"lastUpdate": 1777985683778.35,
+	"lastUpdate": 1778561443365.248,
 	"profiles": [
 		{
 			"id": 2024,
 			"name": "ItzFishy",
 			"ratings": {
-				"naiveRate": 16053
+				"naiveRate": 16073
 			},
 			"classes": {
 				"dan": "SHINDAN_8",
 				"matchingClass": "SSS5",
 				"colour": "RAINBOW"
 			},
-			"mostRecentScoreTimeAchieved": 1776868122000,
-			"totalScores": 5413,
+			"mostRecentScoreTimeAchieved": 1778159023000,
+			"totalScores": 5478,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 137,
-					"outOf": 1344
+					"ranking": 130,
+					"outOf": 1351
 				}
 			},
-			"playtime": 1757813000
+			"playtime": 1788755000
 		},
 		{
 			"id": 1085,
@@ -35,8 +35,8 @@
 			"totalScores": 28,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 1258,
-					"outOf": 1344
+					"ranking": 1264,
+					"outOf": 1351
 				}
 			},
 			"playtime": 15066000
@@ -56,8 +56,8 @@
 			"totalScores": 3634,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 313,
-					"outOf": 1344
+					"ranking": 318,
+					"outOf": 1351
 				}
 			},
 			"playtime": 964895000
@@ -77,8 +77,8 @@
 			"totalScores": 816,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 433,
-					"outOf": 1344
+					"ranking": 441,
+					"outOf": 1351
 				}
 			},
 			"playtime": 275008000
@@ -98,8 +98,8 @@
 			"totalScores": 543,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 710,
-					"outOf": 1344
+					"ranking": 715,
+					"outOf": 1351
 				}
 			},
 			"playtime": 132480000
