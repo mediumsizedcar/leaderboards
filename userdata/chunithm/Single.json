@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1778710222202.709,
+	"lastUpdate": 1778832831499.2722,
 	"profiles": [
 		{
 			"id": 1751,
@@ -14,8 +14,8 @@
 			"totalScores": 330,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 864,
-					"outOf": 1656
+					"ranking": 868,
+					"outOf": 1660
 				}
 			},
 			"playtime": 179971000
@@ -34,8 +34,8 @@
 			"totalScores": 3425,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 449,
-					"outOf": 1656
+					"ranking": 452,
+					"outOf": 1660
 				}
 			},
 			"playtime": 1256993000
@@ -44,22 +44,22 @@
 			"id": 2024,
 			"name": "ItzFishy",
 			"ratings": {
-				"naiveRating": 17.28
+				"naiveRating": 17.29
 			},
 			"classes": {
 				"colour": "RAINBOW_EX_II",
 				"dan": "DAN_INFINITE",
 				"emblem": "DAN_IV"
 			},
-			"mostRecentScoreTimeAchieved": 1778521692000,
-			"totalScores": 5258,
+			"mostRecentScoreTimeAchieved": 1778720266000,
+			"totalScores": 5296,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 62,
-					"outOf": 1656
+					"outOf": 1660
 				}
 			},
-			"playtime": 1474604000
+			"playtime": 1484348000
 		},
 		{
 			"id": 1085,
@@ -74,8 +74,8 @@
 			"totalScores": 58,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1406,
-					"outOf": 1656
+					"ranking": 1409,
+					"outOf": 1660
 				}
 			},
 			"playtime": 15768000
@@ -94,8 +94,8 @@
 			"totalScores": 2047,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 350,
-					"outOf": 1656
+					"ranking": 351,
+					"outOf": 1660
 				}
 			},
 			"playtime": 563199000
@@ -110,15 +110,15 @@
 				"dan": "DAN_INFINITE",
 				"colour": "RAINBOW_EX_II"
 			},
-			"mostRecentScoreTimeAchieved": 1778633235000,
-			"totalScores": 12982,
+			"mostRecentScoreTimeAchieved": 1778770359000,
+			"totalScores": 13024,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 18,
-					"outOf": 1656
+					"ranking": 19,
+					"outOf": 1660
 				}
 			},
-			"playtime": 861242000
+			"playtime": 868799000
 		},
 		{
 			"id": 397,
@@ -133,8 +133,8 @@
 			"totalScores": 1054,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 392,
-					"outOf": 1656
+					"ranking": 397,
+					"outOf": 1660
 				}
 			},
 			"playtime": 488836381
