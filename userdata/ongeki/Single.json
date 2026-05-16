@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1778627096024.409,
+	"lastUpdate": 1778965310471.863,
 	"profiles": [
 		{
 			"id": 1751,
@@ -15,12 +15,12 @@
 			"totalScores": 115,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 389,
-					"outOf": 718
+					"ranking": 392,
+					"outOf": 726
 				},
 				"naiveRatingRefresh": {
-					"ranking": 383,
-					"outOf": 718
+					"ranking": 386,
+					"outOf": 726
 				}
 			},
 			"playtime": 37785900
@@ -40,11 +40,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 85,
-					"outOf": 718
+					"outOf": 726
 				},
 				"naiveRatingRefresh": {
 					"ranking": 56,
-					"outOf": 718
+					"outOf": 726
 				}
 			},
 			"playtime": 847131400
@@ -59,19 +59,19 @@
 			"classes": {
 				"colour": "RAINBOW_SHINY"
 			},
-			"mostRecentScoreTimeAchieved": 1777678306000,
-			"totalScores": 549,
+			"mostRecentScoreTimeAchieved": 1778890433000,
+			"totalScores": 552,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 57,
-					"outOf": 718
+					"ranking": 58,
+					"outOf": 726
 				},
 				"naiveRatingRefresh": {
 					"ranking": 48,
-					"outOf": 718
+					"outOf": 726
 				}
 			},
-			"playtime": 244890000
+			"playtime": 245294000
 		},
 		{
 			"id": 1085,
@@ -88,11 +88,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 39,
-					"outOf": 718
+					"outOf": 726
 				},
 				"naiveRatingRefresh": {
 					"ranking": 14,
-					"outOf": 718
+					"outOf": 726
 				}
 			},
 			"playtime": 994793400
@@ -112,11 +112,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 23,
-					"outOf": 718
+					"outOf": 726
 				},
 				"naiveRatingRefresh": {
 					"ranking": 7,
-					"outOf": 718
+					"outOf": 726
 				}
 			},
 			"playtime": 1909733300
@@ -125,25 +125,25 @@
 			"id": 1703,
 			"name": "Rythmik",
 			"ratings": {
-				"naiveRating": 15.19,
-				"naiveRatingRefresh": 18.02
+				"naiveRating": 15.25,
+				"naiveRatingRefresh": 18.126
 			},
 			"classes": {
 				"colour": "PLATINUM"
 			},
-			"mostRecentScoreTimeAchieved": 1755982555700,
-			"totalScores": 355,
+			"mostRecentScoreTimeAchieved": 1774814671700,
+			"totalScores": 381,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 171,
-					"outOf": 718
+					"ranking": 168,
+					"outOf": 726
 				},
 				"naiveRatingRefresh": {
-					"ranking": 190,
-					"outOf": 718
+					"ranking": 176,
+					"outOf": 726
 				}
 			},
-			"playtime": 119861300
+			"playtime": 140246100
 		},
 		{
 			"id": 397,
@@ -160,11 +160,11 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 78,
-					"outOf": 718
+					"outOf": 726
 				},
 				"naiveRatingRefresh": {
-					"ranking": 80,
-					"outOf": 718
+					"ranking": 81,
+					"outOf": 726
 				}
 			},
 			"playtime": 165351000
