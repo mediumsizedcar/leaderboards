@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1778832831499.2722,
+	"lastUpdate": 1778926480471.098,
 	"profiles": [
 		{
 			"id": 1751,
@@ -14,8 +14,8 @@
 			"totalScores": 330,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 868,
-					"outOf": 1660
+					"ranking": 870,
+					"outOf": 1662
 				}
 			},
 			"playtime": 179971000
@@ -34,8 +34,8 @@
 			"totalScores": 3425,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 452,
-					"outOf": 1660
+					"ranking": 453,
+					"outOf": 1662
 				}
 			},
 			"playtime": 1256993000
@@ -51,15 +51,15 @@
 				"dan": "DAN_INFINITE",
 				"emblem": "DAN_IV"
 			},
-			"mostRecentScoreTimeAchieved": 1778720266000,
-			"totalScores": 5296,
+			"mostRecentScoreTimeAchieved": 1778909495000,
+			"totalScores": 5335,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 62,
-					"outOf": 1660
+					"outOf": 1662
 				}
 			},
-			"playtime": 1484348000
+			"playtime": 1504474000
 		},
 		{
 			"id": 1085,
@@ -74,8 +74,8 @@
 			"totalScores": 58,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1409,
-					"outOf": 1660
+					"ranking": 1411,
+					"outOf": 1662
 				}
 			},
 			"playtime": 15768000
@@ -95,7 +95,7 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 351,
-					"outOf": 1660
+					"outOf": 1662
 				}
 			},
 			"playtime": 563199000
@@ -115,7 +115,7 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 19,
-					"outOf": 1660
+					"outOf": 1662
 				}
 			},
 			"playtime": 868799000
@@ -133,8 +133,8 @@
 			"totalScores": 1054,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 397,
-					"outOf": 1660
+					"ranking": 399,
+					"outOf": 1662
 				}
 			},
 			"playtime": 488836381
