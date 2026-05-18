@@ -1,26 +1,26 @@
 {
-	"lastUpdate": 1773806926533.483,
+	"lastUpdate": 1778619079636.407,
 	"profiles": [
 		{
 			"id": 2024,
 			"name": "ItzFishy",
 			"ratings": {
-				"naiveRate": 16025
+				"naiveRate": 16073
 			},
 			"classes": {
 				"dan": "SHINDAN_8",
 				"matchingClass": "SSS5",
 				"colour": "RAINBOW"
 			},
-			"mostRecentScoreTimeAchieved": 1773415866000,
-			"totalScores": 5133,
+			"mostRecentScoreTimeAchieved": 1778159023000,
+			"totalScores": 5478,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 139,
-					"outOf": 1256
+					"ranking": 130,
+					"outOf": 1351
 				}
 			},
-			"playtime": 1698068000
+			"playtime": 1788755000
 		},
 		{
 			"id": 1085,
@@ -35,8 +35,8 @@
 			"totalScores": 28,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 1177,
-					"outOf": 1256
+					"ranking": 1264,
+					"outOf": 1351
 				}
 			},
 			"playtime": 15066000
@@ -45,40 +45,40 @@
 			"id": 1750,
 			"name": "ryona",
 			"ratings": {
-				"naiveRate": 15395
+				"naiveRate": 15416
 			},
 			"classes": {
 				"colour": "RAINBOW",
 				"dan": "DAN_10",
 				"matchingClass": "SS4"
 			},
-			"mostRecentScoreTimeAchieved": 1771813798000,
-			"totalScores": 3590,
+			"mostRecentScoreTimeAchieved": 1777159462000,
+			"totalScores": 3634,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 308,
-					"outOf": 1256
+					"ranking": 319,
+					"outOf": 1351
 				}
 			},
-			"playtime": 953134000
+			"playtime": 964895000
 		},
 		{
 			"id": 1703,
 			"name": "Rythmik",
 			"ratings": {
-				"naiveRate": 14800
+				"naiveRate": 15093
 			},
 			"classes": {
-				"colour": "PLATINUM",
+				"colour": "RAINBOW",
 				"matchingClass": "S4",
-				"dan": "SHINDAN_2"
+				"dan": "SHINDAN_3"
 			},
 			"mostRecentScoreTimeAchieved": 1769833080000,
-			"totalScores": 714,
+			"totalScores": 816,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 481,
-					"outOf": 1256
+					"ranking": 441,
+					"outOf": 1351
 				}
 			},
 			"playtime": 275008000
@@ -98,8 +98,8 @@
 			"totalScores": 543,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 665,
-					"outOf": 1256
+					"ranking": 715,
+					"outOf": 1351
 				}
 			},
 			"playtime": 132480000

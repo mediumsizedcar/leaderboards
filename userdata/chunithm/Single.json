@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1773806926533.483,
+	"lastUpdate": 1778926480471.098,
 	"profiles": [
 		{
 			"id": 1751,
@@ -14,8 +14,8 @@
 			"totalScores": 330,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 796,
-					"outOf": 1535
+					"ranking": 870,
+					"outOf": 1662
 				}
 			},
 			"playtime": 179971000
@@ -24,7 +24,7 @@
 			"id": 1552,
 			"name": "eclair",
 			"ratings": {
-				"naiveRating": 16.15
+				"naiveRating": 16.14
 			},
 			"classes": {
 				"colour": "RAINBOW",
@@ -34,8 +34,8 @@
 			"totalScores": 3425,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 396,
-					"outOf": 1535
+					"ranking": 453,
+					"outOf": 1662
 				}
 			},
 			"playtime": 1256993000
@@ -44,22 +44,22 @@
 			"id": 2024,
 			"name": "ItzFishy",
 			"ratings": {
-				"naiveRating": 17.19
+				"naiveRating": 17.29
 			},
 			"classes": {
-				"colour": "RAINBOW_EX_I",
-				"dan": "DAN_V",
+				"colour": "RAINBOW_EX_II",
+				"dan": "DAN_INFINITE",
 				"emblem": "DAN_IV"
 			},
-			"mostRecentScoreTimeAchieved": 1773706631000,
-			"totalScores": 4660,
+			"mostRecentScoreTimeAchieved": 1778909495000,
+			"totalScores": 5335,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 75,
-					"outOf": 1535
+					"ranking": 62,
+					"outOf": 1662
 				}
 			},
-			"playtime": 1271813000
+			"playtime": 1504474000
 		},
 		{
 			"id": 1085,
@@ -74,8 +74,8 @@
 			"totalScores": 58,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1303,
-					"outOf": 1535
+					"ranking": 1411,
+					"outOf": 1662
 				}
 			},
 			"playtime": 15768000
@@ -84,60 +84,60 @@
 			"id": 1750,
 			"name": "ryona",
 			"ratings": {
-				"naiveRating": 16.12
+				"naiveRating": 16.37
 			},
 			"classes": {
-				"colour": "RAINBOW",
+				"colour": "RAINBOW_II",
 				"dan": "DAN_IV"
 			},
-			"mostRecentScoreTimeAchieved": 1773622781000,
-			"totalScores": 1346,
+			"mostRecentScoreTimeAchieved": 1778463328000,
+			"totalScores": 2047,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 407,
-					"outOf": 1535
+					"ranking": 351,
+					"outOf": 1662
 				}
 			},
-			"playtime": 394353000
+			"playtime": 563199000
 		},
 		{
 			"id": 1703,
 			"name": "Rythmik",
 			"ratings": {
-				"naiveRating": 17.45
+				"naiveRating": 17.48
 			},
 			"classes": {
 				"dan": "DAN_INFINITE",
 				"colour": "RAINBOW_EX_II"
 			},
-			"mostRecentScoreTimeAchieved": 1773799251000,
-			"totalScores": 11121,
+			"mostRecentScoreTimeAchieved": 1778770359000,
+			"totalScores": 13024,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 24,
-					"outOf": 1535
+					"ranking": 19,
+					"outOf": 1662
 				}
 			},
-			"playtime": 356152000
+			"playtime": 868799000
 		},
 		{
 			"id": 397,
 			"name": "The_Manwich",
 			"ratings": {
-				"naiveRating": 16.23
+				"naiveRating": 16.25
 			},
 			"classes": {
-				"colour": "RAINBOW"
+				"colour": "RAINBOW_II"
 			},
-			"mostRecentScoreTimeAchieved": 1754795406000,
-			"totalScores": 1027,
+			"mostRecentScoreTimeAchieved": 1777223382000,
+			"totalScores": 1054,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 358,
-					"outOf": 1535
+					"ranking": 399,
+					"outOf": 1662
 				}
 			},
-			"playtime": 481754381
+			"playtime": 488836381
 		}
 	]
 }
