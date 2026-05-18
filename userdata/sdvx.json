@@ -1,0 +1,144 @@
+{
+	"lastUpdate": 1779142557722.2332,
+	"profiles": [
+		{
+			"id": 1751,
+			"name": "Andripula",
+			"ratings": {
+				"VF6": 20.791999999999984
+			},
+			"classes": {
+				"dan": "INF",
+				"vfClass": "IMPERIAL_I"
+			},
+			"mostRecentScoreTimeAchieved": 1770709804000,
+			"totalScores": 24535,
+			"rankingData": {
+				"VF6": {
+					"ranking": 29,
+					"outOf": 1441
+				}
+			},
+			"playtime": 5826604232
+		},
+		{
+			"id": 1552,
+			"name": "eclair",
+			"ratings": {
+				"VF6": 19.681999999999995
+			},
+			"classes": {
+				"dan": "INF",
+				"vfClass": "CRIMSON_III"
+			},
+			"mostRecentScoreTimeAchieved": 1779039347000,
+			"totalScores": 22606,
+			"rankingData": {
+				"VF6": {
+					"ranking": 172,
+					"outOf": 1441
+				}
+			},
+			"playtime": 4658024029
+		},
+		{
+			"id": 2024,
+			"name": "ItzFishy",
+			"ratings": {
+				"VF6": 19.638
+			},
+			"classes": {
+				"dan": "INF",
+				"vfClass": "CRIMSON_III"
+			},
+			"mostRecentScoreTimeAchieved": 1770172502250,
+			"totalScores": 3469,
+			"rankingData": {
+				"VF6": {
+					"ranking": 182,
+					"outOf": 1441
+				}
+			},
+			"playtime": 809805393
+		},
+		{
+			"id": 1085,
+			"name": "Litter",
+			"ratings": {
+				"VF6": 18.914999999999996
+			},
+			"classes": {
+				"dan": "DAN_10",
+				"vfClass": "ELDORA_IV"
+			},
+			"mostRecentScoreTimeAchieved": 1766814235000,
+			"totalScores": 4266,
+			"rankingData": {
+				"VF6": {
+					"ranking": 323,
+					"outOf": 1441
+				}
+			},
+			"playtime": 1060251097
+		},
+		{
+			"id": 1750,
+			"name": "ryona",
+			"ratings": {
+				"VF6": 11.196000000000005
+			},
+			"classes": {
+				"vfClass": "COBALT_III"
+			},
+			"mostRecentScoreTimeAchieved": 1760839049000,
+			"totalScores": 83,
+			"rankingData": {
+				"VF6": {
+					"ranking": 1209,
+					"outOf": 1441
+				}
+			},
+			"playtime": 26296000
+		},
+		{
+			"id": 1703,
+			"name": "Rythmik",
+			"ratings": {
+				"VF6": 20.617000000000022
+			},
+			"classes": {
+				"dan": "INF",
+				"vfClass": "IMPERIAL_I"
+			},
+			"mostRecentScoreTimeAchieved": 1778199973000,
+			"totalScores": 10675,
+			"rankingData": {
+				"VF6": {
+					"ranking": 46,
+					"outOf": 1441
+				}
+			},
+			"playtime": 2926542143
+		},
+		{
+			"id": 397,
+			"name": "The_Manwich",
+			"ratings": {
+				"VF6": 20.591000000000008
+			},
+			"classes": {
+				"dan": "INF",
+				"vfClass": "IMPERIAL_I"
+			},
+			"mostRecentScoreTimeAchieved": 1769722879000,
+			"totalScores": 5771,
+			"rankingData": {
+				"VF6": {
+					"ranking": 52,
+					"outOf": 1441
+				}
+			},
+			"playtime": 1771471000
+		}
+	]
+}
