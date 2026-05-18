@@ -1,0 +1,24 @@
+{
+	"lastUpdate": 1779139006949.7212,
+	"profiles": [
+		{
+			"id": 1750,
+			"name": "ryona",
+			"ratings": {
+				"naiveSkill": 86.97
+			},
+			"classes": {
+				"colour": "WHITE"
+			},
+			"mostRecentScoreTimeAchieved": 1754242740000,
+			"totalScores": 3,
+			"rankingData": {
+				"naiveSkill": {
+					"ranking": 36,
+					"outOf": 37
+				}
+			},
+			"playtime": 420000
+		}
+	]
+}
