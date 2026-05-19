@@ -1,0 +1,108 @@
+{
+	"lastUpdate": 1779180497713.397,
+	"profiles": [
+		{
+			"id": 2024,
+			"name": "ItzFishy",
+			"ratings": {
+				"naiveRate": 16073
+			},
+			"classes": {
+				"dan": "SHINDAN_8",
+				"colour": "RAINBOW",
+				"matchingClass": "SSS5"
+			},
+			"mostRecentScoreTimeAchieved": 1778159023000,
+			"totalScores": 5478,
+			"rankingData": {
+				"naiveRate": {
+					"ranking": 131,
+					"outOf": 1355
+				}
+			},
+			"playtime": 1788755000
+		},
+		{
+			"id": 1085,
+			"name": "Litter",
+			"ratings": {
+				"naiveRate": 4515
+			},
+			"classes": {
+				"colour": "YELLOW"
+			},
+			"mostRecentScoreTimeAchieved": 1744516356000,
+			"totalScores": 28,
+			"rankingData": {
+				"naiveRate": {
+					"ranking": 1268,
+					"outOf": 1355
+				}
+			},
+			"playtime": 15066000
+		},
+		{
+			"id": 1750,
+			"name": "ryona",
+			"ratings": {
+				"naiveRate": 15416
+			},
+			"classes": {
+				"dan": "DAN_10",
+				"colour": "RAINBOW",
+				"matchingClass": "SS4"
+			},
+			"mostRecentScoreTimeAchieved": 1777159462000,
+			"totalScores": 3634,
+			"rankingData": {
+				"naiveRate": {
+					"ranking": 323,
+					"outOf": 1355
+				}
+			},
+			"playtime": 964895000
+		},
+		{
+			"id": 1703,
+			"name": "Rythmik",
+			"ratings": {
+				"naiveRate": 15120
+			},
+			"classes": {
+				"dan": "SHINDAN_3",
+				"colour": "RAINBOW",
+				"matchingClass": "S4"
+			},
+			"mostRecentScoreTimeAchieved": 1769833080000,
+			"totalScores": 847,
+			"rankingData": {
+				"naiveRate": {
+					"ranking": 435,
+					"outOf": 1355
+				}
+			},
+			"playtime": 275008000
+		},
+		{
+			"id": 397,
+			"name": "The_Manwich",
+			"ratings": {
+				"naiveRate": 13928
+			},
+			"classes": {
+				"dan": "DAN_7",
+				"colour": "SILVER",
+				"matchingClass": "B4"
+			},
+			"mostRecentScoreTimeAchieved": 1769883240000,
+			"totalScores": 543,
+			"rankingData": {
+				"naiveRate": {
+					"ranking": 722,
+					"outOf": 1355
+				}
+			},
+			"playtime": 132480000
+		}
+	]
+}
