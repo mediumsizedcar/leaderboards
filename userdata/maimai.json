@@ -1,0 +1,43 @@
+{
+	"lastUpdate": 1779266662722.75,
+	"profiles": [
+		{
+			"id": 2024,
+			"name": "ItzFishy",
+			"ratings": {
+				"naiveRate": 15.150999999999998
+			},
+			"classes": {
+				"colour": "RAINBOW"
+			},
+			"mostRecentScoreTimeAchieved": 1759622722000,
+			"totalScores": 1722,
+			"rankingData": {
+				"naiveRate": {
+					"ranking": 34,
+					"outOf": 328
+				}
+			},
+			"playtime": 579699000
+		},
+		{
+			"id": 1703,
+			"name": "Rythmik",
+			"ratings": {
+				"naiveRate": 12.521000000000003
+			},
+			"classes": {
+				"colour": "PURPLE"
+			},
+			"mostRecentScoreTimeAchieved": 1742692726000,
+			"totalScores": 342,
+			"rankingData": {
+				"naiveRate": {
+					"ranking": 123,
+					"outOf": 328
+				}
+			},
+			"playtime": 134763000
+		}
+	]
+}
