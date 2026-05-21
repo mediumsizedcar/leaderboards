@@ -1,0 +1,53 @@
+{
+	"lastUpdate": 1779381318743.259,
+	"profiles": [
+		{
+			"id": 1750,
+			"name": "ryona",
+			"ratings": {
+				"jubility": 156.2,
+				"naiveJubility": 156.2
+			},
+			"classes": {
+				"colour": "BLACK"
+			},
+			"mostRecentScoreTimeAchieved": 1754255100000,
+			"totalScores": 3,
+			"rankingData": {
+				"jubility": {
+					"ranking": 192,
+					"outOf": 197
+				},
+				"naiveJubility": {
+					"ranking": 192,
+					"outOf": 197
+				}
+			},
+			"playtime": 540000
+		},
+		{
+			"id": 1703,
+			"name": "Rythmik",
+			"ratings": {
+				"jubility": 2220.7,
+				"naiveJubility": 3250.1000000000004
+			},
+			"classes": {
+				"colour": "LIGHT_BLUE"
+			},
+			"mostRecentScoreTimeAchieved": 1743285480000,
+			"totalScores": 56,
+			"rankingData": {
+				"jubility": {
+					"ranking": 149,
+					"outOf": 197
+				},
+				"naiveJubility": {
+					"ranking": 151,
+					"outOf": 197
+				}
+			},
+			"playtime": 28238000
+		}
+	]
+}
