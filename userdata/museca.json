@@ -1,22 +1,22 @@
 {
-	"lastUpdate": 1779286298888.78,
+	"lastUpdate": 1779487982508.314,
 	"profiles": [
 		{
 			"id": 1750,
 			"name": "ryona",
 			"ratings": {
-				"curatorSkill": 17958
+				"curatorSkill": 17962
 			},
 			"classes": {},
 			"mostRecentScoreTimeAchieved": 1774798920000,
-			"totalScores": 29,
+			"totalScores": 30,
 			"rankingData": {
 				"curatorSkill": {
-					"ranking": 39,
-					"outOf": 76
+					"ranking": 41,
+					"outOf": 78
 				}
 			},
-			"playtime": 13980000
+			"playtime": 14460000
 		},
 		{
 			"id": 1703,
@@ -30,7 +30,7 @@
 			"rankingData": {
 				"curatorSkill": {
 					"ranking": 63,
-					"outOf": 76
+					"outOf": 78
 				}
 			},
 			"playtime": 360000
