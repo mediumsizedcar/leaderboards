@@ -1,0 +1,102 @@
+{
+	"lastUpdate": 1779575321961.582,
+	"profiles": [
+		{
+			"id": 1552,
+			"name": "eclair",
+			"ratings": {
+				"naiveRate": 1816.8249999999998
+			},
+			"classes": {
+				"colour": "BLUE"
+			},
+			"mostRecentScoreTimeAchieved": 1734824060092,
+			"totalScores": 92,
+			"rankingData": {
+				"naiveRate": {
+					"ranking": 403,
+					"outOf": 738
+				}
+			},
+			"playtime": 52492025
+		},
+		{
+			"id": 2024,
+			"name": "ItzFishy",
+			"ratings": {
+				"naiveRate": 2367.9750000000004
+			},
+			"classes": {
+				"colour": "GOLD"
+			},
+			"mostRecentScoreTimeAchieved": 1777774205362,
+			"totalScores": 99,
+			"rankingData": {
+				"naiveRate": {
+					"ranking": 213,
+					"outOf": 738
+				}
+			},
+			"playtime": 35125201
+		},
+		{
+			"id": 1085,
+			"name": "Litter",
+			"ratings": {
+				"naiveRate": 811.8749999999998
+			},
+			"classes": {
+				"colour": "YELLOW"
+			},
+			"mostRecentScoreTimeAchieved": 1723337571431,
+			"totalScores": 33,
+			"rankingData": {
+				"naiveRate": {
+					"ranking": 570,
+					"outOf": 738
+				}
+			},
+			"playtime": 11975700
+		},
+		{
+			"id": 1750,
+			"name": "ryona",
+			"ratings": {
+				"naiveRate": 2291.7249999999995
+			},
+			"classes": {
+				"colour": "GOLD",
+				"stageUp": "IX"
+			},
+			"mostRecentScoreTimeAchieved": 1773014531081,
+			"totalScores": 253,
+			"rankingData": {
+				"naiveRate": {
+					"ranking": 239,
+					"outOf": 738
+				}
+			},
+			"playtime": 109114662
+		},
+		{
+			"id": 1703,
+			"name": "Rythmik",
+			"ratings": {
+				"naiveRate": 2558.8250000000003
+			},
+			"classes": {
+				"colour": "RAINBOW",
+				"stageUp": "X"
+			},
+			"mostRecentScoreTimeAchieved": 1764485031703,
+			"totalScores": 306,
+			"rankingData": {
+				"naiveRate": {
+					"ranking": 130,
+					"outOf": 738
+				}
+			},
+			"playtime": 117776076
+		}
+	]
+}
