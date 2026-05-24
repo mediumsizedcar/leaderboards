@@ -1,0 +1,69 @@
+{
+	"lastUpdate": 1779609987681.812,
+	"profiles": [
+		{
+			"id": 1750,
+			"name": "ryona",
+			"ratings": {
+				"BPI": null,
+				"ktLampRating": 0,
+				"ktLampRatingHC": 0,
+				"ktLampRatingEXHC": 0
+			},
+			"classes": {},
+			"mostRecentScoreTimeAchieved": 1754243277000,
+			"totalScores": 1,
+			"rankingData": {
+				"ktLampRating": {
+					"ranking": 392,
+					"outOf": 541
+				},
+				"ktLampRatingHC": {
+					"ranking": 190,
+					"outOf": 541
+				},
+				"ktLampRatingEXHC": {
+					"ranking": 133,
+					"outOf": 541
+				},
+				"BPI": {
+					"ranking": 1,
+					"outOf": 541
+				}
+			},
+			"playtime": 0
+		},
+		{
+			"id": 397,
+			"name": "The_Manwich",
+			"ratings": {
+				"BPI": null,
+				"ktLampRating": 0,
+				"ktLampRatingHC": 0,
+				"ktLampRatingEXHC": 0
+			},
+			"classes": {},
+			"mostRecentScoreTimeAchieved": 1478229664775,
+			"totalScores": 3,
+			"rankingData": {
+				"ktLampRating": {
+					"ranking": 392,
+					"outOf": 541
+				},
+				"ktLampRatingHC": {
+					"ranking": 190,
+					"outOf": 541
+				},
+				"ktLampRatingEXHC": {
+					"ranking": 133,
+					"outOf": 541
+				},
+				"BPI": {
+					"ranking": 1,
+					"outOf": 541
+				}
+			},
+			"playtime": 191043
+		}
+	]
+}
