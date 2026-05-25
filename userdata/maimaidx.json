@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1779540336837.631,
+	"lastUpdate": 1779706141678.669,
 	"profiles": [
 		{
 			"id": 2024,
@@ -9,15 +9,15 @@
 			},
 			"classes": {
 				"dan": "SHINDAN_8",
-				"colour": "RAINBOW",
+				"colour": "RAINBOW_EX_I",
 				"matchingClass": "SSS5"
 			},
 			"mostRecentScoreTimeAchieved": 1779280455000,
 			"totalScores": 5701,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 125,
-					"outOf": 1363
+					"ranking": 126,
+					"outOf": 1369
 				}
 			},
 			"playtime": 1847141000
@@ -35,8 +35,8 @@
 			"totalScores": 28,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 1275,
-					"outOf": 1363
+					"ranking": 1279,
+					"outOf": 1369
 				}
 			},
 			"playtime": 15066000
@@ -49,15 +49,15 @@
 			},
 			"classes": {
 				"dan": "DAN_10",
-				"colour": "RAINBOW",
+				"colour": "RAINBOW_II",
 				"matchingClass": "SS4"
 			},
 			"mostRecentScoreTimeAchieved": 1777753732000,
 			"totalScores": 3753,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 323,
-					"outOf": 1363
+					"ranking": 327,
+					"outOf": 1369
 				}
 			},
 			"playtime": 973473000
@@ -77,8 +77,8 @@
 			"totalScores": 869,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 425,
-					"outOf": 1363
+					"ranking": 428,
+					"outOf": 1369
 				}
 			},
 			"playtime": 275008000
@@ -98,8 +98,8 @@
 			"totalScores": 987,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 436,
-					"outOf": 1363
+					"ranking": 440,
+					"outOf": 1369
 				}
 			},
 			"playtime": 150600000
