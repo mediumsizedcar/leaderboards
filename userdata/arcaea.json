@@ -1,4 +1,25 @@
 {
-	"lastUpdate": 1779742268010.684,
-	"profiles": []
+	"lastUpdate": 1779922318143.3179,
+	"profiles": [
+		{
+			"id": 1750,
+			"name": "ryona",
+			"ratings": {
+				"naivePotential": 11.325796111111112
+			},
+			"classes": {
+				"badge": "RED",
+				"courseBanner": "PHASE_7"
+			},
+			"mostRecentScoreTimeAchieved": 1733116000000,
+			"totalScores": 805,
+			"rankingData": {
+				"naivePotential": {
+					"ranking": 22,
+					"outOf": 29
+				}
+			},
+			"playtime": 191000000
+		}
+	]
 }
