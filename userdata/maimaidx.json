@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1779706141678.669,
+	"lastUpdate": 1779986876410.565,
 	"profiles": [
 		{
 			"id": 2024,
@@ -16,8 +16,8 @@
 			"totalScores": 5701,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 126,
-					"outOf": 1369
+					"ranking": 127,
+					"outOf": 1374
 				}
 			},
 			"playtime": 1847141000
@@ -35,8 +35,8 @@
 			"totalScores": 28,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 1279,
-					"outOf": 1369
+					"ranking": 1284,
+					"outOf": 1374
 				}
 			},
 			"playtime": 15066000
@@ -56,8 +56,8 @@
 			"totalScores": 3753,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 327,
-					"outOf": 1369
+					"ranking": 330,
+					"outOf": 1374
 				}
 			},
 			"playtime": 973473000
@@ -66,43 +66,43 @@
 			"id": 1703,
 			"name": "Rythmik",
 			"ratings": {
-				"naiveRate": 15153
+				"naiveRate": 15170
 			},
 			"classes": {
 				"dan": "SHINDAN_3",
 				"colour": "RAINBOW",
 				"matchingClass": "S4"
 			},
-			"mostRecentScoreTimeAchieved": 1769833080000,
-			"totalScores": 869,
+			"mostRecentScoreTimeAchieved": 1779846960000,
+			"totalScores": 904,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 428,
-					"outOf": 1369
+					"ranking": 426,
+					"outOf": 1374
 				}
 			},
-			"playtime": 275008000
+			"playtime": 292168000
 		},
 		{
 			"id": 397,
 			"name": "The_Manwich",
 			"ratings": {
-				"naiveRate": 15122
+				"naiveRate": 15152
 			},
 			"classes": {
 				"dan": "SHINDAN_2",
 				"colour": "RAINBOW",
 				"matchingClass": "SS5"
 			},
-			"mostRecentScoreTimeAchieved": 1779240240000,
-			"totalScores": 987,
+			"mostRecentScoreTimeAchieved": 1779734100000,
+			"totalScores": 1047,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 440,
-					"outOf": 1369
+					"ranking": 433,
+					"outOf": 1374
 				}
 			},
-			"playtime": 150600000
+			"playtime": 169140000
 		}
 	]
 }
