@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1780008912807.738,
+	"lastUpdate": 1780253709149.773,
 	"profiles": [
 		{
 			"id": 1751,
@@ -17,19 +17,19 @@
 			"totalScores": 115,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 400,
+					"ranking": 404,
 					"outOf": 740
 				},
 				"naiveRatingRefresh": {
-					"ranking": 396,
+					"ranking": 399,
 					"outOf": 740
 				},
 				"scoreRating": {
-					"ranking": 396,
+					"ranking": 399,
 					"outOf": 740
 				},
 				"starRating": {
-					"ranking": 295,
+					"ranking": 296,
 					"outOf": 740
 				}
 			},
@@ -63,7 +63,7 @@
 					"outOf": 740
 				},
 				"starRating": {
-					"ranking": 29,
+					"ranking": 30,
 					"outOf": 740
 				}
 			},
@@ -97,7 +97,7 @@
 					"outOf": 740
 				},
 				"starRating": {
-					"ranking": 30,
+					"ranking": 31,
 					"outOf": 740
 				}
 			},
@@ -107,27 +107,27 @@
 			"id": 1085,
 			"name": "Litter",
 			"ratings": {
-				"starRating": 0.731,
-				"naiveRating": 16.55,
-				"scoreRating": 16.765,
-				"naiveRatingRefresh": 20.849
+				"starRating": 0.735,
+				"naiveRating": 16.56,
+				"scoreRating": 16.773,
+				"naiveRatingRefresh": 20.862
 			},
 			"classes": {
 				"colour": "RAINBOW_SHINY"
 			},
-			"mostRecentScoreTimeAchieved": 1778469410000,
-			"totalScores": 3395,
+			"mostRecentScoreTimeAchieved": 1780205439000,
+			"totalScores": 3420,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 39,
+					"ranking": 38,
 					"outOf": 740
 				},
 				"naiveRatingRefresh": {
-					"ranking": 14,
+					"ranking": 13,
 					"outOf": 740
 				},
 				"scoreRating": {
-					"ranking": 27,
+					"ranking": 26,
 					"outOf": 740
 				},
 				"starRating": {
@@ -135,7 +135,7 @@
 					"outOf": 740
 				}
 			},
-			"playtime": 994793400
+			"playtime": 1002360400
 		},
 		{
 			"id": 1750,
@@ -187,19 +187,19 @@
 			"totalScores": 381,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 171,
+					"ranking": 173,
 					"outOf": 740
 				},
 				"naiveRatingRefresh": {
-					"ranking": 179,
+					"ranking": 180,
 					"outOf": 740
 				},
 				"scoreRating": {
-					"ranking": 179,
+					"ranking": 180,
 					"outOf": 740
 				},
 				"starRating": {
-					"ranking": 132,
+					"ranking": 133,
 					"outOf": 740
 				}
 			},
@@ -233,7 +233,7 @@
 					"outOf": 740
 				},
 				"starRating": {
-					"ranking": 76,
+					"ranking": 77,
 					"outOf": 740
 				}
 			},
