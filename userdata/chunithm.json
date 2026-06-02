@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1780230033483.532,
+	"lastUpdate": 1780381204168.7888,
 	"profiles": [
 		{
 			"id": 1751,
@@ -14,8 +14,8 @@
 			"totalScores": 330,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 894,
-					"outOf": 1697
+					"ranking": 897,
+					"outOf": 1701
 				}
 			},
 			"playtime": 179971000
@@ -34,8 +34,8 @@
 			"totalScores": 3425,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 464,
-					"outOf": 1697
+					"ranking": 467,
+					"outOf": 1701
 				}
 			},
 			"playtime": 1256993000
@@ -56,7 +56,7 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 53,
-					"outOf": 1697
+					"outOf": 1701
 				}
 			},
 			"playtime": 1539595000
@@ -74,8 +74,8 @@
 			"totalScores": 58,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1444,
-					"outOf": 1697
+					"ranking": 1448,
+					"outOf": 1701
 				}
 			},
 			"playtime": 15768000
@@ -84,21 +84,21 @@
 			"id": 1750,
 			"name": "ryona",
 			"ratings": {
-				"naiveRating": 16.5
+				"naiveRating": 16.51
 			},
 			"classes": {
 				"dan": "DAN_IV",
 				"colour": "RAINBOW_III"
 			},
-			"mostRecentScoreTimeAchieved": 1780197081000,
-			"totalScores": 2509,
+			"mostRecentScoreTimeAchieved": 1780279345000,
+			"totalScores": 2587,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 313,
-					"outOf": 1697
+					"ranking": 314,
+					"outOf": 1701
 				}
 			},
-			"playtime": 675635000
+			"playtime": 692756000
 		},
 		{
 			"id": 1703,
@@ -111,15 +111,15 @@
 				"colour": "RAINBOW_EX_II",
 				"emblem": "DAN_V"
 			},
-			"mostRecentScoreTimeAchieved": 1780021679000,
-			"totalScores": 13739,
+			"mostRecentScoreTimeAchieved": 1780293840000,
+			"totalScores": 13769,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 19,
-					"outOf": 1697
+					"outOf": 1701
 				}
 			},
-			"playtime": 1015902000
+			"playtime": 1020098000
 		},
 		{
 			"id": 397,
@@ -134,8 +134,8 @@
 			"totalScores": 1054,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 408,
-					"outOf": 1697
+					"ranking": 410,
+					"outOf": 1701
 				}
 			},
 			"playtime": 488836381
