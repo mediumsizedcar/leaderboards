@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1780930785132.3062,
+	"lastUpdate": 1781240254419.957,
 	"profiles": [
 		{
 			"id": 1751,
@@ -17,19 +17,19 @@
 			"totalScores": 115,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 410,
+					"ranking": 412,
 					"outOf": 751
 				},
 				"naiveRatingRefresh": {
-					"ranking": 405,
+					"ranking": 406,
 					"outOf": 751
 				},
 				"scoreRating": {
-					"ranking": 405,
+					"ranking": 406,
 					"outOf": 751
 				},
 				"starRating": {
-					"ranking": 301,
+					"ranking": 303,
 					"outOf": 751
 				}
 			},
@@ -59,7 +59,7 @@
 					"outOf": 751
 				},
 				"scoreRating": {
-					"ranking": 77,
+					"ranking": 79,
 					"outOf": 751
 				},
 				"starRating": {
@@ -187,15 +187,15 @@
 			"totalScores": 381,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 179,
+					"ranking": 180,
 					"outOf": 751
 				},
 				"naiveRatingRefresh": {
-					"ranking": 185,
+					"ranking": 187,
 					"outOf": 751
 				},
 				"scoreRating": {
-					"ranking": 187,
+					"ranking": 188,
 					"outOf": 751
 				},
 				"starRating": {
