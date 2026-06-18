@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1781439485155.46,
+	"lastUpdate": 1781799357544.2332,
 	"profiles": [
 		{
 			"id": 1751,
@@ -17,11 +17,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 27,
-					"outOf": 1482
+					"outOf": 1488
 				},
 				"VF7": {
-					"ranking": 26,
-					"outOf": 1482
+					"ranking": 27,
+					"outOf": 1488
 				}
 			},
 			"playtime": 6398996232
@@ -30,26 +30,26 @@
 			"id": 1552,
 			"name": "eclair",
 			"ratings": {
-				"VF6": 19.729999999999983,
-				"VF7": 20.16899999999999
+				"VF6": 19.730999999999987,
+				"VF7": 20.171999999999993
 			},
 			"classes": {
 				"dan": "INF",
 				"vfClass": "IMPERIAL_I"
 			},
-			"mostRecentScoreTimeAchieved": 1780283867000,
-			"totalScores": 23878,
+			"mostRecentScoreTimeAchieved": 1781391097000,
+			"totalScores": 24015,
 			"rankingData": {
 				"VF6": {
-					"ranking": 171,
-					"outOf": 1482
+					"ranking": 172,
+					"outOf": 1488
 				},
 				"VF7": {
 					"ranking": 160,
-					"outOf": 1482
+					"outOf": 1488
 				}
 			},
-			"playtime": 4909884029
+			"playtime": 4947047029
 		},
 		{
 			"id": 2024,
@@ -66,12 +66,12 @@
 			"totalScores": 3618,
 			"rankingData": {
 				"VF6": {
-					"ranking": 185,
-					"outOf": 1482
+					"ranking": 186,
+					"outOf": 1488
 				},
 				"VF7": {
-					"ranking": 180,
-					"outOf": 1482
+					"ranking": 181,
+					"outOf": 1488
 				}
 			},
 			"playtime": 842309393
@@ -91,12 +91,12 @@
 			"totalScores": 4266,
 			"rankingData": {
 				"VF6": {
-					"ranking": 329,
-					"outOf": 1482
+					"ranking": 330,
+					"outOf": 1488
 				},
 				"VF7": {
-					"ranking": 333,
-					"outOf": 1482
+					"ranking": 335,
+					"outOf": 1488
 				}
 			},
 			"playtime": 1060251097
@@ -115,12 +115,12 @@
 			"totalScores": 83,
 			"rankingData": {
 				"VF6": {
-					"ranking": 1248,
-					"outOf": 1482
+					"ranking": 1254,
+					"outOf": 1488
 				},
 				"VF7": {
-					"ranking": 1249,
-					"outOf": 1482
+					"ranking": 1255,
+					"outOf": 1488
 				}
 			},
 			"playtime": 26296000
@@ -141,11 +141,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 47,
-					"outOf": 1482
+					"outOf": 1488
 				},
 				"VF7": {
 					"ranking": 40,
-					"outOf": 1482
+					"outOf": 1488
 				}
 			},
 			"playtime": 3019518143
@@ -166,11 +166,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 57,
-					"outOf": 1482
+					"outOf": 1488
 				},
 				"VF7": {
-					"ranking": 71,
-					"outOf": 1482
+					"ranking": 72,
+					"outOf": 1488
 				}
 			},
 			"playtime": 1832291000
