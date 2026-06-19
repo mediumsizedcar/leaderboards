@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1781799357544.2332,
+	"lastUpdate": 1781878778355.6409,
 	"profiles": [
 		{
 			"id": 1751,
@@ -13,7 +13,7 @@
 				"vfClass": "IMPERIAL_II"
 			},
 			"mostRecentScoreTimeAchieved": 1781235814000,
-			"totalScores": 26910,
+			"totalScores": 26930,
 			"rankingData": {
 				"VF6": {
 					"ranking": 27,
@@ -24,7 +24,7 @@
 					"outOf": 1488
 				}
 			},
-			"playtime": 6398996232
+			"playtime": 6405305232
 		},
 		{
 			"id": 1552,
@@ -38,18 +38,18 @@
 				"vfClass": "IMPERIAL_I"
 			},
 			"mostRecentScoreTimeAchieved": 1781391097000,
-			"totalScores": 24015,
+			"totalScores": 24036,
 			"rankingData": {
 				"VF6": {
 					"ranking": 172,
 					"outOf": 1488
 				},
 				"VF7": {
-					"ranking": 160,
+					"ranking": 161,
 					"outOf": 1488
 				}
 			},
-			"playtime": 4947047029
+			"playtime": 4949950029
 		},
 		{
 			"id": 2024,
@@ -91,11 +91,11 @@
 			"totalScores": 4266,
 			"rankingData": {
 				"VF6": {
-					"ranking": 330,
+					"ranking": 331,
 					"outOf": 1488
 				},
 				"VF7": {
-					"ranking": 335,
+					"ranking": 336,
 					"outOf": 1488
 				}
 			},
@@ -162,7 +162,7 @@
 				"vfClass": "IMPERIAL_I"
 			},
 			"mostRecentScoreTimeAchieved": 1778365503000,
-			"totalScores": 6476,
+			"totalScores": 6481,
 			"rankingData": {
 				"VF6": {
 					"ranking": 57,
