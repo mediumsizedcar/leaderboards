@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1781989060501.8362,
+	"lastUpdate": 1782025150719.2012,
 	"profiles": [
 		{
 			"id": 1751,
@@ -143,14 +143,14 @@
 			"ratings": {
 				"starRating": 0.855,
 				"naiveRating": 16.71,
-				"scoreRating": 16.939,
-				"naiveRatingRefresh": 21.181
+				"scoreRating": 16.944,
+				"naiveRatingRefresh": 21.187
 			},
 			"classes": {
 				"colour": "RAINBOW_EX"
 			},
-			"mostRecentScoreTimeAchieved": 1781988966000,
-			"totalScores": 6287,
+			"mostRecentScoreTimeAchieved": 1781992602000,
+			"totalScores": 6298,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 24,
@@ -169,7 +169,7 @@
 					"outOf": 755
 				}
 			},
-			"playtime": 1933938300
+			"playtime": 1937574300
 		},
 		{
 			"id": 1703,
