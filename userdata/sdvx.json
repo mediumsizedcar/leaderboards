@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1782368372499.8938,
+	"lastUpdate": 1782555562491.857,
 	"profiles": [
 		{
 			"id": 1751,
@@ -17,11 +17,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 27,
-					"outOf": 1500
+					"outOf": 1504
 				},
 				"VF7": {
 					"ranking": 27,
-					"outOf": 1500
+					"outOf": 1504
 				}
 			},
 			"playtime": 6405305232
@@ -42,11 +42,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 166,
-					"outOf": 1500
+					"outOf": 1504
 				},
 				"VF7": {
 					"ranking": 161,
-					"outOf": 1500
+					"outOf": 1504
 				}
 			},
 			"playtime": 4987628029
@@ -67,11 +67,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 187,
-					"outOf": 1500
+					"outOf": 1504
 				},
 				"VF7": {
-					"ranking": 182,
-					"outOf": 1500
+					"ranking": 183,
+					"outOf": 1504
 				}
 			},
 			"playtime": 842309393
@@ -91,12 +91,12 @@
 			"totalScores": 4266,
 			"rankingData": {
 				"VF6": {
-					"ranking": 333,
-					"outOf": 1500
+					"ranking": 334,
+					"outOf": 1504
 				},
 				"VF7": {
-					"ranking": 340,
-					"outOf": 1500
+					"ranking": 341,
+					"outOf": 1504
 				}
 			},
 			"playtime": 1060251097
@@ -115,12 +115,12 @@
 			"totalScores": 83,
 			"rankingData": {
 				"VF6": {
-					"ranking": 1258,
-					"outOf": 1500
+					"ranking": 1261,
+					"outOf": 1504
 				},
 				"VF7": {
-					"ranking": 1259,
-					"outOf": 1500
+					"ranking": 1262,
+					"outOf": 1504
 				}
 			},
 			"playtime": 26296000
@@ -129,23 +129,23 @@
 			"id": 1703,
 			"name": "Rythmik",
 			"ratings": {
-				"VF6": 20.64500000000001,
-				"VF7": 21.01300000000001
+				"VF6": 20.646000000000008,
+				"VF7": 21.021
 			},
 			"classes": {
 				"dan": "INF",
 				"vfClass": "IMPERIAL_II"
 			},
 			"mostRecentScoreTimeAchieved": 1781852055000,
-			"totalScores": 11404,
+			"totalScores": 11423,
 			"rankingData": {
 				"VF6": {
-					"ranking": 46,
-					"outOf": 1500
+					"ranking": 44,
+					"outOf": 1504
 				},
 				"VF7": {
 					"ranking": 40,
-					"outOf": 1500
+					"outOf": 1504
 				}
 			},
 			"playtime": 3043385143
@@ -166,11 +166,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 56,
-					"outOf": 1500
+					"outOf": 1504
 				},
 				"VF7": {
 					"ranking": 71,
-					"outOf": 1500
+					"outOf": 1504
 				}
 			},
 			"playtime": 1832291000
