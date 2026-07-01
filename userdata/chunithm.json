@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1782217227507.21,
+	"lastUpdate": 1782922919447.756,
 	"profiles": [
 		{
 			"id": 1751,
@@ -14,8 +14,8 @@
 			"totalScores": 330,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 922,
-					"outOf": 1743
+					"ranking": 928,
+					"outOf": 1752
 				}
 			},
 			"playtime": 179971000
@@ -34,8 +34,8 @@
 			"totalScores": 3425,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 481,
-					"outOf": 1743
+					"ranking": 484,
+					"outOf": 1752
 				}
 			},
 			"playtime": 1256993000
@@ -56,7 +56,7 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 53,
-					"outOf": 1743
+					"outOf": 1752
 				}
 			},
 			"playtime": 1564569000
@@ -74,8 +74,8 @@
 			"totalScores": 58,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1476,
-					"outOf": 1743
+					"ranking": 1484,
+					"outOf": 1752
 				}
 			},
 			"playtime": 15768000
@@ -84,21 +84,21 @@
 			"id": 1750,
 			"name": "ryona",
 			"ratings": {
-				"naiveRating": 16.53
+				"naiveRating": 16.55
 			},
 			"classes": {
 				"dan": "DAN_IV",
 				"colour": "RAINBOW_III"
 			},
-			"mostRecentScoreTimeAchieved": 1781488379000,
-			"totalScores": 2882,
+			"mostRecentScoreTimeAchieved": 1782696908000,
+			"totalScores": 2960,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 310,
-					"outOf": 1743
+					"outOf": 1752
 				}
 			},
-			"playtime": 763204000
+			"playtime": 779249000
 		},
 		{
 			"id": 1703,
@@ -111,15 +111,15 @@
 				"colour": "RAINBOW_EX_III",
 				"emblem": "DAN_V"
 			},
-			"mostRecentScoreTimeAchieved": 1781837017000,
-			"totalScores": 14263,
+			"mostRecentScoreTimeAchieved": 1782554580000,
+			"totalScores": 14428,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 18,
-					"outOf": 1743
+					"outOf": 1752
 				}
 			},
-			"playtime": 1170911000
+			"playtime": 1222499000
 		},
 		{
 			"id": 397,
@@ -134,8 +134,8 @@
 			"totalScores": 1054,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 420,
-					"outOf": 1743
+					"ranking": 427,
+					"outOf": 1752
 				}
 			},
 			"playtime": 488836381
