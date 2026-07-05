@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1782946734563.364,
+	"lastUpdate": 1783284988655.467,
 	"profiles": [
 		{
 			"id": 1751,
@@ -17,20 +17,20 @@
 			"totalScores": 115,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 422,
-					"outOf": 766
+					"ranking": 423,
+					"outOf": 770
 				},
 				"naiveRatingRefresh": {
-					"ranking": 416,
-					"outOf": 766
+					"ranking": 418,
+					"outOf": 770
 				},
 				"scoreRating": {
-					"ranking": 416,
-					"outOf": 766
+					"ranking": 418,
+					"outOf": 770
 				},
 				"starRating": {
 					"ranking": 314,
-					"outOf": 766
+					"outOf": 770
 				}
 			},
 			"playtime": 37785900
@@ -52,19 +52,19 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 88,
-					"outOf": 766
+					"outOf": 770
 				},
 				"naiveRatingRefresh": {
-					"ranking": 60,
-					"outOf": 766
+					"ranking": 61,
+					"outOf": 770
 				},
 				"scoreRating": {
 					"ranking": 80,
-					"outOf": 766
+					"outOf": 770
 				},
 				"starRating": {
 					"ranking": 31,
-					"outOf": 766
+					"outOf": 770
 				}
 			},
 			"playtime": 847131400
@@ -86,19 +86,19 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 62,
-					"outOf": 766
+					"outOf": 770
 				},
 				"naiveRatingRefresh": {
 					"ranking": 50,
-					"outOf": 766
+					"outOf": 770
 				},
 				"scoreRating": {
 					"ranking": 63,
-					"outOf": 766
+					"outOf": 770
 				},
 				"starRating": {
 					"ranking": 32,
-					"outOf": 766
+					"outOf": 770
 				}
 			},
 			"playtime": 245294000
@@ -107,69 +107,69 @@
 			"id": 1085,
 			"name": "Litter",
 			"ratings": {
-				"starRating": 0.74,
-				"naiveRating": 16.56,
-				"scoreRating": 16.78,
-				"naiveRatingRefresh": 20.876
+				"starRating": 0.742,
+				"naiveRating": 16.57,
+				"scoreRating": 16.781,
+				"naiveRatingRefresh": 20.879
 			},
 			"classes": {
 				"colour": "RAINBOW_SHINY"
 			},
-			"mostRecentScoreTimeAchieved": 1782728725000,
-			"totalScores": 3451,
+			"mostRecentScoreTimeAchieved": 1783218928000,
+			"totalScores": 3476,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 39,
-					"outOf": 766
+					"outOf": 770
 				},
 				"naiveRatingRefresh": {
 					"ranking": 14,
-					"outOf": 766
+					"outOf": 770
 				},
 				"scoreRating": {
 					"ranking": 26,
-					"outOf": 766
+					"outOf": 770
 				},
 				"starRating": {
 					"ranking": 11,
-					"outOf": 766
+					"outOf": 770
 				}
 			},
-			"playtime": 1012794400
+			"playtime": 1021221400
 		},
 		{
 			"id": 1750,
 			"name": "ryona",
 			"ratings": {
-				"starRating": 0.855,
+				"starRating": 0.856,
 				"naiveRating": 16.72,
-				"scoreRating": 16.954,
-				"naiveRatingRefresh": 21.199
+				"scoreRating": 16.968,
+				"naiveRatingRefresh": 21.217
 			},
 			"classes": {
 				"colour": "RAINBOW_EX"
 			},
-			"mostRecentScoreTimeAchieved": 1782681095000,
-			"totalScores": 6384,
+			"mostRecentScoreTimeAchieved": 1783284820000,
+			"totalScores": 6490,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 24,
-					"outOf": 766
+					"outOf": 770
 				},
 				"naiveRatingRefresh": {
-					"ranking": 7,
-					"outOf": 766
+					"ranking": 6,
+					"outOf": 770
 				},
 				"scoreRating": {
-					"ranking": 18,
-					"outOf": 766
+					"ranking": 17,
+					"outOf": 770
 				},
 				"starRating": {
 					"ranking": 4,
-					"outOf": 766
+					"outOf": 770
 				}
 			},
-			"playtime": 1957238300
+			"playtime": 1983034300
 		},
 		{
 			"id": 1703,
@@ -188,19 +188,19 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 184,
-					"outOf": 766
+					"outOf": 770
 				},
 				"naiveRatingRefresh": {
-					"ranking": 191,
-					"outOf": 766
+					"ranking": 192,
+					"outOf": 770
 				},
 				"scoreRating": {
 					"ranking": 192,
-					"outOf": 766
+					"outOf": 770
 				},
 				"starRating": {
-					"ranking": 139,
-					"outOf": 766
+					"ranking": 140,
+					"outOf": 770
 				}
 			},
 			"playtime": 140246100
@@ -222,19 +222,19 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 82,
-					"outOf": 766
+					"outOf": 770
 				},
 				"naiveRatingRefresh": {
-					"ranking": 85,
-					"outOf": 766
+					"ranking": 86,
+					"outOf": 770
 				},
 				"scoreRating": {
 					"ranking": 89,
-					"outOf": 766
+					"outOf": 770
 				},
 				"starRating": {
 					"ranking": 82,
-					"outOf": 766
+					"outOf": 770
 				}
 			},
 			"playtime": 165351000
