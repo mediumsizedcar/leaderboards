@@ -1,30 +1,30 @@
 {
-	"lastUpdate": 1783757994070.724,
+	"lastUpdate": 1784038739963.137,
 	"profiles": [
 		{
 			"id": 1751,
 			"name": "Andripula",
 			"ratings": {
-				"VF6": 20.827999999999975,
-				"VF7": 21.238000000000007
+				"VF6": 20.836999999999975,
+				"VF7": 21.246000000000006
 			},
 			"classes": {
 				"dan": "INF",
 				"vfClass": "IMPERIAL_II"
 			},
-			"mostRecentScoreTimeAchieved": 1783577076000,
-			"totalScores": 27196,
+			"mostRecentScoreTimeAchieved": 1783923834000,
+			"totalScores": 27302,
 			"rankingData": {
 				"VF6": {
-					"ranking": 27,
-					"outOf": 1521
+					"ranking": 26,
+					"outOf": 1522
 				},
 				"VF7": {
-					"ranking": 27,
-					"outOf": 1521
+					"ranking": 26,
+					"outOf": 1522
 				}
 			},
-			"playtime": 6472371232
+			"playtime": 6494968232
 		},
 		{
 			"id": 1552,
@@ -41,12 +41,12 @@
 			"totalScores": 24374,
 			"rankingData": {
 				"VF6": {
-					"ranking": 163,
-					"outOf": 1521
+					"ranking": 162,
+					"outOf": 1522
 				},
 				"VF7": {
-					"ranking": 160,
-					"outOf": 1521
+					"ranking": 159,
+					"outOf": 1522
 				}
 			},
 			"playtime": 5015882029
@@ -66,12 +66,12 @@
 			"totalScores": 3618,
 			"rankingData": {
 				"VF6": {
-					"ranking": 189,
-					"outOf": 1521
+					"ranking": 188,
+					"outOf": 1522
 				},
 				"VF7": {
-					"ranking": 183,
-					"outOf": 1521
+					"ranking": 182,
+					"outOf": 1522
 				}
 			},
 			"playtime": 842309393
@@ -92,11 +92,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 338,
-					"outOf": 1521
+					"outOf": 1522
 				},
 				"VF7": {
 					"ranking": 346,
-					"outOf": 1521
+					"outOf": 1522
 				}
 			},
 			"playtime": 1060251097
@@ -115,12 +115,12 @@
 			"totalScores": 83,
 			"rankingData": {
 				"VF6": {
-					"ranking": 1276,
-					"outOf": 1521
+					"ranking": 1277,
+					"outOf": 1522
 				},
 				"VF7": {
-					"ranking": 1277,
-					"outOf": 1521
+					"ranking": 1278,
+					"outOf": 1522
 				}
 			},
 			"playtime": 26296000
@@ -141,11 +141,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 44,
-					"outOf": 1521
+					"outOf": 1522
 				},
 				"VF7": {
 					"ranking": 39,
-					"outOf": 1521
+					"outOf": 1522
 				}
 			},
 			"playtime": 3043385143
@@ -166,11 +166,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 56,
-					"outOf": 1521
+					"outOf": 1522
 				},
 				"VF7": {
 					"ranking": 71,
-					"outOf": 1521
+					"outOf": 1522
 				}
 			},
 			"playtime": 1832291000
