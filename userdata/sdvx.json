@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1784038739963.137,
+	"lastUpdate": 1784240127165.449,
 	"profiles": [
 		{
 			"id": 1751,
@@ -45,7 +45,7 @@
 					"outOf": 1522
 				},
 				"VF7": {
-					"ranking": 159,
+					"ranking": 160,
 					"outOf": 1522
 				}
 			},
@@ -66,11 +66,11 @@
 			"totalScores": 3618,
 			"rankingData": {
 				"VF6": {
-					"ranking": 188,
+					"ranking": 189,
 					"outOf": 1522
 				},
 				"VF7": {
-					"ranking": 182,
+					"ranking": 183,
 					"outOf": 1522
 				}
 			},
