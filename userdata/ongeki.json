@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1784393883401.683,
+	"lastUpdate": 1784401153352.787,
 	"profiles": [
 		{
 			"id": 1751,
@@ -141,16 +141,16 @@
 			"id": 1750,
 			"name": "ryona",
 			"ratings": {
-				"starRating": 0.859,
+				"starRating": 0.863,
 				"naiveRating": 16.72,
 				"scoreRating": 16.972,
-				"naiveRatingRefresh": 21.225
+				"naiveRatingRefresh": 21.229
 			},
 			"classes": {
 				"colour": "RAINBOW_EX"
 			},
-			"mostRecentScoreTimeAchieved": 1783892751000,
-			"totalScores": 6545,
+			"mostRecentScoreTimeAchieved": 1784401126000,
+			"totalScores": 6558,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 24,
@@ -169,7 +169,7 @@
 					"outOf": 775
 				}
 			},
-			"playtime": 2000773300
+			"playtime": 2003688300
 		},
 		{
 			"id": 1703,
