@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1784297957438.2341,
+	"lastUpdate": 1784571414746.3801,
 	"profiles": [
 		{
 			"id": 1751,
@@ -12,44 +12,44 @@
 				"dan": "INF",
 				"vfClass": "IMPERIAL_II"
 			},
-			"mostRecentScoreTimeAchieved": 1783923834000,
-			"totalScores": 27302,
+			"mostRecentScoreTimeAchieved": 1784440492000,
+			"totalScores": 27359,
 			"rankingData": {
 				"VF6": {
 					"ranking": 26,
-					"outOf": 1522
+					"outOf": 1524
 				},
 				"VF7": {
 					"ranking": 26,
-					"outOf": 1522
+					"outOf": 1524
 				}
 			},
-			"playtime": 6494968232
+			"playtime": 6507590232
 		},
 		{
 			"id": 1552,
 			"name": "eclair",
 			"ratings": {
 				"VF6": 19.787999999999982,
-				"VF7": 20.199000000000005
+				"VF7": 20.20300000000001
 			},
 			"classes": {
 				"dan": "INF",
 				"vfClass": "IMPERIAL_I"
 			},
-			"mostRecentScoreTimeAchieved": 1782961158000,
-			"totalScores": 24374,
+			"mostRecentScoreTimeAchieved": 1784440673000,
+			"totalScores": 24539,
 			"rankingData": {
 				"VF6": {
 					"ranking": 162,
-					"outOf": 1522
+					"outOf": 1524
 				},
 				"VF7": {
 					"ranking": 160,
-					"outOf": 1522
+					"outOf": 1524
 				}
 			},
-			"playtime": 5015882029
+			"playtime": 5047857029
 		},
 		{
 			"id": 2024,
@@ -67,11 +67,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 189,
-					"outOf": 1522
+					"outOf": 1524
 				},
 				"VF7": {
-					"ranking": 183,
-					"outOf": 1522
+					"ranking": 185,
+					"outOf": 1524
 				}
 			},
 			"playtime": 842309393
@@ -91,12 +91,12 @@
 			"totalScores": 4266,
 			"rankingData": {
 				"VF6": {
-					"ranking": 338,
-					"outOf": 1522
+					"ranking": 339,
+					"outOf": 1524
 				},
 				"VF7": {
 					"ranking": 346,
-					"outOf": 1522
+					"outOf": 1524
 				}
 			},
 			"playtime": 1060251097
@@ -115,12 +115,12 @@
 			"totalScores": 83,
 			"rankingData": {
 				"VF6": {
-					"ranking": 1277,
-					"outOf": 1522
+					"ranking": 1280,
+					"outOf": 1524
 				},
 				"VF7": {
-					"ranking": 1278,
-					"outOf": 1522
+					"ranking": 1281,
+					"outOf": 1524
 				}
 			},
 			"playtime": 26296000
@@ -129,23 +129,23 @@
 			"id": 1703,
 			"name": "Rythmik",
 			"ratings": {
-				"VF6": 20.650000000000006,
-				"VF7": 21.043999999999993
+				"VF6": 20.664000000000005,
+				"VF7": 21.067999999999994
 			},
 			"classes": {
 				"dan": "INF",
 				"vfClass": "IMPERIAL_II"
 			},
 			"mostRecentScoreTimeAchieved": 1781852055000,
-			"totalScores": 11468,
+			"totalScores": 11570,
 			"rankingData": {
 				"VF6": {
-					"ranking": 44,
-					"outOf": 1522
+					"ranking": 41,
+					"outOf": 1524
 				},
 				"VF7": {
-					"ranking": 39,
-					"outOf": 1522
+					"ranking": 38,
+					"outOf": 1524
 				}
 			},
 			"playtime": 3043385143
@@ -166,11 +166,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 56,
-					"outOf": 1522
+					"outOf": 1524
 				},
 				"VF7": {
 					"ranking": 71,
-					"outOf": 1522
+					"outOf": 1524
 				}
 			},
 			"playtime": 1832291000
