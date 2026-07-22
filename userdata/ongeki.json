@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1784681992829.57,
+	"lastUpdate": 1784724980087.027,
 	"profiles": [
 		{
 			"id": 1751,
@@ -107,23 +107,23 @@
 			"id": 1085,
 			"name": "Litter",
 			"ratings": {
-				"starRating": 0.755,
+				"starRating": 0.766,
 				"naiveRating": 16.58,
 				"scoreRating": 16.819,
-				"naiveRatingRefresh": 20.937
+				"naiveRatingRefresh": 20.948
 			},
 			"classes": {
 				"colour": "RAINBOW_SHINY"
 			},
-			"mostRecentScoreTimeAchieved": 1784513379000,
-			"totalScores": 3571,
+			"mostRecentScoreTimeAchieved": 1784700908000,
+			"totalScores": 3599,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 39,
 					"outOf": 776
 				},
 				"naiveRatingRefresh": {
-					"ranking": 12,
+					"ranking": 11,
 					"outOf": 776
 				},
 				"scoreRating": {
@@ -135,7 +135,7 @@
 					"outOf": 776
 				}
 			},
-			"playtime": 1049166400
+			"playtime": 1056082400
 		},
 		{
 			"id": 1750,
