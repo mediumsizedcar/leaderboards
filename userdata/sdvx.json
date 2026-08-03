@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1785593847728.6938,
+	"lastUpdate": 1785795531930.632,
 	"profiles": [
 		{
 			"id": 1751,
@@ -17,11 +17,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 26,
-					"outOf": 1530
+					"outOf": 1532
 				},
 				"VF7": {
 					"ranking": 26,
-					"outOf": 1530
+					"outOf": 1532
 				}
 			},
 			"playtime": 6531610232
@@ -42,11 +42,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 163,
-					"outOf": 1530
+					"outOf": 1532
 				},
 				"VF7": {
-					"ranking": 161,
-					"outOf": 1530
+					"ranking": 162,
+					"outOf": 1532
 				}
 			},
 			"playtime": 5064187029
@@ -66,12 +66,12 @@
 			"totalScores": 3618,
 			"rankingData": {
 				"VF6": {
-					"ranking": 190,
-					"outOf": 1530
+					"ranking": 191,
+					"outOf": 1532
 				},
 				"VF7": {
-					"ranking": 187,
-					"outOf": 1530
+					"ranking": 189,
+					"outOf": 1532
 				}
 			},
 			"playtime": 842309393
@@ -92,11 +92,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 340,
-					"outOf": 1530
+					"outOf": 1532
 				},
 				"VF7": {
 					"ranking": 349,
-					"outOf": 1530
+					"outOf": 1532
 				}
 			},
 			"playtime": 1060251097
@@ -115,12 +115,12 @@
 			"totalScores": 94,
 			"rankingData": {
 				"VF6": {
-					"ranking": 1267,
-					"outOf": 1530
+					"ranking": 1268,
+					"outOf": 1532
 				},
 				"VF7": {
-					"ranking": 1267,
-					"outOf": 1530
+					"ranking": 1268,
+					"outOf": 1532
 				}
 			},
 			"playtime": 27890000
@@ -141,11 +141,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 41,
-					"outOf": 1530
+					"outOf": 1532
 				},
 				"VF7": {
 					"ranking": 37,
-					"outOf": 1530
+					"outOf": 1532
 				}
 			},
 			"playtime": 3048301143
@@ -165,12 +165,12 @@
 			"totalScores": 6774,
 			"rankingData": {
 				"VF6": {
-					"ranking": 56,
-					"outOf": 1530
+					"ranking": 57,
+					"outOf": 1532
 				},
 				"VF7": {
-					"ranking": 72,
-					"outOf": 1530
+					"ranking": 73,
+					"outOf": 1532
 				}
 			},
 			"playtime": 1832291000
