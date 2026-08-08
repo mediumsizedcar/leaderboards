@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1785744765002.86,
+	"lastUpdate": 1786205598579.169,
 	"profiles": [
 		{
 			"id": 1750,
@@ -12,8 +12,8 @@
 			"totalScores": 30,
 			"rankingData": {
 				"curatorSkill": {
-					"ranking": 43,
-					"outOf": 81
+					"ranking": 44,
+					"outOf": 82
 				}
 			},
 			"playtime": 14460000
@@ -29,8 +29,8 @@
 			"totalScores": 4,
 			"rankingData": {
 				"curatorSkill": {
-					"ranking": 68,
-					"outOf": 81
+					"ranking": 69,
+					"outOf": 82
 				}
 			},
 			"playtime": 360000
