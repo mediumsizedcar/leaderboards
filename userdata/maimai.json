@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1786135348943.862,
+	"lastUpdate": 1786164210850.7832,
 	"profiles": [
 		{
 			"id": 2024,
@@ -15,7 +15,7 @@
 			"rankingData": {
 				"naiveRate": {
 					"ranking": 36,
-					"outOf": 348
+					"outOf": 349
 				}
 			},
 			"playtime": 579699000
@@ -34,7 +34,7 @@
 			"rankingData": {
 				"naiveRate": {
 					"ranking": 131,
-					"outOf": 348
+					"outOf": 349
 				}
 			},
 			"playtime": 134763000
