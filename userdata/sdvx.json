@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1786212949978.841,
+	"lastUpdate": 1786270654094.3242,
 	"profiles": [
 		{
 			"id": 1751,
@@ -38,7 +38,7 @@
 				"vfClass": "IMPERIAL_I"
 			},
 			"mostRecentScoreTimeAchieved": 1785037218000,
-			"totalScores": 25441,
+			"totalScores": 25445,
 			"rankingData": {
 				"VF6": {
 					"ranking": 163,
@@ -115,11 +115,11 @@
 			"totalScores": 94,
 			"rankingData": {
 				"VF6": {
-					"ranking": 1272,
+					"ranking": 1274,
 					"outOf": 1536
 				},
 				"VF7": {
-					"ranking": 1272,
+					"ranking": 1274,
 					"outOf": 1536
 				}
 			},
@@ -130,21 +130,21 @@
 			"name": "Rythmik",
 			"ratings": {
 				"VF6": 20.664000000000005,
-				"VF7": 21.079
+				"VF7": 21.083000000000006
 			},
 			"classes": {
 				"dan": "INF",
 				"vfClass": "IMPERIAL_II"
 			},
 			"mostRecentScoreTimeAchieved": 1784779784000,
-			"totalScores": 11658,
+			"totalScores": 11660,
 			"rankingData": {
 				"VF6": {
 					"ranking": 41,
 					"outOf": 1536
 				},
 				"VF7": {
-					"ranking": 37,
+					"ranking": 36,
 					"outOf": 1536
 				}
 			},
