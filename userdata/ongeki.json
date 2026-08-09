@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1786193774595.4841,
+	"lastUpdate": 1786272927193.103,
 	"profiles": [
 		{
 			"id": 1751,
@@ -17,7 +17,7 @@
 			"totalScores": 115,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 435,
+					"ranking": 436,
 					"outOf": 791
 				},
 				"naiveRatingRefresh": {
@@ -59,7 +59,7 @@
 					"outOf": 791
 				},
 				"scoreRating": {
-					"ranking": 78,
+					"ranking": 79,
 					"outOf": 791
 				},
 				"starRating": {
@@ -115,8 +115,8 @@
 			"classes": {
 				"colour": "RAINBOW_EX"
 			},
-			"mostRecentScoreTimeAchieved": 1785120982000,
-			"totalScores": 3709,
+			"mostRecentScoreTimeAchieved": 1786253010000,
+			"totalScores": 3721,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 35,
@@ -135,22 +135,22 @@
 					"outOf": 791
 				}
 			},
-			"playtime": 1086753400
+			"playtime": 1089152400
 		},
 		{
 			"id": 1750,
 			"name": "ryona",
 			"ratings": {
-				"starRating": 0.863,
+				"starRating": 0.866,
 				"naiveRating": 16.73,
-				"scoreRating": 16.984,
-				"naiveRatingRefresh": 21.243
+				"scoreRating": 16.987,
+				"naiveRatingRefresh": 21.25
 			},
 			"classes": {
 				"colour": "RAINBOW_EX"
 			},
-			"mostRecentScoreTimeAchieved": 1785706742000,
-			"totalScores": 6662,
+			"mostRecentScoreTimeAchieved": 1786224836000,
+			"totalScores": 6692,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 24,
@@ -169,7 +169,7 @@
 					"outOf": 791
 				}
 			},
-			"playtime": 2034255300
+			"playtime": 2046314300
 		},
 		{
 			"id": 1703,
@@ -191,11 +191,11 @@
 					"outOf": 791
 				},
 				"naiveRatingRefresh": {
-					"ranking": 202,
+					"ranking": 203,
 					"outOf": 791
 				},
 				"scoreRating": {
-					"ranking": 203,
+					"ranking": 204,
 					"outOf": 791
 				},
 				"starRating": {
