@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1786624110148.1309,
+	"lastUpdate": 1786782362849.056,
 	"profiles": [
 		{
 			"id": 1552,
@@ -15,7 +15,7 @@
 			"rankingData": {
 				"naiveRate": {
 					"ranking": 439,
-					"outOf": 804
+					"outOf": 805
 				}
 			},
 			"playtime": 52492025
@@ -35,7 +35,7 @@
 			"rankingData": {
 				"naiveRate": {
 					"ranking": 179,
-					"outOf": 804
+					"outOf": 805
 				}
 			},
 			"playtime": 59228812
@@ -53,8 +53,8 @@
 			"totalScores": 33,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 629,
-					"outOf": 804
+					"ranking": 630,
+					"outOf": 805
 				}
 			},
 			"playtime": 11975700
@@ -74,7 +74,7 @@
 			"rankingData": {
 				"naiveRate": {
 					"ranking": 252,
-					"outOf": 804
+					"outOf": 805
 				}
 			},
 			"playtime": 109114662
@@ -94,7 +94,7 @@
 			"rankingData": {
 				"naiveRate": {
 					"ranking": 139,
-					"outOf": 804
+					"outOf": 805
 				}
 			},
 			"playtime": 117776076
