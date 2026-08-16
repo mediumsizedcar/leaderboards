@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1786899542961.185,
+	"lastUpdate": 1786921016405.4958,
 	"profiles": [
 		{
 			"id": 1751,
@@ -55,7 +55,7 @@
 					"outOf": 803
 				},
 				"naiveRatingRefresh": {
-					"ranking": 61,
+					"ranking": 62,
 					"outOf": 803
 				},
 				"scoreRating": {
@@ -63,7 +63,7 @@
 					"outOf": 803
 				},
 				"starRating": {
-					"ranking": 32,
+					"ranking": 33,
 					"outOf": 803
 				}
 			},
@@ -97,7 +97,7 @@
 					"outOf": 803
 				},
 				"starRating": {
-					"ranking": 34,
+					"ranking": 35,
 					"outOf": 803
 				}
 			},
