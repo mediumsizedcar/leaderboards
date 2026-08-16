@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1786875889922.58,
+	"lastUpdate": 1786918814234.945,
 	"profiles": [
 		{
 			"id": 1751,
@@ -14,7 +14,7 @@
 			"totalScores": 330,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 987,
+					"ranking": 988,
 					"outOf": 1858
 				}
 			},
@@ -104,22 +104,22 @@
 			"id": 1703,
 			"name": "Rythmik",
 			"ratings": {
-				"naiveRating": 17.51
+				"naiveRating": 17.52
 			},
 			"classes": {
 				"dan": "DAN_INFINITE",
 				"colour": "RAINBOW_EX_III",
 				"emblem": "DAN_V"
 			},
-			"mostRecentScoreTimeAchieved": 1785961112000,
-			"totalScores": 15333,
+			"mostRecentScoreTimeAchieved": 1786917574000,
+			"totalScores": 15385,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 18,
+					"ranking": 14,
 					"outOf": 1858
 				}
 			},
-			"playtime": 1423286000
+			"playtime": 1435021000
 		},
 		{
 			"id": 397,
