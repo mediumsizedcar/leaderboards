@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1786904399116.4492,
+	"lastUpdate": 1786961952481.2131,
 	"profiles": [
 		{
 			"id": 1751,
@@ -161,8 +161,8 @@
 				"dan": "INF",
 				"vfClass": "IMPERIAL_I"
 			},
-			"mostRecentScoreTimeAchieved": 1778365503000,
-			"totalScores": 6899,
+			"mostRecentScoreTimeAchieved": 1786923293000,
+			"totalScores": 6937,
 			"rankingData": {
 				"VF6": {
 					"ranking": 57,
@@ -173,7 +173,7 @@
 					"outOf": 1539
 				}
 			},
-			"playtime": 1832291000
+			"playtime": 1840075000
 		}
 	]
 }
