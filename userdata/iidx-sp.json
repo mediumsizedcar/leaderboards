@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1786889027201.874,
+	"lastUpdate": 1786975297106.926,
 	"profiles": [
 		{
 			"id": 1750,
@@ -15,20 +15,20 @@
 			"totalScores": 1,
 			"rankingData": {
 				"ktLampRating": {
-					"ranking": 1098,
-					"outOf": 1143
+					"ranking": 1100,
+					"outOf": 1144
 				},
 				"ktLampRatingHC": {
-					"ranking": 972,
-					"outOf": 1143
+					"ranking": 973,
+					"outOf": 1144
 				},
 				"ktLampRatingEXHC": {
 					"ranking": 932,
-					"outOf": 1143
+					"outOf": 1144
 				},
 				"BPI": {
-					"ranking": 1143,
-					"outOf": 1143
+					"ranking": 1144,
+					"outOf": 1144
 				}
 			},
 			"playtime": 0
@@ -47,20 +47,20 @@
 			"totalScores": 9,
 			"rankingData": {
 				"ktLampRating": {
-					"ranking": 1054,
-					"outOf": 1143
+					"ranking": 1056,
+					"outOf": 1144
 				},
 				"ktLampRatingHC": {
-					"ranking": 951,
-					"outOf": 1143
+					"ranking": 952,
+					"outOf": 1144
 				},
 				"ktLampRatingEXHC": {
 					"ranking": 932,
-					"outOf": 1143
+					"outOf": 1144
 				},
 				"BPI": {
-					"ranking": 1143,
-					"outOf": 1143
+					"ranking": 1144,
+					"outOf": 1144
 				}
 			},
 			"playtime": 2040000
@@ -82,19 +82,19 @@
 			"rankingData": {
 				"ktLampRating": {
 					"ranking": 330,
-					"outOf": 1143
+					"outOf": 1144
 				},
 				"ktLampRatingHC": {
 					"ranking": 356,
-					"outOf": 1143
+					"outOf": 1144
 				},
 				"ktLampRatingEXHC": {
 					"ranking": 319,
-					"outOf": 1143
+					"outOf": 1144
 				},
 				"BPI": {
 					"ranking": 336,
-					"outOf": 1143
+					"outOf": 1144
 				}
 			},
 			"playtime": 965048813
