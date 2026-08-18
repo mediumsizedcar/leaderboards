@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1786961952481.2131,
+	"lastUpdate": 1787033744077.436,
 	"profiles": [
 		{
 			"id": 1751,
@@ -30,15 +30,15 @@
 			"id": 1552,
 			"name": "eclair",
 			"ratings": {
-				"VF6": 19.823999999999984,
+				"VF6": 19.831999999999987,
 				"VF7": 20.235000000000014
 			},
 			"classes": {
 				"dan": "INF",
 				"vfClass": "IMPERIAL_I"
 			},
-			"mostRecentScoreTimeAchieved": 1786318394000,
-			"totalScores": 25670,
+			"mostRecentScoreTimeAchieved": 1786923336000,
+			"totalScores": 25790,
 			"rankingData": {
 				"VF6": {
 					"ranking": 159,
@@ -49,7 +49,7 @@
 					"outOf": 1539
 				}
 			},
-			"playtime": 5099201029
+			"playtime": 5124935029
 		},
 		{
 			"id": 2024,
@@ -91,7 +91,7 @@
 			"totalScores": 4266,
 			"rankingData": {
 				"VF6": {
-					"ranking": 342,
+					"ranking": 343,
 					"outOf": 1539
 				},
 				"VF7": {
