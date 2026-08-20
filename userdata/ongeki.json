@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1787180310359.766,
+	"lastUpdate": 1787259562600.2878,
 	"profiles": [
 		{
 			"id": 1751,
@@ -81,8 +81,8 @@
 			"classes": {
 				"colour": "RAINBOW_SHINY"
 			},
-			"mostRecentScoreTimeAchieved": 1786861597000,
-			"totalScores": 557,
+			"mostRecentScoreTimeAchieved": 1787190235000,
+			"totalScores": 563,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 63,
@@ -101,7 +101,7 @@
 					"outOf": 807
 				}
 			},
-			"playtime": 246486000
+			"playtime": 247886000
 		},
 		{
 			"id": 1085,
