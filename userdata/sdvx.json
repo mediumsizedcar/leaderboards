@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1787429830611.5679,
+	"lastUpdate": 1787681750804.08,
 	"profiles": [
 		{
 			"id": 1751,
@@ -17,11 +17,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 26,
-					"outOf": 1544
+					"outOf": 1550
 				},
 				"VF7": {
 					"ranking": 27,
-					"outOf": 1544
+					"outOf": 1550
 				}
 			},
 			"playtime": 6605052232
@@ -42,11 +42,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 156,
-					"outOf": 1544
+					"outOf": 1550
 				},
 				"VF7": {
-					"ranking": 157,
-					"outOf": 1544
+					"ranking": 158,
+					"outOf": 1550
 				}
 			},
 			"playtime": 5154997029
@@ -66,12 +66,12 @@
 			"totalScores": 3618,
 			"rankingData": {
 				"VF6": {
-					"ranking": 194,
-					"outOf": 1544
+					"ranking": 195,
+					"outOf": 1550
 				},
 				"VF7": {
 					"ranking": 194,
-					"outOf": 1544
+					"outOf": 1550
 				}
 			},
 			"playtime": 842309393
@@ -91,12 +91,12 @@
 			"totalScores": 4266,
 			"rankingData": {
 				"VF6": {
-					"ranking": 344,
-					"outOf": 1544
+					"ranking": 345,
+					"outOf": 1550
 				},
 				"VF7": {
 					"ranking": 352,
-					"outOf": 1544
+					"outOf": 1550
 				}
 			},
 			"playtime": 1060251097
@@ -115,12 +115,12 @@
 			"totalScores": 94,
 			"rankingData": {
 				"VF6": {
-					"ranking": 1278,
-					"outOf": 1544
+					"ranking": 1282,
+					"outOf": 1550
 				},
 				"VF7": {
-					"ranking": 1278,
-					"outOf": 1544
+					"ranking": 1282,
+					"outOf": 1550
 				}
 			},
 			"playtime": 27890000
@@ -141,11 +141,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 42,
-					"outOf": 1544
+					"outOf": 1550
 				},
 				"VF7": {
 					"ranking": 38,
-					"outOf": 1544
+					"outOf": 1550
 				}
 			},
 			"playtime": 3049320143
@@ -154,23 +154,23 @@
 			"id": 397,
 			"name": "The_Manwich",
 			"ratings": {
-				"VF6": 20.610000000000014,
-				"VF7": 20.759999999999984
+				"VF6": 20.611000000000015,
+				"VF7": 20.762999999999987
 			},
 			"classes": {
 				"dan": "INF",
 				"vfClass": "IMPERIAL_I"
 			},
 			"mostRecentScoreTimeAchieved": 1787286894000,
-			"totalScores": 6968,
+			"totalScores": 6996,
 			"rankingData": {
 				"VF6": {
 					"ranking": 57,
-					"outOf": 1544
+					"outOf": 1550
 				},
 				"VF7": {
 					"ranking": 72,
-					"outOf": 1544
+					"outOf": 1550
 				}
 			},
 			"playtime": 1854380000
