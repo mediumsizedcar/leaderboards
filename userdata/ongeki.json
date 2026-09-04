@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1787756325117.692,
+	"lastUpdate": 1788497798251.304,
 	"profiles": [
 		{
 			"id": 1751,
@@ -17,20 +17,20 @@
 			"totalScores": 115,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 446,
-					"outOf": 817
+					"ranking": 454,
+					"outOf": 829
 				},
 				"naiveRatingRefresh": {
-					"ranking": 439,
-					"outOf": 817
+					"ranking": 447,
+					"outOf": 829
 				},
 				"scoreRating": {
-					"ranking": 439,
-					"outOf": 817
+					"ranking": 447,
+					"outOf": 829
 				},
 				"starRating": {
-					"ranking": 332,
-					"outOf": 817
+					"ranking": 338,
+					"outOf": 829
 				}
 			},
 			"playtime": 37785900
@@ -52,19 +52,19 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 87,
-					"outOf": 817
+					"outOf": 829
 				},
 				"naiveRatingRefresh": {
 					"ranking": 62,
-					"outOf": 817
+					"outOf": 829
 				},
 				"scoreRating": {
 					"ranking": 80,
-					"outOf": 817
+					"outOf": 829
 				},
 				"starRating": {
 					"ranking": 35,
-					"outOf": 817
+					"outOf": 829
 				}
 			},
 			"playtime": 870893400
@@ -85,20 +85,20 @@
 			"totalScores": 563,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 63,
-					"outOf": 817
+					"ranking": 64,
+					"outOf": 829
 				},
 				"naiveRatingRefresh": {
 					"ranking": 52,
-					"outOf": 817
+					"outOf": 829
 				},
 				"scoreRating": {
-					"ranking": 63,
-					"outOf": 817
+					"ranking": 64,
+					"outOf": 829
 				},
 				"starRating": {
 					"ranking": 36,
-					"outOf": 817
+					"outOf": 829
 				}
 			},
 			"playtime": 247886000
@@ -115,27 +115,27 @@
 			"classes": {
 				"colour": "RAINBOW_EX"
 			},
-			"mostRecentScoreTimeAchieved": 1786502219000,
-			"totalScores": 3711,
+			"mostRecentScoreTimeAchieved": 1788145896000,
+			"totalScores": 3717,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 35,
-					"outOf": 817
+					"outOf": 829
 				},
 				"naiveRatingRefresh": {
-					"ranking": 11,
-					"outOf": 817
+					"ranking": 12,
+					"outOf": 829
 				},
 				"scoreRating": {
-					"ranking": 22,
-					"outOf": 817
+					"ranking": 23,
+					"outOf": 829
 				},
 				"starRating": {
 					"ranking": 10,
-					"outOf": 817
+					"outOf": 829
 				}
 			},
-			"playtime": 1087093400
+			"playtime": 1091072400
 		},
 		{
 			"id": 1750,
@@ -149,24 +149,24 @@
 			"classes": {
 				"colour": "RAINBOW_EX"
 			},
-			"mostRecentScoreTimeAchieved": 1786313463000,
-			"totalScores": 6724,
+			"mostRecentScoreTimeAchieved": 1788116340000,
+			"totalScores": 6725,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 24,
-					"outOf": 817
+					"outOf": 829
 				},
 				"naiveRatingRefresh": {
 					"ranking": 6,
-					"outOf": 817
+					"outOf": 829
 				},
 				"scoreRating": {
 					"ranking": 16,
-					"outOf": 817
+					"outOf": 829
 				},
 				"starRating": {
 					"ranking": 5,
-					"outOf": 817
+					"outOf": 829
 				}
 			},
 			"playtime": 2055358300
@@ -187,20 +187,20 @@
 			"totalScores": 381,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 200,
-					"outOf": 817
+					"ranking": 202,
+					"outOf": 829
 				},
 				"naiveRatingRefresh": {
-					"ranking": 209,
-					"outOf": 817
+					"ranking": 213,
+					"outOf": 829
 				},
 				"scoreRating": {
-					"ranking": 209,
-					"outOf": 817
+					"ranking": 211,
+					"outOf": 829
 				},
 				"starRating": {
-					"ranking": 159,
-					"outOf": 817
+					"ranking": 163,
+					"outOf": 829
 				}
 			},
 			"playtime": 140246100
@@ -222,19 +222,19 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 84,
-					"outOf": 817
+					"outOf": 829
 				},
 				"naiveRatingRefresh": {
-					"ranking": 90,
-					"outOf": 817
+					"ranking": 91,
+					"outOf": 829
 				},
 				"scoreRating": {
-					"ranking": 91,
-					"outOf": 817
+					"ranking": 92,
+					"outOf": 829
 				},
 				"starRating": {
-					"ranking": 91,
-					"outOf": 817
+					"ranking": 93,
+					"outOf": 829
 				}
 			},
 			"playtime": 165351000
