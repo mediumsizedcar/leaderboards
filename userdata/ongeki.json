@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1788497798251.304,
+	"lastUpdate": 1788749837501.8562,
 	"profiles": [
 		{
 			"id": 1751,
@@ -17,20 +17,20 @@
 			"totalScores": 115,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 454,
-					"outOf": 829
+					"ranking": 456,
+					"outOf": 832
 				},
 				"naiveRatingRefresh": {
-					"ranking": 447,
-					"outOf": 829
+					"ranking": 449,
+					"outOf": 832
 				},
 				"scoreRating": {
-					"ranking": 447,
-					"outOf": 829
+					"ranking": 449,
+					"outOf": 832
 				},
 				"starRating": {
-					"ranking": 338,
-					"outOf": 829
+					"ranking": 342,
+					"outOf": 832
 				}
 			},
 			"playtime": 37785900
@@ -52,19 +52,19 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 87,
-					"outOf": 829
+					"outOf": 832
 				},
 				"naiveRatingRefresh": {
 					"ranking": 62,
-					"outOf": 829
+					"outOf": 832
 				},
 				"scoreRating": {
-					"ranking": 80,
-					"outOf": 829
+					"ranking": 81,
+					"outOf": 832
 				},
 				"starRating": {
 					"ranking": 35,
-					"outOf": 829
+					"outOf": 832
 				}
 			},
 			"playtime": 870893400
@@ -86,19 +86,19 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 64,
-					"outOf": 829
+					"outOf": 832
 				},
 				"naiveRatingRefresh": {
-					"ranking": 52,
-					"outOf": 829
+					"ranking": 53,
+					"outOf": 832
 				},
 				"scoreRating": {
-					"ranking": 64,
-					"outOf": 829
+					"ranking": 65,
+					"outOf": 832
 				},
 				"starRating": {
 					"ranking": 36,
-					"outOf": 829
+					"outOf": 832
 				}
 			},
 			"playtime": 247886000
@@ -108,34 +108,34 @@
 			"name": "Litter",
 			"ratings": {
 				"starRating": 0.785,
-				"naiveRating": 16.61,
-				"scoreRating": 16.858,
-				"naiveRatingRefresh": 21.014
+				"naiveRating": 16.62,
+				"scoreRating": 16.862,
+				"naiveRatingRefresh": 21.019
 			},
 			"classes": {
 				"colour": "RAINBOW_EX"
 			},
-			"mostRecentScoreTimeAchieved": 1788145896000,
-			"totalScores": 3717,
+			"mostRecentScoreTimeAchieved": 1788749185000,
+			"totalScores": 3751,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 35,
-					"outOf": 829
+					"outOf": 832
 				},
 				"naiveRatingRefresh": {
 					"ranking": 12,
-					"outOf": 829
+					"outOf": 832
 				},
 				"scoreRating": {
 					"ranking": 23,
-					"outOf": 829
+					"outOf": 832
 				},
 				"starRating": {
 					"ranking": 10,
-					"outOf": 829
+					"outOf": 832
 				}
 			},
-			"playtime": 1091072400
+			"playtime": 1103866400
 		},
 		{
 			"id": 1750,
@@ -149,27 +149,27 @@
 			"classes": {
 				"colour": "RAINBOW_EX"
 			},
-			"mostRecentScoreTimeAchieved": 1788116340000,
-			"totalScores": 6725,
+			"mostRecentScoreTimeAchieved": 1788636964000,
+			"totalScores": 6728,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 24,
-					"outOf": 829
+					"outOf": 832
 				},
 				"naiveRatingRefresh": {
 					"ranking": 6,
-					"outOf": 829
+					"outOf": 832
 				},
 				"scoreRating": {
 					"ranking": 16,
-					"outOf": 829
+					"outOf": 832
 				},
 				"starRating": {
 					"ranking": 5,
-					"outOf": 829
+					"outOf": 832
 				}
 			},
-			"playtime": 2055358300
+			"playtime": 2061740300
 		},
 		{
 			"id": 1703,
@@ -188,19 +188,19 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 202,
-					"outOf": 829
+					"outOf": 832
 				},
 				"naiveRatingRefresh": {
 					"ranking": 213,
-					"outOf": 829
+					"outOf": 832
 				},
 				"scoreRating": {
 					"ranking": 211,
-					"outOf": 829
+					"outOf": 832
 				},
 				"starRating": {
-					"ranking": 163,
-					"outOf": 829
+					"ranking": 164,
+					"outOf": 832
 				}
 			},
 			"playtime": 140246100
@@ -222,19 +222,19 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 84,
-					"outOf": 829
+					"outOf": 832
 				},
 				"naiveRatingRefresh": {
-					"ranking": 91,
-					"outOf": 829
+					"ranking": 92,
+					"outOf": 832
 				},
 				"scoreRating": {
 					"ranking": 92,
-					"outOf": 829
+					"outOf": 832
 				},
 				"starRating": {
 					"ranking": 93,
-					"outOf": 829
+					"outOf": 832
 				}
 			},
 			"playtime": 165351000
