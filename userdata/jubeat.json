@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1789454284166.102,
+	"lastUpdate": 1789799900086.652,
 	"profiles": [
 		{
 			"id": 1750,
@@ -15,11 +15,11 @@
 			"totalScores": 3,
 			"rankingData": {
 				"jubility": {
-					"ranking": 213,
+					"ranking": 214,
 					"outOf": 220
 				},
 				"naiveJubility": {
-					"ranking": 213,
+					"ranking": 214,
 					"outOf": 220
 				}
 			},
