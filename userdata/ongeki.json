@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1789916285436.2432,
+	"lastUpdate": 1790124934651.114,
 	"profiles": [
 		{
 			"id": 1751,
@@ -17,7 +17,7 @@
 			"totalScores": 115,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 461,
+					"ranking": 462,
 					"outOf": 843
 				},
 				"naiveRatingRefresh": {
@@ -29,7 +29,7 @@
 					"outOf": 843
 				},
 				"starRating": {
-					"ranking": 350,
+					"ranking": 352,
 					"outOf": 843
 				}
 			},
@@ -63,7 +63,7 @@
 					"outOf": 843
 				},
 				"starRating": {
-					"ranking": 36,
+					"ranking": 37,
 					"outOf": 843
 				}
 			},
@@ -97,7 +97,7 @@
 					"outOf": 843
 				},
 				"starRating": {
-					"ranking": 37,
+					"ranking": 38,
 					"outOf": 843
 				}
 			},
@@ -108,26 +108,26 @@
 			"name": "Litter",
 			"ratings": {
 				"starRating": 0.794,
-				"naiveRating": 16.63,
-				"scoreRating": 16.871,
-				"naiveRatingRefresh": 21.039
+				"naiveRating": 16.64,
+				"scoreRating": 16.894,
+				"naiveRatingRefresh": 21.066
 			},
 			"classes": {
 				"colour": "RAINBOW_EX"
 			},
-			"mostRecentScoreTimeAchieved": 1789875244000,
-			"totalScores": 3859,
+			"mostRecentScoreTimeAchieved": 1789949706000,
+			"totalScores": 3894,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 34,
 					"outOf": 843
 				},
 				"naiveRatingRefresh": {
-					"ranking": 12,
+					"ranking": 11,
 					"outOf": 843
 				},
 				"scoreRating": {
-					"ranking": 23,
+					"ranking": 20,
 					"outOf": 843
 				},
 				"starRating": {
@@ -135,7 +135,7 @@
 					"outOf": 843
 				}
 			},
-			"playtime": 1137873400
+			"playtime": 1147183400
 		},
 		{
 			"id": 1750,
@@ -195,11 +195,11 @@
 					"outOf": 843
 				},
 				"scoreRating": {
-					"ranking": 222,
+					"ranking": 224,
 					"outOf": 843
 				},
 				"starRating": {
-					"ranking": 169,
+					"ranking": 170,
 					"outOf": 843
 				}
 			},
