@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1789927496320.955,
+	"lastUpdate": 1790294692498.376,
 	"profiles": [
 		{
 			"id": 1750,
@@ -19,11 +19,11 @@
 					"outOf": 1179
 				},
 				"ktLampRatingHC": {
-					"ranking": 998,
+					"ranking": 997,
 					"outOf": 1179
 				},
 				"ktLampRatingEXHC": {
-					"ranking": 959,
+					"ranking": 958,
 					"outOf": 1179
 				},
 				"BPI": {
@@ -51,11 +51,11 @@
 					"outOf": 1179
 				},
 				"ktLampRatingHC": {
-					"ranking": 978,
+					"ranking": 977,
 					"outOf": 1179
 				},
 				"ktLampRatingEXHC": {
-					"ranking": 959,
+					"ranking": 958,
 					"outOf": 1179
 				},
 				"BPI": {
@@ -85,15 +85,15 @@
 					"outOf": 1179
 				},
 				"ktLampRatingHC": {
-					"ranking": 363,
+					"ranking": 362,
 					"outOf": 1179
 				},
 				"ktLampRatingEXHC": {
-					"ranking": 328,
+					"ranking": 327,
 					"outOf": 1179
 				},
 				"BPI": {
-					"ranking": 342,
+					"ranking": 341,
 					"outOf": 1179
 				}
 			},
