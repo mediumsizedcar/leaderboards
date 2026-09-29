@@ -1,80 +1,80 @@
 {
-	"lastUpdate": 1788718578572.397,
+	"lastUpdate": 1790705952234.421,
 	"profiles": [
 		{
 			"id": 1751,
 			"name": "Andripula",
 			"ratings": {
-				"VF6": 20.848999999999975,
-				"VF7": 21.255000000000003
+				"VF6": 20.856999999999978,
+				"VF7": 21.294999999999995
 			},
 			"classes": {
 				"dan": "INF",
 				"vfClass": "IMPERIAL_II"
 			},
-			"mostRecentScoreTimeAchieved": 1787281535000,
-			"totalScores": 27746,
+			"mostRecentScoreTimeAchieved": 1790313705000,
+			"totalScores": 28473,
 			"rankingData": {
 				"VF6": {
-					"ranking": 27,
-					"outOf": 1570
+					"ranking": 28,
+					"outOf": 1600
 				},
 				"VF7": {
-					"ranking": 28,
-					"outOf": 1570
+					"ranking": 29,
+					"outOf": 1600
 				}
 			},
-			"playtime": 6605052232
+			"playtime": 6783307232
 		},
 		{
 			"id": 1552,
 			"name": "eclair",
 			"ratings": {
-				"VF6": 19.893,
-				"VF7": 20.252000000000006
+				"VF6": 19.904999999999998,
+				"VF7": 20.264999999999997
 			},
 			"classes": {
 				"dan": "INF",
 				"vfClass": "IMPERIAL_I"
 			},
-			"mostRecentScoreTimeAchieved": 1787293728000,
-			"totalScores": 25937,
+			"mostRecentScoreTimeAchieved": 1789962321000,
+			"totalScores": 26545,
 			"rankingData": {
 				"VF6": {
-					"ranking": 160,
-					"outOf": 1570
+					"ranking": 163,
+					"outOf": 1600
 				},
 				"VF7": {
 					"ranking": 162,
-					"outOf": 1570
+					"outOf": 1600
 				}
 			},
-			"playtime": 5154997029
+			"playtime": 5257677029
 		},
 		{
 			"id": 2024,
 			"name": "ItzFishy",
 			"ratings": {
-				"VF6": 19.652000000000015,
-				"VF7": 20.033000000000005
+				"VF6": 19.654000000000014,
+				"VF7": 20.064
 			},
 			"classes": {
 				"dan": "INF",
 				"vfClass": "IMPERIAL_I"
 			},
-			"mostRecentScoreTimeAchieved": 1780960377000,
-			"totalScores": 3618,
+			"mostRecentScoreTimeAchieved": 1790133557000,
+			"totalScores": 3790,
 			"rankingData": {
 				"VF6": {
-					"ranking": 200,
-					"outOf": 1570
+					"ranking": 203,
+					"outOf": 1600
 				},
 				"VF7": {
-					"ranking": 199,
-					"outOf": 1570
+					"ranking": 189,
+					"outOf": 1600
 				}
 			},
-			"playtime": 842309393
+			"playtime": 892587393
 		},
 		{
 			"id": 1085,
@@ -91,12 +91,12 @@
 			"totalScores": 4266,
 			"rankingData": {
 				"VF6": {
-					"ranking": 352,
-					"outOf": 1570
+					"ranking": 354,
+					"outOf": 1600
 				},
 				"VF7": {
-					"ranking": 358,
-					"outOf": 1570
+					"ranking": 361,
+					"outOf": 1600
 				}
 			},
 			"playtime": 1060251097
@@ -115,12 +115,12 @@
 			"totalScores": 94,
 			"rankingData": {
 				"VF6": {
-					"ranking": 1294,
-					"outOf": 1570
+					"ranking": 1316,
+					"outOf": 1600
 				},
 				"VF7": {
-					"ranking": 1294,
-					"outOf": 1570
+					"ranking": 1316,
+					"outOf": 1600
 				}
 			},
 			"playtime": 27890000
@@ -130,22 +130,22 @@
 			"name": "Rythmik",
 			"ratings": {
 				"VF6": 20.664000000000005,
-				"VF7": 21.083000000000006
+				"VF7": 21.105000000000015
 			},
 			"classes": {
 				"dan": "INF",
 				"vfClass": "IMPERIAL_II"
 			},
 			"mostRecentScoreTimeAchieved": 1784779784000,
-			"totalScores": 11660,
+			"totalScores": 11691,
 			"rankingData": {
 				"VF6": {
-					"ranking": 44,
-					"outOf": 1570
+					"ranking": 48,
+					"outOf": 1600
 				},
 				"VF7": {
 					"ranking": 40,
-					"outOf": 1570
+					"outOf": 1600
 				}
 			},
 			"playtime": 3049320143
@@ -154,26 +154,26 @@
 			"id": 397,
 			"name": "The_Manwich",
 			"ratings": {
-				"VF6": 20.611000000000015,
-				"VF7": 20.762999999999987
+				"VF6": 20.620000000000022,
+				"VF7": 20.789999999999996
 			},
 			"classes": {
 				"dan": "INF",
 				"vfClass": "IMPERIAL_I"
 			},
-			"mostRecentScoreTimeAchieved": 1787286894000,
-			"totalScores": 6996,
+			"mostRecentScoreTimeAchieved": 1790626106000,
+			"totalScores": 7351,
 			"rankingData": {
 				"VF6": {
-					"ranking": 62,
-					"outOf": 1570
+					"ranking": 61,
+					"outOf": 1600
 				},
 				"VF7": {
-					"ranking": 77,
-					"outOf": 1570
+					"ranking": 74,
+					"outOf": 1600
 				}
 			},
-			"playtime": 1854380000
+			"playtime": 1923122000
 		}
 	]
 }
