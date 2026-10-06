@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1790399752404.25,
+	"lastUpdate": 1791328798509.509,
 	"profiles": [
 		{
 			"id": 1750,
@@ -14,8 +14,8 @@
 			"totalScores": 3,
 			"rankingData": {
 				"naiveSkill": {
-					"ranking": 39,
-					"outOf": 42
+					"ranking": 41,
+					"outOf": 44
 				}
 			},
 			"playtime": 420000
