@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1790792689233.278,
+	"lastUpdate": 1791390181229.7202,
 	"profiles": [
 		{
 			"id": 1751,
@@ -14,8 +14,8 @@
 			"totalScores": 330,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1050,
-					"outOf": 1982
+					"ranking": 1058,
+					"outOf": 2003
 				}
 			},
 			"playtime": 179971000
@@ -34,8 +34,8 @@
 			"totalScores": 3425,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 543,
-					"outOf": 1982
+					"ranking": 547,
+					"outOf": 2003
 				}
 			},
 			"playtime": 1256993000
@@ -44,22 +44,22 @@
 			"id": 2024,
 			"name": "ItzFishy",
 			"ratings": {
-				"naiveRating": 17.33
+				"naiveRating": 17.35
 			},
 			"classes": {
 				"dan": "DAN_INFINITE",
 				"colour": "RAINBOW_EX_II",
 				"emblem": "DAN_IV"
 			},
-			"mostRecentScoreTimeAchieved": 1790398955000,
-			"totalScores": 6122,
+			"mostRecentScoreTimeAchieved": 1791264060000,
+			"totalScores": 6296,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 63,
-					"outOf": 1982
+					"ranking": 60,
+					"outOf": 2003
 				}
 			},
-			"playtime": 1709468000
+			"playtime": 1750210000
 		},
 		{
 			"id": 1085,
@@ -74,8 +74,8 @@
 			"totalScores": 58,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1672,
-					"outOf": 1982
+					"ranking": 1693,
+					"outOf": 2003
 				}
 			},
 			"playtime": 15768000
@@ -94,8 +94,8 @@
 			"totalScores": 3129,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 355,
-					"outOf": 1982
+					"ranking": 357,
+					"outOf": 2003
 				}
 			},
 			"playtime": 814827000
@@ -111,15 +111,15 @@
 				"colour": "RAINBOW_EX_III",
 				"emblem": "DAN_V"
 			},
-			"mostRecentScoreTimeAchieved": 1790744461000,
-			"totalScores": 16239,
+			"mostRecentScoreTimeAchieved": 1791348020000,
+			"totalScores": 16431,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 19,
-					"outOf": 1982
+					"outOf": 2003
 				}
 			},
-			"playtime": 1606682000
+			"playtime": 1649091000
 		},
 		{
 			"id": 397,
@@ -134,8 +134,8 @@
 			"totalScores": 1054,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 476,
-					"outOf": 1982
+					"ranking": 480,
+					"outOf": 2003
 				}
 			},
 			"playtime": 488836381
