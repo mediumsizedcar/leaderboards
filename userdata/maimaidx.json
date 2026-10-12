@@ -1,11 +1,11 @@
 {
-	"lastUpdate": 1790686113843.042,
+	"lastUpdate": 1791823781686.356,
 	"profiles": [
 		{
 			"id": 2024,
 			"name": "ItzFishy",
 			"ratings": {
-				"naiveRate": 16198
+				"naiveRate": 16206
 			},
 			"classes": {
 				"dan": "SHINDAN_8",
@@ -13,14 +13,14 @@
 				"matchingClass": "SSS5"
 			},
 			"mostRecentScoreTimeAchieved": 1786459358000,
-			"totalScores": 6377,
+			"totalScores": 6435,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 122,
-					"outOf": 1655
+					"ranking": 128,
+					"outOf": 1715
 				}
 			},
-			"playtime": 2121133000
+			"playtime": 2128411000
 		},
 		{
 			"id": 1085,
@@ -35,8 +35,8 @@
 			"totalScores": 28,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 1535,
-					"outOf": 1655
+					"ranking": 1593,
+					"outOf": 1715
 				}
 			},
 			"playtime": 15066000
@@ -45,49 +45,49 @@
 			"id": 1750,
 			"name": "ryona",
 			"ratings": {
-				"naiveRate": 15421
+				"naiveRate": 15417
 			},
 			"classes": {
 				"dan": "DAN_10",
 				"colour": "RAINBOW_II",
 				"matchingClass": "SS4"
 			},
-			"mostRecentScoreTimeAchieved": 1777753732000,
-			"totalScores": 3751,
+			"mostRecentScoreTimeAchieved": 1777754499000,
+			"totalScores": 3803,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 383,
-					"outOf": 1655
+					"ranking": 393,
+					"outOf": 1715
 				}
 			},
-			"playtime": 973473000
+			"playtime": 981049000
 		},
 		{
 			"id": 1703,
 			"name": "Rythmik",
 			"ratings": {
-				"naiveRate": 15312
+				"naiveRate": 15365
 			},
 			"classes": {
 				"dan": "SHINDAN_3",
 				"colour": "RAINBOW_II",
 				"matchingClass": "S4"
 			},
-			"mostRecentScoreTimeAchieved": 1779846960000,
-			"totalScores": 1002,
+			"mostRecentScoreTimeAchieved": 1790904780000,
+			"totalScores": 1076,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 432,
-					"outOf": 1655
+					"ranking": 424,
+					"outOf": 1715
 				}
 			},
-			"playtime": 292168000
+			"playtime": 301348000
 		},
 		{
 			"id": 397,
 			"name": "The_Manwich",
 			"ratings": {
-				"naiveRate": 15353
+				"naiveRate": 15351
 			},
 			"classes": {
 				"dan": "SHINDAN_2",
@@ -95,14 +95,14 @@
 				"matchingClass": "SS5"
 			},
 			"mostRecentScoreTimeAchieved": 1788132480000,
-			"totalScores": 1246,
+			"totalScores": 1305,
 			"rankingData": {
 				"naiveRate": {
-					"ranking": 415,
-					"outOf": 1655
+					"ranking": 426,
+					"outOf": 1715
 				}
 			},
-			"playtime": 210300000
+			"playtime": 211380000
 		}
 	]
 }
