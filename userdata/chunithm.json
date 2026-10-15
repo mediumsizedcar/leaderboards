@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1791390181229.7202,
+	"lastUpdate": 1792045429616.2268,
 	"profiles": [
 		{
 			"id": 1751,
@@ -14,8 +14,8 @@
 			"totalScores": 330,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1058,
-					"outOf": 2003
+					"ranking": 1066,
+					"outOf": 2051
 				}
 			},
 			"playtime": 179971000
@@ -34,8 +34,8 @@
 			"totalScores": 3425,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 547,
-					"outOf": 2003
+					"ranking": 548,
+					"outOf": 2051
 				}
 			},
 			"playtime": 1256993000
@@ -51,15 +51,15 @@
 				"colour": "RAINBOW_EX_II",
 				"emblem": "DAN_IV"
 			},
-			"mostRecentScoreTimeAchieved": 1791264060000,
-			"totalScores": 6296,
+			"mostRecentScoreTimeAchieved": 1792021050000,
+			"totalScores": 6419,
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 60,
-					"outOf": 2003
+					"outOf": 2051
 				}
 			},
-			"playtime": 1750210000
+			"playtime": 1790575000
 		},
 		{
 			"id": 1085,
@@ -74,8 +74,8 @@
 			"totalScores": 58,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1693,
-					"outOf": 2003
+					"ranking": 1722,
+					"outOf": 2051
 				}
 			},
 			"playtime": 15768000
@@ -94,8 +94,8 @@
 			"totalScores": 3129,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 357,
-					"outOf": 2003
+					"ranking": 359,
+					"outOf": 2051
 				}
 			},
 			"playtime": 814827000
@@ -104,22 +104,22 @@
 			"id": 1703,
 			"name": "Rythmik",
 			"ratings": {
-				"naiveRating": 17.52
+				"naiveRating": 17.53
 			},
 			"classes": {
 				"dan": "DAN_INFINITE",
 				"colour": "RAINBOW_EX_III",
 				"emblem": "DAN_V"
 			},
-			"mostRecentScoreTimeAchieved": 1791348020000,
-			"totalScores": 16431,
+			"mostRecentScoreTimeAchieved": 1792029839000,
+			"totalScores": 16684,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 19,
-					"outOf": 2003
+					"ranking": 18,
+					"outOf": 2051
 				}
 			},
-			"playtime": 1649091000
+			"playtime": 1718266000
 		},
 		{
 			"id": 397,
@@ -134,8 +134,8 @@
 			"totalScores": 1054,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 480,
-					"outOf": 2003
+					"ranking": 485,
+					"outOf": 2051
 				}
 			},
 			"playtime": 488836381
