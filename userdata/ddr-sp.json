@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1791997436903.145,
+	"lastUpdate": 1792126832655.1052,
 	"profiles": [
 		{
 			"id": 1085,
@@ -15,7 +15,7 @@
 			"rankingData": {
 				"flareSkill": {
 					"ranking": 4,
-					"outOf": 113
+					"outOf": 114
 				}
 			},
 			"playtime": 366667000
@@ -33,8 +33,8 @@
 			"totalScores": 52,
 			"rankingData": {
 				"flareSkill": {
-					"ranking": 66,
-					"outOf": 113
+					"ranking": 67,
+					"outOf": 114
 				}
 			},
 			"playtime": 19080000
