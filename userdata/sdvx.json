@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1792584901869.75,
+	"lastUpdate": 1792786670044.6921,
 	"profiles": [
 		{
 			"id": 1751,
@@ -91,7 +91,7 @@
 			"totalScores": 4266,
 			"rankingData": {
 				"VF6": {
-					"ranking": 360,
+					"ranking": 361,
 					"outOf": 1623
 				},
 				"VF7": {
@@ -115,11 +115,11 @@
 			"totalScores": 94,
 			"rankingData": {
 				"VF6": {
-					"ranking": 1332,
+					"ranking": 1333,
 					"outOf": 1623
 				},
 				"VF7": {
-					"ranking": 1332,
+					"ranking": 1333,
 					"outOf": 1623
 				}
 			},
@@ -140,11 +140,11 @@
 			"totalScores": 11708,
 			"rankingData": {
 				"VF6": {
-					"ranking": 50,
+					"ranking": 51,
 					"outOf": 1623
 				},
 				"VF7": {
-					"ranking": 42,
+					"ranking": 43,
 					"outOf": 1623
 				}
 			},
