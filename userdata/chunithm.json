@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1793917341559.368,
+	"lastUpdate": 1794061340297.218,
 	"profiles": [
 		{
 			"id": 1751,
@@ -14,8 +14,8 @@
 			"totalScores": 330,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1092,
-					"outOf": 2139
+					"ranking": 1093,
+					"outOf": 2146
 				}
 			},
 			"playtime": 179971000
@@ -35,7 +35,7 @@
 			"rankingData": {
 				"naiveRating": {
 					"ranking": 564,
-					"outOf": 2139
+					"outOf": 2146
 				}
 			},
 			"playtime": 1256993000
@@ -44,7 +44,7 @@
 			"id": 2024,
 			"name": "ItzFishy",
 			"ratings": {
-				"naiveRating": 17.35
+				"naiveRating": 17.34
 			},
 			"classes": {
 				"dan": "DAN_INFINITE",
@@ -55,8 +55,8 @@
 			"totalScores": 6419,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 64,
-					"outOf": 2139
+					"ranking": 67,
+					"outOf": 2146
 				}
 			},
 			"playtime": 1790575000
@@ -74,8 +74,8 @@
 			"totalScores": 58,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 1789,
-					"outOf": 2139
+					"ranking": 1793,
+					"outOf": 2146
 				}
 			},
 			"playtime": 15768000
@@ -94,8 +94,8 @@
 			"totalScores": 3129,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 367,
-					"outOf": 2139
+					"ranking": 366,
+					"outOf": 2146
 				}
 			},
 			"playtime": 814827000
@@ -104,22 +104,22 @@
 			"id": 1703,
 			"name": "Rythmik",
 			"ratings": {
-				"naiveRating": 17.53
+				"naiveRating": 17.52
 			},
 			"classes": {
 				"dan": "DAN_INFINITE",
 				"colour": "RAINBOW_EX_III",
 				"emblem": "DAN_V"
 			},
-			"mostRecentScoreTimeAchieved": 1793856033000,
-			"totalScores": 16971,
+			"mostRecentScoreTimeAchieved": 1794012996000,
+			"totalScores": 16995,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 19,
-					"outOf": 2139
+					"ranking": 21,
+					"outOf": 2146
 				}
 			},
-			"playtime": 1789477000
+			"playtime": 1799652000
 		},
 		{
 			"id": 397,
@@ -134,8 +134,8 @@
 			"totalScores": 1054,
 			"rankingData": {
 				"naiveRating": {
-					"ranking": 502,
-					"outOf": 2139
+					"ranking": 501,
+					"outOf": 2146
 				}
 			},
 			"playtime": 488836381
