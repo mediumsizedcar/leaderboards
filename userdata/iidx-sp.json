@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1793808235766.4949,
+	"lastUpdate": 1794607426255.97,
 	"profiles": [
 		{
 			"id": 1750,
@@ -15,20 +15,20 @@
 			"totalScores": 1,
 			"rankingData": {
 				"ktLampRating": {
-					"ranking": 1174,
-					"outOf": 1225
+					"ranking": 1183,
+					"outOf": 1233
 				},
 				"ktLampRatingHC": {
-					"ranking": 1035,
-					"outOf": 1225
+					"ranking": 1040,
+					"outOf": 1233
 				},
 				"ktLampRatingEXHC": {
-					"ranking": 997,
-					"outOf": 1225
+					"ranking": 1002,
+					"outOf": 1233
 				},
 				"BPI": {
-					"ranking": 1225,
-					"outOf": 1225
+					"ranking": 1233,
+					"outOf": 1233
 				}
 			},
 			"playtime": 0
@@ -47,20 +47,20 @@
 			"totalScores": 9,
 			"rankingData": {
 				"ktLampRating": {
-					"ranking": 1132,
-					"outOf": 1225
+					"ranking": 1139,
+					"outOf": 1233
 				},
 				"ktLampRatingHC": {
-					"ranking": 1014,
-					"outOf": 1225
+					"ranking": 1018,
+					"outOf": 1233
 				},
 				"ktLampRatingEXHC": {
-					"ranking": 997,
-					"outOf": 1225
+					"ranking": 1002,
+					"outOf": 1233
 				},
 				"BPI": {
-					"ranking": 1225,
-					"outOf": 1225
+					"ranking": 1233,
+					"outOf": 1233
 				}
 			},
 			"playtime": 2040000
@@ -69,7 +69,7 @@
 			"id": 397,
 			"name": "The_Manwich",
 			"ratings": {
-				"BPI": -8.540002937931671,
+				"BPI": -9.297438652365283,
 				"ktLampRating": 12.385,
 				"ktLampRatingHC": 11.829999999999998,
 				"ktLampRatingEXHC": 10.35
@@ -81,20 +81,20 @@
 			"totalScores": 3375,
 			"rankingData": {
 				"ktLampRating": {
-					"ranking": 345,
-					"outOf": 1225
+					"ranking": 347,
+					"outOf": 1233
 				},
 				"ktLampRatingHC": {
-					"ranking": 369,
-					"outOf": 1225
+					"ranking": 370,
+					"outOf": 1233
 				},
 				"ktLampRatingEXHC": {
 					"ranking": 342,
-					"outOf": 1225
+					"outOf": 1233
 				},
 				"BPI": {
-					"ranking": 352,
-					"outOf": 1225
+					"ranking": 349,
+					"outOf": 1233
 				}
 			},
 			"playtime": 965048813
