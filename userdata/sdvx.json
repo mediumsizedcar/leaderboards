@@ -1,80 +1,80 @@
 {
-	"lastUpdate": 1792786670044.6921,
+	"lastUpdate": 1794622566411.34,
 	"profiles": [
 		{
 			"id": 1751,
 			"name": "Andripula",
 			"ratings": {
-				"VF6": 20.85799999999998,
-				"VF7": 21.31299999999999
+				"VF6": 20.859999999999978,
+				"VF7": 21.314999999999994
 			},
 			"classes": {
 				"dan": "INF",
 				"vfClass": "IMPERIAL_II"
 			},
-			"mostRecentScoreTimeAchieved": 1791429827000,
-			"totalScores": 28798,
+			"mostRecentScoreTimeAchieved": 1794190181000,
+			"totalScores": 29199,
 			"rankingData": {
 				"VF6": {
 					"ranking": 30,
-					"outOf": 1623
+					"outOf": 1651
 				},
 				"VF7": {
-					"ranking": 31,
-					"outOf": 1623
+					"ranking": 30,
+					"outOf": 1651
 				}
 			},
-			"playtime": 6861261232
+			"playtime": 6952012232
 		},
 		{
 			"id": 1552,
 			"name": "eclair",
 			"ratings": {
-				"VF6": 19.94799999999999,
-				"VF7": 20.32199999999998
+				"VF6": 19.95899999999999,
+				"VF7": 20.322999999999983
 			},
 			"classes": {
 				"dan": "INF",
 				"vfClass": "IMPERIAL_I"
 			},
-			"mostRecentScoreTimeAchieved": 1791774109000,
-			"totalScores": 26882,
+			"mostRecentScoreTimeAchieved": 1794085895000,
+			"totalScores": 27197,
 			"rankingData": {
 				"VF6": {
-					"ranking": 161,
-					"outOf": 1623
+					"ranking": 164,
+					"outOf": 1651
 				},
 				"VF7": {
-					"ranking": 150,
-					"outOf": 1623
+					"ranking": 151,
+					"outOf": 1651
 				}
 			},
-			"playtime": 5332207029
+			"playtime": 5399802029
 		},
 		{
 			"id": 2024,
 			"name": "ItzFishy",
 			"ratings": {
-				"VF6": 19.654000000000014,
-				"VF7": 20.064
+				"VF6": 19.734000000000012,
+				"VF7": 20.134999999999994
 			},
 			"classes": {
 				"dan": "INF",
 				"vfClass": "IMPERIAL_I"
 			},
-			"mostRecentScoreTimeAchieved": 1790133557000,
-			"totalScores": 3790,
+			"mostRecentScoreTimeAchieved": 1793851162000,
+			"totalScores": 3952,
 			"rankingData": {
 				"VF6": {
-					"ranking": 205,
-					"outOf": 1623
+					"ranking": 196,
+					"outOf": 1651
 				},
 				"VF7": {
-					"ranking": 193,
-					"outOf": 1623
+					"ranking": 190,
+					"outOf": 1651
 				}
 			},
-			"playtime": 892587393
+			"playtime": 969338393
 		},
 		{
 			"id": 1085,
@@ -91,12 +91,12 @@
 			"totalScores": 4266,
 			"rankingData": {
 				"VF6": {
-					"ranking": 361,
-					"outOf": 1623
+					"ranking": 366,
+					"outOf": 1651
 				},
 				"VF7": {
-					"ranking": 369,
-					"outOf": 1623
+					"ranking": 375,
+					"outOf": 1651
 				}
 			},
 			"playtime": 1060251097
@@ -115,12 +115,12 @@
 			"totalScores": 94,
 			"rankingData": {
 				"VF6": {
-					"ranking": 1333,
-					"outOf": 1623
+					"ranking": 1360,
+					"outOf": 1651
 				},
 				"VF7": {
-					"ranking": 1333,
-					"outOf": 1623
+					"ranking": 1360,
+					"outOf": 1651
 				}
 			},
 			"playtime": 27890000
@@ -141,11 +141,11 @@
 			"rankingData": {
 				"VF6": {
 					"ranking": 51,
-					"outOf": 1623
+					"outOf": 1651
 				},
 				"VF7": {
-					"ranking": 43,
-					"outOf": 1623
+					"ranking": 45,
+					"outOf": 1651
 				}
 			},
 			"playtime": 3051354143
@@ -155,25 +155,25 @@
 			"name": "The_Manwich",
 			"ratings": {
 				"VF6": 20.620000000000022,
-				"VF7": 20.789999999999996
+				"VF7": 20.816999999999997
 			},
 			"classes": {
 				"dan": "INF",
 				"vfClass": "IMPERIAL_I"
 			},
-			"mostRecentScoreTimeAchieved": 1792423916000,
-			"totalScores": 7423,
+			"mostRecentScoreTimeAchieved": 1793120940000,
+			"totalScores": 7486,
 			"rankingData": {
 				"VF6": {
-					"ranking": 62,
-					"outOf": 1623
+					"ranking": 63,
+					"outOf": 1651
 				},
 				"VF7": {
-					"ranking": 76,
-					"outOf": 1623
+					"ranking": 74,
+					"outOf": 1651
 				}
 			},
-			"playtime": 1926728000
+			"playtime": 1940769000
 		}
 	]
 }
