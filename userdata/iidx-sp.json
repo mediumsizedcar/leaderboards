@@ -1,5 +1,5 @@
 {
-	"lastUpdate": 1795024970022.737,
+	"lastUpdate": 1795147204205.865,
 	"profiles": [
 		{
 			"id": 1750,
@@ -47,7 +47,7 @@
 			"totalScores": 9,
 			"rankingData": {
 				"ktLampRating": {
-					"ranking": 1142,
+					"ranking": 1143,
 					"outOf": 1237
 				},
 				"ktLampRatingHC": {
@@ -69,35 +69,35 @@
 			"id": 397,
 			"name": "The_Manwich",
 			"ratings": {
-				"BPI": -9.297438652365283,
-				"ktLampRating": 12.385,
-				"ktLampRatingHC": 11.829999999999998,
-				"ktLampRatingEXHC": 10.35
+				"BPI": -7.340999999999998,
+				"ktLampRating": 12.395,
+				"ktLampRatingHC": 12.030000000000005,
+				"ktLampRatingEXHC": 10.770000000000001
 			},
 			"classes": {
 				"dan": "DAN_10"
 			},
-			"mostRecentScoreTimeAchieved": 1768944812814,
-			"totalScores": 3375,
+			"mostRecentScoreTimeAchieved": 1795056780000,
+			"totalScores": 3718,
 			"rankingData": {
 				"ktLampRating": {
-					"ranking": 350,
+					"ranking": 348,
 					"outOf": 1237
 				},
 				"ktLampRatingHC": {
-					"ranking": 373,
+					"ranking": 336,
 					"outOf": 1237
 				},
 				"ktLampRatingEXHC": {
-					"ranking": 343,
+					"ranking": 314,
 					"outOf": 1237
 				},
 				"BPI": {
-					"ranking": 351,
+					"ranking": 330,
 					"outOf": 1237
 				}
 			},
-			"playtime": 965048813
+			"playtime": 1062548813
 		}
 	]
 }
